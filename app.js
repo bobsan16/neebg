@@ -3,7 +3,7 @@ const map = L.map('map').setView([42.7339, 25.4858], 7.5);
 
 // Добавяне на базова карта (светъл и изчистен дизайн от CartoDB)
 L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors | Данни: <a href="https://data.egov.bg/organisation/dataset/b56288b6-25aa-4049-9aa6-de2cd4cdabf8" target="_blank">Портал за отворени данни</a>'
 }).addTo(map);
 
 let geojsonLayer;
@@ -80,15 +80,25 @@ function onEachFeature(feature, layer) {
             
             if (munData) {
                 // Избираме броя явили се спрямо това кой предмет гледаме в момента
-                const studentsCount = (currentSubject === 'bel_score') ? munData.students_bel : munData.students_math;
+                //const studentsCount = (currentSubject === 'bel_score') ? munData.students_bel : munData.students_math;
                 
-                detailsHtml = `
-                    <h3>общ. ${munNameGeo}</h3>
-                    <p><b>Учебна година:</b> ${selectedYear}</p>
-                    <p><b>Средни точки БЕЛ:</b> <span style="color:#0652dd; font-weight:bold;">${munData.bel_score} т.</span></p>
-                    <p><b>Средни точки Математика:</b> <span style="color:#ea2027; font-weight:bold;">${munData.mat_score} т.</span></p>
-                    <p><b>Явили се ученици на изпита:</b> ${studentsCount}</p>
-                `;
+                if (currentSubject === 'bel_score') {
+
+                    detailsHtml = `
+                        <h3>общ. ${munNameGeo}</h3>
+                        <p><b>Учебна година:</b> ${selectedYear}</p>
+                        <p><b>Средни точки БЕЛ:</b> <span style="color:#0652dd; font-weight:bold;">${munData.bel_score} т.</span></p>
+                        <p><b>Явили се ученици на БЕЛ:</b> ${munData.students_bel}</p>
+                    `;
+                } else if (currentSubject === 'mat_score') {
+
+                    detailsHtml = `
+                        <h3>общ. ${munNameGeo}</h3>
+                        <p><b>Учебна година:</b> ${selectedYear}</p>
+                        <p><b>Средни точки Математика:</b> <span style="color:#ea2027; font-weight:bold;">${munData.mat_score} т.</span></p>
+                        <p><b>Явили се ученици на Математика:</b> ${munData.students_math}</p>
+                    `;
+                }
             } else {
                 detailsHtml = `
                     <h3>общ. ${munNameGeo}</h3>
@@ -117,8 +127,18 @@ async function initDashboard() {
         const geoData = await geoResponse.json();
 
         // Визуализиране на GeoJSON слоя върху картата
+        //geojsonLayer = L.geoJSON(geoData, {
+        //   style: styleFeature,
+        //    onEachFeature: onEachFeature
+        //}).addTo(map);
+
         geojsonLayer = L.geoJSON(geoData, {
-           style: styleFeature,
+            // ФИЛТЪР: Казваме на Leaflet да пропуска точките (Пиновете) и да рисува САМО полигоните
+            filter: function(feature) {
+                // Рисува обекта само ако НЕ Е точка (т.е. е Polygon или MultiPolygon)
+                return feature.geometry.type !== "Point"; 
+            },
+            style: styleFeature,
             onEachFeature: onEachFeature
         }).addTo(map);
 
@@ -151,27 +171,32 @@ function createLegend() {
     
     legend.onAdd = function () {
         const div = L.DomUtil.create('div', 'info legend');
+        
+        // Масив с долните граници за всяка категория точки
         const grades = [0, 35, 50, 65, 80];
+        
+        // Масив с точните текстови описания, съответстващи на нивата
         const labels = [
-            'Няма налични данни',
-            'Под 35 т. (Слаби резултати)',
-            '35 - 50 т. (Средни резултати)',
-            '50 - 65 т. (Добри резултати)',
-            '65 - 80 т. (Отлични резултати)',
-            'Над 80 т. (Топ резултати)'
+            'Под 35 т.',
+            '35 &ndash; 50 т.',
+            '50 &ndash; 65 т.',
+            '65 &ndash; 80 т.',
+            'Над 80 т.'
         ];
 
         div.innerHTML += '<h4>Среден успех (точки)</h4>';
         
-        // Ред за липсващи данни
-        div.innerHTML += `<i style="background:${getColor(0)}"></i> ${labels[0]}<br>`;
+        // 1. Първо добавяме ръчно реда за нула точки (липсващи данни)
+        div.innerHTML += `<i style="background:${getColor(0)}"></i> Няма налични данни<br>`;
         
-        // Цикъл за генериране на цветните квадратчета
-        for (let i = 1; i < grades.length; i++) {
-            div.innerHTML += `<i style="background:${getColor(grades[i] + 1)}"></i> ${grades[i]} &ndash; ${grades[i+1]} т.<br>`;
+        // 2. Въртим чист цикъл по всички налични категории в масива
+        for (let i = 0; i < grades.length; i++) {
+            // Подаваме малко по-висока стойност от долната граница (+1), 
+            // за да може getColor() да хване правилния цвят за този диапазон
+            const currentLayerColor = getColor(grades[i] + 1);
+            
+            div.innerHTML += `<i style="background:${currentLayerColor}"></i> ${labels[i]}<br>`;
         }
-        // Ред за най-високата скала
-        div.innerHTML += `<i style="background:${getColor(85)}"></i> ${labels[5]}<br>`;
         
         return div;
     };
