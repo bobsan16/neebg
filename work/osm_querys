@@ -1,0 +1,12 @@
+https://overpass-turbo.eu/
+
+
+[out:json][timeout:120];
+// Търсим територията на България
+area["ISO3166-1"="BG"]->.bulgaria;
+// Взимаме САМО границите от ниво 5
+relation["admin_level"="5"]["boundary"="administrative"](area.bulgaria);
+// Извеждаме резултата
+out body;
+>;
+out skel qt;
