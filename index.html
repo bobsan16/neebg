@@ -118,13 +118,34 @@
             #map {
                 height: 50vh;
             }
-        }
+            
+             /* Намаляваме размера на легендата */
+            .info.legend {
+                font-size: 10px !important;
+                padding: 4px !important;
+                max-width: 130px;
+                background: rgba(255, 255, 255, 0.85) !important;
+            }
+
+            /* Намалени квадратчета */
+            .info.legend i {
+                width: 12px !important;
+                height: 12px !important;
+                margin-right: 4px !important;
+            }
+
+                .legend h4 {
+                font-size: 12px !important;
+                margin-bottom: 4px !important;
+            }
+
+            }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>Резултати от НВО по Общини в България</h1>
+    <h1>Резултати от НВО за VII клас по Общини в България</h1>
 </header>
 
 <div class="container">
@@ -134,7 +155,12 @@
             <select id="yearSelect" onchange="updateDashboard()">
                 <option value="2024-2025">2024-2025 г.</option>
                 <option value="2023-2024">2023-2024 г.</option>
-                </select>
+                <option value="2022-2023">2022-2023 г.</option>
+                <option value="2021-2022">2021-2022 г.</option>
+                <option value="2020-2021">2020-2021 г.</option>
+                <option value="2019-2020">2019-2020 г.</option>
+                <option value="2018-2019">2018-2019 г.</option>
+            </select>
         </div>
         
         <div class="control-group">

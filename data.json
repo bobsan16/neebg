@@ -1,4 +1,7958 @@
 {
+  "2018-2019": {
+    "АВРЕН": {
+      "bel_score": 28.54,
+      "mat_score": 19.27,
+      "students_bel": 104,
+      "students_math": 102
+    },
+    "АЙТОС": {
+      "bel_score": 34.23,
+      "mat_score": 26.24,
+      "students_bel": 259,
+      "students_math": 259
+    },
+    "АКСАКОВО": {
+      "bel_score": 36.02,
+      "mat_score": 20.05,
+      "students_bel": 145,
+      "students_math": 144
+    },
+    "АЛФАТАР": {
+      "bel_score": 20.17,
+      "mat_score": 15.1,
+      "students_bel": 9,
+      "students_math": 10
+    },
+    "АНТОН": {
+      "bel_score": 48.75,
+      "mat_score": 52.37,
+      "students_bel": 10,
+      "students_math": 10
+    },
+    "АНТОНОВО": {
+      "bel_score": 36.38,
+      "mat_score": 44.11,
+      "students_bel": 25,
+      "students_math": 25
+    },
+    "АПРИЛЦИ": {
+      "bel_score": 51.25,
+      "mat_score": 26.9,
+      "students_bel": 16,
+      "students_math": 16
+    },
+    "АРДИНО": {
+      "bel_score": 54.9,
+      "mat_score": 33.84,
+      "students_bel": 61,
+      "students_math": 61
+    },
+    "АСЕНОВГРАД": {
+      "bel_score": 48.17,
+      "mat_score": 30.53,
+      "students_bel": 502,
+      "students_math": 501
+    },
+    "БАЛЧИК": {
+      "bel_score": 40.79,
+      "mat_score": 20.54,
+      "students_bel": 126,
+      "students_math": 126
+    },
+    "БАНИТЕ": {
+      "bel_score": 59.45,
+      "mat_score": 53.02,
+      "students_bel": 21,
+      "students_math": 21
+    },
+    "БАНСКО": {
+      "bel_score": 59.98,
+      "mat_score": 34.78,
+      "students_bel": 90,
+      "students_math": 90
+    },
+    "БАТАК": {
+      "bel_score": 47.78,
+      "mat_score": 26.52,
+      "students_bel": 26,
+      "students_math": 25
+    },
+    "БЕЛЕНЕ": {
+      "bel_score": 47.19,
+      "mat_score": 23.17,
+      "students_bel": 63,
+      "students_math": 63
+    },
+    "БЕЛИЦА": {
+      "bel_score": 47.9,
+      "mat_score": 46.72,
+      "students_bel": 103,
+      "students_math": 103
+    },
+    "БЕЛОВО": {
+      "bel_score": 44.62,
+      "mat_score": 23.45,
+      "students_bel": 49,
+      "students_math": 49
+    },
+    "БЕЛОГРАДЧИК": {
+      "bel_score": 27.5,
+      "mat_score": 28.54,
+      "students_bel": 38,
+      "students_math": 36
+    },
+    "БЕЛОСЛАВ": {
+      "bel_score": 45.67,
+      "mat_score": 22.94,
+      "students_bel": 74,
+      "students_math": 74
+    },
+    "БЕРКОВИЦА": {
+      "bel_score": 44.88,
+      "mat_score": 23.35,
+      "students_bel": 107,
+      "students_math": 107
+    },
+    "БЛАГОЕВГРАД": {
+      "bel_score": 58.93,
+      "mat_score": 37.76,
+      "students_bel": 613,
+      "students_math": 615
+    },
+    "БОБОВ ДОЛ": {
+      "bel_score": 40.71,
+      "mat_score": 20.6,
+      "students_bel": 37,
+      "students_math": 36
+    },
+    "БОБОШЕВО": {
+      "bel_score": 57.59,
+      "mat_score": 30.16,
+      "students_bel": 11,
+      "students_math": 11
+    },
+    "БОЖУРИЩЕ": {
+      "bel_score": 42.79,
+      "mat_score": 23.45,
+      "students_bel": 71,
+      "students_math": 71
+    },
+    "БОЙНИЦА": {
+      "bel_score": 23.0,
+      "mat_score": 12.4,
+      "students_bel": 9,
+      "students_math": 10
+    },
+    "БОЙЧИНОВЦИ": {
+      "bel_score": 37.46,
+      "mat_score": 17.9,
+      "students_bel": 52,
+      "students_math": 50
+    },
+    "БОЛЯРОВО": {
+      "bel_score": 29.63,
+      "mat_score": 24.93,
+      "students_bel": 24,
+      "students_math": 24
+    },
+    "БОРИНО": {
+      "bel_score": 68.28,
+      "mat_score": 29.25,
+      "students_bel": 23,
+      "students_math": 23
+    },
+    "БОРОВАН": {
+      "bel_score": 30.96,
+      "mat_score": 15.72,
+      "students_bel": 40,
+      "students_math": 40
+    },
+    "БОРОВО": {
+      "bel_score": 36.27,
+      "mat_score": 25.86,
+      "students_bel": 29,
+      "students_math": 27
+    },
+    "БОТЕВГРАД": {
+      "bel_score": 43.59,
+      "mat_score": 27.62,
+      "students_bel": 259,
+      "students_math": 265
+    },
+    "БРАТЯ ДАСКАЛОВИ": {
+      "bel_score": 27.74,
+      "mat_score": 20.24,
+      "students_bel": 59,
+      "students_math": 58
+    },
+    "БРАЦИГОВО": {
+      "bel_score": 32.03,
+      "mat_score": 16.91,
+      "students_bel": 49,
+      "students_math": 53
+    },
+    "БРЕГОВО": {
+      "bel_score": 50.46,
+      "mat_score": 34.79,
+      "students_bel": 13,
+      "students_math": 13
+    },
+    "БРЕЗНИК": {
+      "bel_score": 48.19,
+      "mat_score": 26.67,
+      "students_bel": 32,
+      "students_math": 32
+    },
+    "БРЕЗОВО": {
+      "bel_score": 26.19,
+      "mat_score": 15.73,
+      "students_bel": 50,
+      "students_math": 49
+    },
+    "БРУСАРЦИ": {
+      "bel_score": 28.96,
+      "mat_score": 20.78,
+      "students_bel": 35,
+      "students_math": 35
+    },
+    "БУРГАС": {
+      "bel_score": 55.6,
+      "mat_score": 38.25,
+      "students_bel": 1899,
+      "students_math": 1898
+    },
+    "БЯЛА": {
+      "bel_score": 33.06,
+      "mat_score": 18.78,
+      "students_bel": 103,
+      "students_math": 101
+    },
+    "БЯЛА СЛАТИНА": {
+      "bel_score": 30.99,
+      "mat_score": 18.78,
+      "students_bel": 179,
+      "students_math": 182
+    },
+    "ВАРНА": {
+      "bel_score": 57.52,
+      "mat_score": 37.72,
+      "students_bel": 2815,
+      "students_math": 2813
+    },
+    "ВЕЛИКИ ПРЕСЛАВ": {
+      "bel_score": 32.91,
+      "mat_score": 16.88,
+      "students_bel": 60,
+      "students_math": 60
+    },
+    "ВЕЛИКО ТЪРНОВО": {
+      "bel_score": 50.14,
+      "mat_score": 28.04,
+      "students_bel": 651,
+      "students_math": 647
+    },
+    "ВЕЛИНГРАД": {
+      "bel_score": 50.73,
+      "mat_score": 33.45,
+      "students_bel": 320,
+      "students_math": 318
+    },
+    "ВЕНЕЦ": {
+      "bel_score": 25.85,
+      "mat_score": 21.97,
+      "students_bel": 47,
+      "students_math": 47
+    },
+    "ВЕТОВО": {
+      "bel_score": 29.58,
+      "mat_score": 20.25,
+      "students_bel": 86,
+      "students_math": 86
+    },
+    "ВЕТРИНО": {
+      "bel_score": 41.54,
+      "mat_score": 14.9,
+      "students_bel": 24,
+      "students_math": 24
+    },
+    "ВИДИН": {
+      "bel_score": 48.37,
+      "mat_score": 23.27,
+      "students_bel": 425,
+      "students_math": 426
+    },
+    "ВРАЦА": {
+      "bel_score": 48.85,
+      "mat_score": 25.67,
+      "students_bel": 553,
+      "students_math": 551
+    },
+    "ВЪЛЧЕДРЪМ": {
+      "bel_score": 34.22,
+      "mat_score": 23.98,
+      "students_bel": 64,
+      "students_math": 63
+    },
+    "ВЪЛЧИ ДОЛ": {
+      "bel_score": 25.36,
+      "mat_score": 17.37,
+      "students_bel": 73,
+      "students_math": 71
+    },
+    "ВЪРБИЦА": {
+      "bel_score": 26.82,
+      "mat_score": 18.27,
+      "students_bel": 74,
+      "students_math": 75
+    },
+    "ВЪРШЕЦ": {
+      "bel_score": 28.77,
+      "mat_score": 20.29,
+      "students_bel": 43,
+      "students_math": 44
+    },
+    "ГАБРОВО": {
+      "bel_score": 57.6,
+      "mat_score": 32.93,
+      "students_bel": 427,
+      "students_math": 426
+    },
+    "ГЕНЕРАЛ ТОШЕВО": {
+      "bel_score": 33.18,
+      "mat_score": 17.31,
+      "students_bel": 82,
+      "students_math": 81
+    },
+    "ГЕОРГИ ДАМЯНОВО": {
+      "bel_score": 47.75,
+      "mat_score": 24.75,
+      "students_bel": 6,
+      "students_math": 6
+    },
+    "ГЛАВИНИЦА": {
+      "bel_score": 40.42,
+      "mat_score": 23.62,
+      "students_bel": 67,
+      "students_math": 69
+    },
+    "ГОДЕЧ": {
+      "bel_score": 48.23,
+      "mat_score": 21.36,
+      "students_bel": 24,
+      "students_math": 25
+    },
+    "ГОРНА МАЛИНА": {
+      "bel_score": 40.0,
+      "mat_score": 19.93,
+      "students_bel": 56,
+      "students_math": 58
+    },
+    "ГОРНА ОРЯХОВИЦА": {
+      "bel_score": 44.8,
+      "mat_score": 21.22,
+      "students_bel": 316,
+      "students_math": 316
+    },
+    "ГОЦЕ ДЕЛЧЕВ": {
+      "bel_score": 54.54,
+      "mat_score": 32.99,
+      "students_bel": 300,
+      "students_math": 300
+    },
+    "ГР.ДОБРИЧ": {
+      "bel_score": 51.85,
+      "mat_score": 28.17,
+      "students_bel": 684,
+      "students_math": 684
+    },
+    "ГРАМАДА": {
+      "bel_score": 14.08,
+      "mat_score": 14.17,
+      "students_bel": 6,
+      "students_math": 6
+    },
+    "ГУЛЯНЦИ": {
+      "bel_score": 32.14,
+      "mat_score": 27.13,
+      "students_bel": 71,
+      "students_math": 73
+    },
+    "ГУРКОВО": {
+      "bel_score": 17.91,
+      "mat_score": 12.82,
+      "students_bel": 38,
+      "students_math": 38
+    },
+    "ГЪЛЪБОВО": {
+      "bel_score": 38.54,
+      "mat_score": 26.22,
+      "students_bel": 85,
+      "students_math": 84
+    },
+    "ГЪРМЕН": {
+      "bel_score": 40.58,
+      "mat_score": 34.8,
+      "students_bel": 123,
+      "students_math": 127
+    },
+    "ДВЕ МОГИЛИ": {
+      "bel_score": 31.17,
+      "mat_score": 19.48,
+      "students_bel": 52,
+      "students_math": 52
+    },
+    "ДЕВИН": {
+      "bel_score": 59.98,
+      "mat_score": 35.6,
+      "students_bel": 59,
+      "students_math": 59
+    },
+    "ДЕВНЯ": {
+      "bel_score": 34.01,
+      "mat_score": 14.82,
+      "students_bel": 58,
+      "students_math": 58
+    },
+    "ДЖЕБЕЛ": {
+      "bel_score": 38.09,
+      "mat_score": 30.87,
+      "students_bel": 71,
+      "students_math": 71
+    },
+    "ДИМИТРОВГРАД": {
+      "bel_score": 35.52,
+      "mat_score": 25.45,
+      "students_bel": 361,
+      "students_math": 362
+    },
+    "ДИМОВО": {
+      "bel_score": 23.95,
+      "mat_score": 16.08,
+      "students_bel": 51,
+      "students_math": 49
+    },
+    "ДОБРИЧ": {
+      "bel_score": 33.83,
+      "mat_score": 23.45,
+      "students_bel": 116,
+      "students_math": 116
+    },
+    "ДОЛНА БАНЯ": {
+      "bel_score": 29.58,
+      "mat_score": 21.57,
+      "students_bel": 37,
+      "students_math": 35
+    },
+    "ДОЛНА МИТРОПОЛИЯ": {
+      "bel_score": 30.24,
+      "mat_score": 20.7,
+      "students_bel": 107,
+      "students_math": 108
+    },
+    "ДОЛНИ ДЪБНИК": {
+      "bel_score": 32.11,
+      "mat_score": 27.08,
+      "students_bel": 74,
+      "students_math": 72
+    },
+    "ДОЛНИ ЧИФЛИК": {
+      "bel_score": 29.53,
+      "mat_score": 18.95,
+      "students_bel": 174,
+      "students_math": 172
+    },
+    "ДОСПАТ": {
+      "bel_score": 54.63,
+      "mat_score": 46.58,
+      "students_bel": 60,
+      "students_math": 60
+    },
+    "ДРАГОМАН": {
+      "bel_score": 48.05,
+      "mat_score": 25.42,
+      "students_bel": 33,
+      "students_math": 33
+    },
+    "ДРЯНОВО": {
+      "bel_score": 51.02,
+      "mat_score": 28.05,
+      "students_bel": 47,
+      "students_math": 47
+    },
+    "ДУЛОВО": {
+      "bel_score": 35.35,
+      "mat_score": 25.27,
+      "students_bel": 237,
+      "students_math": 240
+    },
+    "ДУПНИЦА": {
+      "bel_score": 46.98,
+      "mat_score": 25.7,
+      "students_bel": 380,
+      "students_math": 381
+    },
+    "ДЪЛГОПОЛ": {
+      "bel_score": 29.62,
+      "mat_score": 18.23,
+      "students_bel": 103,
+      "students_math": 101
+    },
+    "ЕЛЕНА": {
+      "bel_score": 32.17,
+      "mat_score": 22.94,
+      "students_bel": 76,
+      "students_math": 76
+    },
+    "ЕЛИН ПЕЛИН": {
+      "bel_score": 43.2,
+      "mat_score": 25.29,
+      "students_bel": 172,
+      "students_math": 170
+    },
+    "ЕЛХОВО": {
+      "bel_score": 29.59,
+      "mat_score": 19.28,
+      "students_bel": 113,
+      "students_math": 111
+    },
+    "ЕТРОПОЛЕ": {
+      "bel_score": 39.53,
+      "mat_score": 28.0,
+      "students_bel": 104,
+      "students_math": 99
+    },
+    "ЗАВЕТ": {
+      "bel_score": 43.59,
+      "mat_score": 33.73,
+      "students_bel": 79,
+      "students_math": 79
+    },
+    "ЗЕМЕН": {
+      "bel_score": 40.36,
+      "mat_score": 23.02,
+      "students_bel": 11,
+      "students_math": 11
+    },
+    "ЗЛАТАРИЦА": {
+      "bel_score": 16.23,
+      "mat_score": 14.13,
+      "students_bel": 30,
+      "students_math": 30
+    },
+    "ЗЛАТИЦА": {
+      "bel_score": 53.51,
+      "mat_score": 33.31,
+      "students_bel": 44,
+      "students_math": 43
+    },
+    "ЗЛАТОГРАД": {
+      "bel_score": 64.42,
+      "mat_score": 38.49,
+      "students_bel": 60,
+      "students_math": 60
+    },
+    "ИВАЙЛОВГРАД": {
+      "bel_score": 40.83,
+      "mat_score": 25.86,
+      "students_bel": 42,
+      "students_math": 42
+    },
+    "ИВАНОВО": {
+      "bel_score": 36.14,
+      "mat_score": 21.23,
+      "students_bel": 34,
+      "students_math": 34
+    },
+    "ИСКЪР": {
+      "bel_score": 36.47,
+      "mat_score": 14.72,
+      "students_bel": 54,
+      "students_math": 54
+    },
+    "ИСПЕРИХ": {
+      "bel_score": 39.59,
+      "mat_score": 36.24,
+      "students_bel": 177,
+      "students_math": 178
+    },
+    "ИХТИМАН": {
+      "bel_score": 35.73,
+      "mat_score": 18.51,
+      "students_bel": 187,
+      "students_math": 188
+    },
+    "КАВАРНА": {
+      "bel_score": 46.67,
+      "mat_score": 28.86,
+      "students_bel": 97,
+      "students_math": 96
+    },
+    "КАЗАНЛЪК": {
+      "bel_score": 39.54,
+      "mat_score": 21.93,
+      "students_bel": 632,
+      "students_math": 629
+    },
+    "КАЙНАРДЖА": {
+      "bel_score": 20.59,
+      "mat_score": 16.85,
+      "students_bel": 44,
+      "students_math": 43
+    },
+    "КАЛОЯНОВО": {
+      "bel_score": 30.28,
+      "mat_score": 19.06,
+      "students_bel": 52,
+      "students_math": 52
+    },
+    "КАМЕНО": {
+      "bel_score": 27.23,
+      "mat_score": 15.76,
+      "students_bel": 58,
+      "students_math": 58
+    },
+    "КАОЛИНОВО": {
+      "bel_score": 28.56,
+      "mat_score": 22.55,
+      "students_bel": 99,
+      "students_math": 99
+    },
+    "КАРЛОВО": {
+      "bel_score": 35.38,
+      "mat_score": 18.03,
+      "students_bel": 430,
+      "students_math": 429
+    },
+    "КАРНОБАТ": {
+      "bel_score": 36.56,
+      "mat_score": 27.28,
+      "students_bel": 198,
+      "students_math": 201
+    },
+    "КАСПИЧАН": {
+      "bel_score": 35.04,
+      "mat_score": 18.89,
+      "students_bel": 60,
+      "students_math": 59
+    },
+    "КИРКОВО": {
+      "bel_score": 49.5,
+      "mat_score": 40.42,
+      "students_bel": 134,
+      "students_math": 134
+    },
+    "КНЕЖА": {
+      "bel_score": 35.56,
+      "mat_score": 23.05,
+      "students_bel": 101,
+      "students_math": 101
+    },
+    "КОВАЧЕВЦИ": {
+      "bel_score": 45.0,
+      "mat_score": 16.13,
+      "students_bel": 2,
+      "students_math": 2
+    },
+    "КОЗЛОДУЙ": {
+      "bel_score": 37.86,
+      "mat_score": 22.63,
+      "students_bel": 201,
+      "students_math": 200
+    },
+    "КОПРИВЩИЦА": {
+      "bel_score": 62.42,
+      "mat_score": 43.22,
+      "students_bel": 13,
+      "students_math": 13
+    },
+    "КОСТЕНЕЦ": {
+      "bel_score": 54.96,
+      "mat_score": 40.52,
+      "students_bel": 108,
+      "students_math": 107
+    },
+    "КОСТИНБРОД": {
+      "bel_score": 49.65,
+      "mat_score": 25.71,
+      "students_bel": 135,
+      "students_math": 134
+    },
+    "КОТЕЛ": {
+      "bel_score": 37.33,
+      "mat_score": 24.54,
+      "students_bel": 162,
+      "students_math": 164
+    },
+    "КОЧЕРИНОВО": {
+      "bel_score": 38.24,
+      "mat_score": 22.34,
+      "students_bel": 19,
+      "students_math": 19
+    },
+    "КРЕСНА": {
+      "bel_score": 52.95,
+      "mat_score": 25.08,
+      "students_bel": 31,
+      "students_math": 30
+    },
+    "КРИВОДОЛ": {
+      "bel_score": 32.29,
+      "mat_score": 13.82,
+      "students_bel": 45,
+      "students_math": 46
+    },
+    "КРИЧИМ": {
+      "bel_score": 26.93,
+      "mat_score": 19.87,
+      "students_bel": 64,
+      "students_math": 60
+    },
+    "КРУМОВГРАД": {
+      "bel_score": 43.26,
+      "mat_score": 28.56,
+      "students_bel": 143,
+      "students_math": 141
+    },
+    "КРУШАРИ": {
+      "bel_score": 18.53,
+      "mat_score": 14.12,
+      "students_bel": 29,
+      "students_math": 29
+    },
+    "КУБРАТ": {
+      "bel_score": 36.26,
+      "mat_score": 20.15,
+      "students_bel": 108,
+      "students_math": 109
+    },
+    "КУКЛЕН": {
+      "bel_score": 61.3,
+      "mat_score": 43.26,
+      "students_bel": 33,
+      "students_math": 33
+    },
+    "КУЛА": {
+      "bel_score": 44.06,
+      "mat_score": 16.3,
+      "students_bel": 16,
+      "students_math": 15
+    },
+    "КЪРДЖАЛИ": {
+      "bel_score": 37.23,
+      "mat_score": 31.44,
+      "students_bel": 573,
+      "students_math": 571
+    },
+    "КЮСТЕНДИЛ": {
+      "bel_score": 45.65,
+      "mat_score": 25.27,
+      "students_bel": 414,
+      "students_math": 413
+    },
+    "ЛЕВСКИ": {
+      "bel_score": 37.03,
+      "mat_score": 24.89,
+      "students_bel": 108,
+      "students_math": 109
+    },
+    "ЛЕСИЧОВО": {
+      "bel_score": 38.08,
+      "mat_score": 30.36,
+      "students_bel": 34,
+      "students_math": 34
+    },
+    "ЛЕТНИЦА": {
+      "bel_score": 28.45,
+      "mat_score": 14.14,
+      "students_bel": 33,
+      "students_math": 35
+    },
+    "ЛОВЕЧ": {
+      "bel_score": 48.57,
+      "mat_score": 31.46,
+      "students_bel": 328,
+      "students_math": 325
+    },
+    "ЛОЗНИЦА": {
+      "bel_score": 26.6,
+      "mat_score": 14.77,
+      "students_bel": 75,
+      "students_math": 75
+    },
+    "ЛОМ": {
+      "bel_score": 34.47,
+      "mat_score": 24.9,
+      "students_bel": 170,
+      "students_math": 170
+    },
+    "ЛУКОВИТ": {
+      "bel_score": 33.21,
+      "mat_score": 28.39,
+      "students_bel": 166,
+      "students_math": 171
+    },
+    "ЛЪКИ": {
+      "bel_score": 56.73,
+      "mat_score": 26.48,
+      "students_bel": 13,
+      "students_math": 13
+    },
+    "ЛЮБИМЕЦ": {
+      "bel_score": 37.72,
+      "mat_score": 36.61,
+      "students_bel": 70,
+      "students_math": 68
+    },
+    "ЛЯСКОВЕЦ": {
+      "bel_score": 39.89,
+      "mat_score": 25.57,
+      "students_bel": 56,
+      "students_math": 56
+    },
+    "МАДАН": {
+      "bel_score": 63.27,
+      "mat_score": 33.55,
+      "students_bel": 76,
+      "students_math": 75
+    },
+    "МАДЖАРОВО": {
+      "bel_score": 5.7,
+      "mat_score": 10.8,
+      "students_bel": 5,
+      "students_math": 5
+    },
+    "МАКРЕШ": {
+      "bel_score": 22.0,
+      "mat_score": 22.22,
+      "students_bel": 9,
+      "students_math": 9
+    },
+    "МАЛКО ТЪРНОВО": {
+      "bel_score": 30.4,
+      "mat_score": 13.15,
+      "students_bel": 26,
+      "students_math": 26
+    },
+    "МАРИЦА": {
+      "bel_score": 46.31,
+      "mat_score": 28.43,
+      "students_bel": 223,
+      "students_math": 216
+    },
+    "МЕДКОВЕЦ": {
+      "bel_score": 37.07,
+      "mat_score": 20.22,
+      "students_bel": 27,
+      "students_math": 28
+    },
+    "МЕЗДРА": {
+      "bel_score": 50.43,
+      "mat_score": 22.54,
+      "students_bel": 135,
+      "students_math": 133
+    },
+    "МИЗИЯ": {
+      "bel_score": 44.82,
+      "mat_score": 21.9,
+      "students_bel": 42,
+      "students_math": 44
+    },
+    "МИНЕРАЛНИ БАНИ": {
+      "bel_score": 41.63,
+      "mat_score": 20.13,
+      "students_bel": 39,
+      "students_math": 40
+    },
+    "МИРКОВО": {
+      "bel_score": 47.25,
+      "mat_score": 28.53,
+      "students_bel": 10,
+      "students_math": 10
+    },
+    "МОМЧИЛГРАД": {
+      "bel_score": 36.18,
+      "mat_score": 28.51,
+      "students_bel": 100,
+      "students_math": 100
+    },
+    "МОНТАНА": {
+      "bel_score": 48.35,
+      "mat_score": 29.77,
+      "students_bel": 392,
+      "students_math": 393
+    },
+    "МЪГЛИЖ": {
+      "bel_score": 27.98,
+      "mat_score": 21.91,
+      "students_bel": 101,
+      "students_math": 99
+    },
+    "НЕВЕСТИНО": {
+      "bel_score": 8.2,
+      "mat_score": 9.73,
+      "students_bel": 15,
+      "students_math": 15
+    },
+    "НЕДЕЛИНО": {
+      "bel_score": 54.97,
+      "mat_score": 36.05,
+      "students_bel": 34,
+      "students_math": 33
+    },
+    "НЕСЕБЪР": {
+      "bel_score": 43.66,
+      "mat_score": 23.91,
+      "students_bel": 194,
+      "students_math": 193
+    },
+    "НИКОЛА КОЗЛЕВО": {
+      "bel_score": 23.59,
+      "mat_score": 18.84,
+      "students_bel": 58,
+      "students_math": 58
+    },
+    "НИКОЛАЕВО": {
+      "bel_score": 11.48,
+      "mat_score": 12.74,
+      "students_bel": 57,
+      "students_math": 55
+    },
+    "НИКОПОЛ": {
+      "bel_score": 38.73,
+      "mat_score": 18.38,
+      "students_bel": 48,
+      "students_math": 48
+    },
+    "НОВА ЗАГОРА": {
+      "bel_score": 22.44,
+      "mat_score": 18.56,
+      "students_bel": 252,
+      "students_math": 254
+    },
+    "НОВИ ПАЗАР": {
+      "bel_score": 28.65,
+      "mat_score": 15.3,
+      "students_bel": 124,
+      "students_math": 124
+    },
+    "НОВО СЕЛО": {
+      "bel_score": 32.63,
+      "mat_score": 33.0,
+      "students_bel": 12,
+      "students_math": 14
+    },
+    "ОМУРТАГ": {
+      "bel_score": 35.79,
+      "mat_score": 33.12,
+      "students_bel": 159,
+      "students_math": 161
+    },
+    "ОПАКА": {
+      "bel_score": 48.39,
+      "mat_score": 28.13,
+      "students_bel": 41,
+      "students_math": 42
+    },
+    "ОПАН": {
+      "bel_score": 21.42,
+      "mat_score": 12.47,
+      "students_bel": 18,
+      "students_math": 18
+    },
+    "ОРЯХОВО": {
+      "bel_score": 46.52,
+      "mat_score": 20.19,
+      "students_bel": 66,
+      "students_math": 63
+    },
+    "ПАВЕЛ БАНЯ": {
+      "bel_score": 27.44,
+      "mat_score": 21.83,
+      "students_bel": 122,
+      "students_math": 122
+    },
+    "ПАВЛИКЕНИ": {
+      "bel_score": 40.53,
+      "mat_score": 18.02,
+      "students_bel": 139,
+      "students_math": 138
+    },
+    "ПАЗАРДЖИК": {
+      "bel_score": 37.36,
+      "mat_score": 23.84,
+      "students_bel": 851,
+      "students_math": 847
+    },
+    "ПАНАГЮРИЩЕ": {
+      "bel_score": 46.63,
+      "mat_score": 23.51,
+      "students_bel": 195,
+      "students_math": 194
+    },
+    "ПЕРНИК": {
+      "bel_score": 56.17,
+      "mat_score": 28.42,
+      "students_bel": 720,
+      "students_math": 722
+    },
+    "ПЕРУЩИЦА": {
+      "bel_score": 47.86,
+      "mat_score": 21.62,
+      "students_bel": 36,
+      "students_math": 37
+    },
+    "ПЕТРИЧ": {
+      "bel_score": 55.21,
+      "mat_score": 33.56,
+      "students_bel": 444,
+      "students_math": 443
+    },
+    "ПЕЩЕРА": {
+      "bel_score": 46.27,
+      "mat_score": 31.39,
+      "students_bel": 140,
+      "students_math": 140
+    },
+    "ПИРДОП": {
+      "bel_score": 57.52,
+      "mat_score": 44.89,
+      "students_bel": 63,
+      "students_math": 62
+    },
+    "ПЛЕВЕН": {
+      "bel_score": 40.61,
+      "mat_score": 24.05,
+      "students_bel": 1041,
+      "students_math": 1041
+    },
+    "ПЛОВДИВ": {
+      "bel_score": 55.71,
+      "mat_score": 36.94,
+      "students_bel": 2976,
+      "students_math": 2963
+    },
+    "ПОЛСКИ ТРЪМБЕШ": {
+      "bel_score": 32.44,
+      "mat_score": 20.74,
+      "students_bel": 79,
+      "students_math": 80
+    },
+    "ПОМОРИЕ": {
+      "bel_score": 43.82,
+      "mat_score": 31.82,
+      "students_bel": 222,
+      "students_math": 222
+    },
+    "ПОПОВО": {
+      "bel_score": 45.19,
+      "mat_score": 29.14,
+      "students_bel": 190,
+      "students_math": 190
+    },
+    "ПОРДИМ": {
+      "bel_score": 26.28,
+      "mat_score": 21.42,
+      "students_bel": 40,
+      "students_math": 40
+    },
+    "ПРАВЕЦ": {
+      "bel_score": 39.09,
+      "mat_score": 30.62,
+      "students_bel": 60,
+      "students_math": 59
+    },
+    "ПРИМОРСКО": {
+      "bel_score": 44.84,
+      "mat_score": 31.8,
+      "students_bel": 45,
+      "students_math": 45
+    },
+    "ПРОВАДИЯ": {
+      "bel_score": 32.93,
+      "mat_score": 25.31,
+      "students_bel": 193,
+      "students_math": 194
+    },
+    "ПЪРВОМАЙ": {
+      "bel_score": 36.63,
+      "mat_score": 19.36,
+      "students_bel": 185,
+      "students_math": 187
+    },
+    "РАДНЕВО": {
+      "bel_score": 32.32,
+      "mat_score": 18.72,
+      "students_bel": 126,
+      "students_math": 127
+    },
+    "РАДОМИР": {
+      "bel_score": 45.41,
+      "mat_score": 20.18,
+      "students_bel": 118,
+      "students_math": 117
+    },
+    "РАЗГРАД": {
+      "bel_score": 38.55,
+      "mat_score": 23.45,
+      "students_bel": 436,
+      "students_math": 434
+    },
+    "РАЗЛОГ": {
+      "bel_score": 47.18,
+      "mat_score": 27.48,
+      "students_bel": 197,
+      "students_math": 197
+    },
+    "РАКИТОВО": {
+      "bel_score": 44.59,
+      "mat_score": 25.99,
+      "students_bel": 156,
+      "students_math": 155
+    },
+    "РАКОВСКИ": {
+      "bel_score": 40.14,
+      "mat_score": 24.32,
+      "students_bel": 168,
+      "students_math": 170
+    },
+    "РИЛА": {
+      "bel_score": 44.05,
+      "mat_score": 17.21,
+      "students_bel": 10,
+      "students_math": 9
+    },
+    "РОДОПИ": {
+      "bel_score": 51.67,
+      "mat_score": 31.53,
+      "students_bel": 163,
+      "students_math": 155
+    },
+    "РОМАН": {
+      "bel_score": 29.46,
+      "mat_score": 15.05,
+      "students_bel": 35,
+      "students_math": 34
+    },
+    "РУДОЗЕМ": {
+      "bel_score": 61.44,
+      "mat_score": 41.46,
+      "students_bel": 87,
+      "students_math": 87
+    },
+    "РУЕН": {
+      "bel_score": 39.54,
+      "mat_score": 34.65,
+      "students_bel": 268,
+      "students_math": 269
+    },
+    "РУЖИНЦИ": {
+      "bel_score": 29.23,
+      "mat_score": 21.4,
+      "students_bel": 33,
+      "students_math": 33
+    },
+    "РУСЕ": {
+      "bel_score": 51.25,
+      "mat_score": 33.38,
+      "students_bel": 1221,
+      "students_math": 1221
+    },
+    "САДОВО": {
+      "bel_score": 28.51,
+      "mat_score": 21.8,
+      "students_bel": 138,
+      "students_math": 137
+    },
+    "САМОКОВ": {
+      "bel_score": 44.21,
+      "mat_score": 22.07,
+      "students_bel": 314,
+      "students_math": 314
+    },
+    "САМУИЛ": {
+      "bel_score": 37.9,
+      "mat_score": 20.69,
+      "students_bel": 37,
+      "students_math": 37
+    },
+    "САНДАНСКИ": {
+      "bel_score": 45.34,
+      "mat_score": 28.41,
+      "students_bel": 285,
+      "students_math": 285
+    },
+    "САПАРЕВА БАНЯ": {
+      "bel_score": 51.22,
+      "mat_score": 32.86,
+      "students_bel": 44,
+      "students_math": 44
+    },
+    "САТОВЧА": {
+      "bel_score": 52.56,
+      "mat_score": 41.1,
+      "students_bel": 123,
+      "students_math": 123
+    },
+    "СВИЛЕНГРАД": {
+      "bel_score": 38.96,
+      "mat_score": 32.56,
+      "students_bel": 184,
+      "students_math": 185
+    },
+    "СВИЩОВ": {
+      "bel_score": 40.35,
+      "mat_score": 22.2,
+      "students_bel": 233,
+      "students_math": 234
+    },
+    "СВОГЕ": {
+      "bel_score": 56.49,
+      "mat_score": 26.38,
+      "students_bel": 114,
+      "students_math": 114
+    },
+    "СЕВЛИЕВО": {
+      "bel_score": 30.93,
+      "mat_score": 18.95,
+      "students_bel": 296,
+      "students_math": 296
+    },
+    "СЕПТЕМВРИ": {
+      "bel_score": 39.12,
+      "mat_score": 25.28,
+      "students_bel": 151,
+      "students_math": 151
+    },
+    "СИЛИСТРА": {
+      "bel_score": 52.17,
+      "mat_score": 27.09,
+      "students_bel": 281,
+      "students_math": 281
+    },
+    "СИМЕОНОВГРАД": {
+      "bel_score": 24.12,
+      "mat_score": 18.84,
+      "students_bel": 81,
+      "students_math": 80
+    },
+    "СИМИТЛИ": {
+      "bel_score": 46.58,
+      "mat_score": 21.22,
+      "students_bel": 122,
+      "students_math": 122
+    },
+    "СИТОВО": {
+      "bel_score": 32.75,
+      "mat_score": 20.63,
+      "students_bel": 36,
+      "students_math": 36
+    },
+    "СЛИВЕН": {
+      "bel_score": 41.7,
+      "mat_score": 26.42,
+      "students_bel": 1145,
+      "students_math": 1151
+    },
+    "СЛИВНИЦА": {
+      "bel_score": 58.37,
+      "mat_score": 32.42,
+      "students_bel": 49,
+      "students_math": 49
+    },
+    "СЛИВО ПОЛЕ": {
+      "bel_score": 35.99,
+      "mat_score": 18.8,
+      "students_bel": 62,
+      "students_math": 62
+    },
+    "СМОЛЯН": {
+      "bel_score": 58.58,
+      "mat_score": 34.87,
+      "students_bel": 257,
+      "students_math": 254
+    },
+    "СМЯДОВО": {
+      "bel_score": 40.43,
+      "mat_score": 17.9,
+      "students_bel": 46,
+      "students_math": 45
+    },
+    "СОЗОПОЛ": {
+      "bel_score": 37.85,
+      "mat_score": 19.86,
+      "students_bel": 90,
+      "students_math": 91
+    },
+    "СОПОТ": {
+      "bel_score": 45.41,
+      "mat_score": 21.23,
+      "students_bel": 74,
+      "students_math": 74
+    },
+    "СРЕДЕЦ": {
+      "bel_score": 32.59,
+      "mat_score": 22.45,
+      "students_bel": 103,
+      "students_math": 102
+    },
+    "СТАМБОЛИЙСКИ": {
+      "bel_score": 30.52,
+      "mat_score": 19.92,
+      "students_bel": 153,
+      "students_math": 152
+    },
+    "СТАМБОЛОВО": {
+      "bel_score": 23.38,
+      "mat_score": 19.54,
+      "students_bel": 41,
+      "students_math": 41
+    },
+    "СТАРА ЗАГОРА": {
+      "bel_score": 44.66,
+      "mat_score": 27.43,
+      "students_bel": 1249,
+      "students_math": 1246
+    },
+    "СТОЛИЧНА": {
+      "bel_score": 58.74,
+      "mat_score": 38.68,
+      "students_bel": 10148,
+      "students_math": 10134
+    },
+    "СТРАЖИЦА": {
+      "bel_score": 32.88,
+      "mat_score": 17.97,
+      "students_bel": 111,
+      "students_math": 108
+    },
+    "СТРАЛДЖА": {
+      "bel_score": 29.79,
+      "mat_score": 23.88,
+      "students_bel": 103,
+      "students_math": 104
+    },
+    "СТРЕЛЧА": {
+      "bel_score": 52.98,
+      "mat_score": 25.89,
+      "students_bel": 27,
+      "students_math": 27
+    },
+    "СТРУМЯНИ": {
+      "bel_score": 23.95,
+      "mat_score": 18.7,
+      "students_bel": 30,
+      "students_math": 30
+    },
+    "СУВОРОВО": {
+      "bel_score": 26.76,
+      "mat_score": 24.12,
+      "students_bel": 49,
+      "students_math": 48
+    },
+    "СУНГУРЛАРЕ": {
+      "bel_score": 30.62,
+      "mat_score": 30.5,
+      "students_bel": 115,
+      "students_math": 116
+    },
+    "СУХИНДОЛ": {
+      "bel_score": 16.42,
+      "mat_score": 12.46,
+      "students_bel": 12,
+      "students_math": 12
+    },
+    "СЪЕДИНЕНИЕ": {
+      "bel_score": 46.89,
+      "mat_score": 26.71,
+      "students_bel": 48,
+      "students_math": 47
+    },
+    "СЪРНИЦА": {
+      "bel_score": 53.05,
+      "mat_score": 30.71,
+      "students_bel": 47,
+      "students_math": 47
+    },
+    "ТВЪРДИЦА": {
+      "bel_score": 30.1,
+      "mat_score": 18.24,
+      "students_bel": 150,
+      "students_math": 147
+    },
+    "ТЕРВЕЛ": {
+      "bel_score": 31.75,
+      "mat_score": 20.16,
+      "students_bel": 119,
+      "students_math": 120
+    },
+    "ТЕТЕВЕН": {
+      "bel_score": 37.87,
+      "mat_score": 24.27,
+      "students_bel": 148,
+      "students_math": 146
+    },
+    "ТОПОЛОВГРАД": {
+      "bel_score": 40.86,
+      "mat_score": 40.74,
+      "students_bel": 58,
+      "students_math": 57
+    },
+    "ТРЕКЛЯНО": {
+      "bel_score": 13.0,
+      "mat_score": 12.67,
+      "students_bel": 3,
+      "students_math": 3
+    },
+    "ТРОЯН": {
+      "bel_score": 36.77,
+      "mat_score": 20.3,
+      "students_bel": 229,
+      "students_math": 229
+    },
+    "ТРЪН": {
+      "bel_score": 34.02,
+      "mat_score": 15.19,
+      "students_bel": 25,
+      "students_math": 25
+    },
+    "ТРЯВНА": {
+      "bel_score": 61.97,
+      "mat_score": 25.78,
+      "students_bel": 54,
+      "students_math": 54
+    },
+    "ТУНДЖА": {
+      "bel_score": 37.33,
+      "mat_score": 29.11,
+      "students_bel": 107,
+      "students_math": 105
+    },
+    "ТУТРАКАН": {
+      "bel_score": 36.26,
+      "mat_score": 20.94,
+      "students_bel": 94,
+      "students_math": 94
+    },
+    "ТЪРГОВИЩЕ": {
+      "bel_score": 34.67,
+      "mat_score": 26.18,
+      "students_bel": 463,
+      "students_math": 460
+    },
+    "УГЪРЧИН": {
+      "bel_score": 35.17,
+      "mat_score": 20.86,
+      "students_bel": 47,
+      "students_math": 47
+    },
+    "ХАДЖИДИМОВО": {
+      "bel_score": 53.48,
+      "mat_score": 28.45,
+      "students_bel": 78,
+      "students_math": 78
+    },
+    "ХАЙРЕДИН": {
+      "bel_score": 39.12,
+      "mat_score": 13.97,
+      "students_bel": 23,
+      "students_math": 23
+    },
+    "ХАРМАНЛИ": {
+      "bel_score": 36.17,
+      "mat_score": 32.26,
+      "students_bel": 181,
+      "students_math": 182
+    },
+    "ХАСКОВО": {
+      "bel_score": 41.67,
+      "mat_score": 29.77,
+      "students_bel": 787,
+      "students_math": 782
+    },
+    "ХИСАРЯ": {
+      "bel_score": 43.49,
+      "mat_score": 18.67,
+      "students_bel": 72,
+      "students_math": 71
+    },
+    "ХИТРИНО": {
+      "bel_score": 35.6,
+      "mat_score": 30.85,
+      "students_bel": 31,
+      "students_math": 31
+    },
+    "ЦАР КАЛОЯН": {
+      "bel_score": 43.99,
+      "mat_score": 26.04,
+      "students_bel": 39,
+      "students_math": 39
+    },
+    "ЦАРЕВО": {
+      "bel_score": 46.69,
+      "mat_score": 20.11,
+      "students_bel": 69,
+      "students_math": 69
+    },
+    "ЦЕНОВО": {
+      "bel_score": 40.55,
+      "mat_score": 39.09,
+      "students_bel": 23,
+      "students_math": 23
+    },
+    "ЧАВДАР": {
+      "bel_score": 18.25,
+      "mat_score": 16.56,
+      "students_bel": 4,
+      "students_math": 4
+    },
+    "ЧЕЛОПЕЧ": {
+      "bel_score": 56.98,
+      "mat_score": 36.86,
+      "students_bel": 21,
+      "students_math": 21
+    },
+    "ЧЕПЕЛАРЕ": {
+      "bel_score": 38.2,
+      "mat_score": 20.7,
+      "students_bel": 42,
+      "students_math": 43
+    },
+    "ЧЕРВЕН БРЯГ": {
+      "bel_score": 41.34,
+      "mat_score": 27.44,
+      "students_bel": 212,
+      "students_math": 209
+    },
+    "ЧЕРНООЧЕНЕ": {
+      "bel_score": 44.2,
+      "mat_score": 36.72,
+      "students_bel": 75,
+      "students_math": 75
+    },
+    "ЧИРПАН": {
+      "bel_score": 33.15,
+      "mat_score": 30.34,
+      "students_bel": 156,
+      "students_math": 158
+    },
+    "ЧУПРЕНЕ": {
+      "bel_score": 22.18,
+      "mat_score": 11.51,
+      "students_bel": 13,
+      "students_math": 13
+    },
+    "ШАБЛА": {
+      "bel_score": 44.92,
+      "mat_score": 25.61,
+      "students_bel": 19,
+      "students_math": 19
+    },
+    "ШУМЕН": {
+      "bel_score": 42.96,
+      "mat_score": 24.65,
+      "students_bel": 741,
+      "students_math": 739
+    },
+    "ЯБЛАНИЦА": {
+      "bel_score": 32.78,
+      "mat_score": 36.67,
+      "students_bel": 73,
+      "students_math": 72
+    },
+    "ЯКИМОВО": {
+      "bel_score": 30.94,
+      "mat_score": 14.18,
+      "students_bel": 26,
+      "students_math": 26
+    },
+    "ЯКОРУДА": {
+      "bel_score": 50.52,
+      "mat_score": 36.22,
+      "students_bel": 93,
+      "students_math": 94
+    },
+    "ЯМБОЛ": {
+      "bel_score": 44.83,
+      "mat_score": 31.39,
+      "students_bel": 649,
+      "students_math": 656
+    },
+    "В ЧУЖБИНА": {
+      "bel_score": 41.59,
+      "mat_score": 26.58,
+      "students_bel": 30,
+      "students_math": 30
+    }
+  },
+  "2019-2020": {
+    "АВРЕН": {
+      "bel_score": 30.45,
+      "mat_score": 21.72,
+      "students_bel": 97,
+      "students_math": 97
+    },
+    "АЙТОС": {
+      "bel_score": 35.54,
+      "mat_score": 25.87,
+      "students_bel": 260,
+      "students_math": 259
+    },
+    "АКСАКОВО": {
+      "bel_score": 34.24,
+      "mat_score": 20.81,
+      "students_bel": 160,
+      "students_math": 160
+    },
+    "АЛФАТАР": {
+      "bel_score": 41.45,
+      "mat_score": 23.45,
+      "students_bel": 11,
+      "students_math": 11
+    },
+    "АНТОН": {
+      "bel_score": 53.69,
+      "mat_score": 51.66,
+      "students_bel": 16,
+      "students_math": 16
+    },
+    "АНТОНОВО": {
+      "bel_score": 41.9,
+      "mat_score": 41.92,
+      "students_bel": 24,
+      "students_math": 24
+    },
+    "АПРИЛЦИ": {
+      "bel_score": 50.23,
+      "mat_score": 24.16,
+      "students_bel": 11,
+      "students_math": 11
+    },
+    "АРДИНО": {
+      "bel_score": 51.01,
+      "mat_score": 37.29,
+      "students_bel": 60,
+      "students_math": 60
+    },
+    "АСЕНОВГРАД": {
+      "bel_score": 47.67,
+      "mat_score": 32.67,
+      "students_bel": 525,
+      "students_math": 530
+    },
+    "БАЛЧИК": {
+      "bel_score": 40.19,
+      "mat_score": 23.15,
+      "students_bel": 128,
+      "students_math": 129
+    },
+    "БАНИТЕ": {
+      "bel_score": 66.02,
+      "mat_score": 55.45,
+      "students_bel": 20,
+      "students_math": 20
+    },
+    "БАНСКО": {
+      "bel_score": 45.86,
+      "mat_score": 25.88,
+      "students_bel": 117,
+      "students_math": 116
+    },
+    "БАТАК": {
+      "bel_score": 53.29,
+      "mat_score": 28.63,
+      "students_bel": 33,
+      "students_math": 34
+    },
+    "БЕЛЕНЕ": {
+      "bel_score": 46.67,
+      "mat_score": 30.47,
+      "students_bel": 54,
+      "students_math": 53
+    },
+    "БЕЛИЦА": {
+      "bel_score": 41.05,
+      "mat_score": 45.08,
+      "students_bel": 118,
+      "students_math": 116
+    },
+    "БЕЛОВО": {
+      "bel_score": 58.15,
+      "mat_score": 52.5,
+      "students_bel": 44,
+      "students_math": 44
+    },
+    "БЕЛОГРАДЧИК": {
+      "bel_score": 30.49,
+      "mat_score": 28.63,
+      "students_bel": 42,
+      "students_math": 43
+    },
+    "БЕЛОСЛАВ": {
+      "bel_score": 41.4,
+      "mat_score": 22.49,
+      "students_bel": 97,
+      "students_math": 98
+    },
+    "БЕРКОВИЦА": {
+      "bel_score": 44.94,
+      "mat_score": 24.07,
+      "students_bel": 93,
+      "students_math": 92
+    },
+    "БЛАГОЕВГРАД": {
+      "bel_score": 60.22,
+      "mat_score": 43.09,
+      "students_bel": 652,
+      "students_math": 652
+    },
+    "БОБОВ ДОЛ": {
+      "bel_score": 36.63,
+      "mat_score": 20.34,
+      "students_bel": 41,
+      "students_math": 41
+    },
+    "БОБОШЕВО": {
+      "bel_score": 56.5,
+      "mat_score": 33.22,
+      "students_bel": 9,
+      "students_math": 9
+    },
+    "БОЖУРИЩЕ": {
+      "bel_score": 35.38,
+      "mat_score": 27.13,
+      "students_bel": 66,
+      "students_math": 66
+    },
+    "БОЙНИЦА": {
+      "bel_score": 21.25,
+      "mat_score": 8.88,
+      "students_bel": 8,
+      "students_math": 8
+    },
+    "БОЙЧИНОВЦИ": {
+      "bel_score": 27.26,
+      "mat_score": 19.06,
+      "students_bel": 61,
+      "students_math": 63
+    },
+    "БОЛЯРОВО": {
+      "bel_score": 31.81,
+      "mat_score": 21.44,
+      "students_bel": 15,
+      "students_math": 16
+    },
+    "БОРИНО": {
+      "bel_score": 56.42,
+      "mat_score": 31.92,
+      "students_bel": 17,
+      "students_math": 17
+    },
+    "БОРОВАН": {
+      "bel_score": 26.35,
+      "mat_score": 16.26,
+      "students_bel": 59,
+      "students_math": 59
+    },
+    "БОРОВО": {
+      "bel_score": 41.55,
+      "mat_score": 23.19,
+      "students_bel": 17,
+      "students_math": 18
+    },
+    "БОТЕВГРАД": {
+      "bel_score": 35.84,
+      "mat_score": 24.74,
+      "students_bel": 265,
+      "students_math": 264
+    },
+    "БРАТЯ ДАСКАЛОВИ": {
+      "bel_score": 16.82,
+      "mat_score": 16.05,
+      "students_bel": 57,
+      "students_math": 58
+    },
+    "БРАЦИГОВО": {
+      "bel_score": 23.9,
+      "mat_score": 21.51,
+      "students_bel": 42,
+      "students_math": 44
+    },
+    "БРЕГОВО": {
+      "bel_score": 34.84,
+      "mat_score": 23.95,
+      "students_bel": 22,
+      "students_math": 22
+    },
+    "БРЕЗНИК": {
+      "bel_score": 40.73,
+      "mat_score": 24.61,
+      "students_bel": 33,
+      "students_math": 33
+    },
+    "БРЕЗОВО": {
+      "bel_score": 26.64,
+      "mat_score": 16.27,
+      "students_bel": 47,
+      "students_math": 47
+    },
+    "БРУСАРЦИ": {
+      "bel_score": 27.28,
+      "mat_score": 19.89,
+      "students_bel": 27,
+      "students_math": 27
+    },
+    "БУРГАС": {
+      "bel_score": 54.66,
+      "mat_score": 40.17,
+      "students_bel": 2096,
+      "students_math": 2097
+    },
+    "БЯЛА": {
+      "bel_score": 33.29,
+      "mat_score": 20.62,
+      "students_bel": 104,
+      "students_math": 104
+    },
+    "БЯЛА СЛАТИНА": {
+      "bel_score": 35.71,
+      "mat_score": 25.86,
+      "students_bel": 195,
+      "students_math": 189
+    },
+    "ВАРНА": {
+      "bel_score": 56.41,
+      "mat_score": 42.27,
+      "students_bel": 3068,
+      "students_math": 3067
+    },
+    "ВЕЛИКИ ПРЕСЛАВ": {
+      "bel_score": 33.53,
+      "mat_score": 19.38,
+      "students_bel": 73,
+      "students_math": 74
+    },
+    "ВЕЛИКО ТЪРНОВО": {
+      "bel_score": 44.98,
+      "mat_score": 28.81,
+      "students_bel": 653,
+      "students_math": 653
+    },
+    "ВЕЛИНГРАД": {
+      "bel_score": 44.69,
+      "mat_score": 37.59,
+      "students_bel": 330,
+      "students_math": 328
+    },
+    "ВЕНЕЦ": {
+      "bel_score": 24.42,
+      "mat_score": 30.55,
+      "students_bel": 27,
+      "students_math": 27
+    },
+    "ВЕТОВО": {
+      "bel_score": 37.29,
+      "mat_score": 24.87,
+      "students_bel": 77,
+      "students_math": 79
+    },
+    "ВЕТРИНО": {
+      "bel_score": 35.84,
+      "mat_score": 19.41,
+      "students_bel": 19,
+      "students_math": 19
+    },
+    "ВИДИН": {
+      "bel_score": 46.74,
+      "mat_score": 29.54,
+      "students_bel": 442,
+      "students_math": 439
+    },
+    "ВРАЦА": {
+      "bel_score": 42.14,
+      "mat_score": 27.63,
+      "students_bel": 559,
+      "students_math": 558
+    },
+    "ВЪЛЧЕДРЪМ": {
+      "bel_score": 30.66,
+      "mat_score": 25.61,
+      "students_bel": 79,
+      "students_math": 78
+    },
+    "ВЪЛЧИ ДОЛ": {
+      "bel_score": 25.34,
+      "mat_score": 18.65,
+      "students_bel": 70,
+      "students_math": 71
+    },
+    "ВЪРБИЦА": {
+      "bel_score": 33.42,
+      "mat_score": 23.78,
+      "students_bel": 86,
+      "students_math": 85
+    },
+    "ВЪРШЕЦ": {
+      "bel_score": 25.77,
+      "mat_score": 21.28,
+      "students_bel": 48,
+      "students_math": 51
+    },
+    "ГАБРОВО": {
+      "bel_score": 56.28,
+      "mat_score": 36.36,
+      "students_bel": 440,
+      "students_math": 441
+    },
+    "ГЕНЕРАЛ ТОШЕВО": {
+      "bel_score": 26.52,
+      "mat_score": 18.47,
+      "students_bel": 96,
+      "students_math": 95
+    },
+    "ГЕОРГИ ДАМЯНОВО": {
+      "bel_score": 40.3,
+      "mat_score": 25.25,
+      "students_bel": 5,
+      "students_math": 5
+    },
+    "ГЛАВИНИЦА": {
+      "bel_score": 28.15,
+      "mat_score": 24.33,
+      "students_bel": 56,
+      "students_math": 56
+    },
+    "ГОДЕЧ": {
+      "bel_score": 47.75,
+      "mat_score": 24.68,
+      "students_bel": 22,
+      "students_math": 21
+    },
+    "ГОРНА МАЛИНА": {
+      "bel_score": 33.78,
+      "mat_score": 22.52,
+      "students_bel": 48,
+      "students_math": 49
+    },
+    "ГОРНА ОРЯХОВИЦА": {
+      "bel_score": 37.49,
+      "mat_score": 25.9,
+      "students_bel": 313,
+      "students_math": 313
+    },
+    "ГОЦЕ ДЕЛЧЕВ": {
+      "bel_score": 49.85,
+      "mat_score": 33.15,
+      "students_bel": 316,
+      "students_math": 317
+    },
+    "ГРАМАДА": {
+      "bel_score": 14.06,
+      "mat_score": 25.14,
+      "students_bel": 9,
+      "students_math": 9
+    },
+    "ГУЛЯНЦИ": {
+      "bel_score": 41.27,
+      "mat_score": 34.62,
+      "students_bel": 51,
+      "students_math": 53
+    },
+    "ГУРКОВО": {
+      "bel_score": 14.99,
+      "mat_score": 12.46,
+      "students_bel": 52,
+      "students_math": 52
+    },
+    "ГЪЛЪБОВО": {
+      "bel_score": 28.77,
+      "mat_score": 27.41,
+      "students_bel": 105,
+      "students_math": 106
+    },
+    "ГЪРМЕН": {
+      "bel_score": 40.62,
+      "mat_score": 29.48,
+      "students_bel": 176,
+      "students_math": 170
+    },
+    "ДВЕ МОГИЛИ": {
+      "bel_score": 29.69,
+      "mat_score": 25.12,
+      "students_bel": 50,
+      "students_math": 49
+    },
+    "ДЕВИН": {
+      "bel_score": 57.19,
+      "mat_score": 33.43,
+      "students_bel": 82,
+      "students_math": 82
+    },
+    "ДЕВНЯ": {
+      "bel_score": 32.98,
+      "mat_score": 18.52,
+      "students_bel": 59,
+      "students_math": 60
+    },
+    "ДЖЕБЕЛ": {
+      "bel_score": 36.67,
+      "mat_score": 23.07,
+      "students_bel": 44,
+      "students_math": 44
+    },
+    "ДИМИТРОВГРАД": {
+      "bel_score": 35.06,
+      "mat_score": 25.54,
+      "students_bel": 366,
+      "students_math": 366
+    },
+    "ДИМОВО": {
+      "bel_score": 28.13,
+      "mat_score": 16.5,
+      "students_bel": 29,
+      "students_math": 27
+    },
+    "ДОБРИЧ": {
+      "bel_score": 46.38,
+      "mat_score": 31.24,
+      "students_bel": 684,
+      "students_math": 687
+    },
+    "ДОЛНА БАНЯ": {
+      "bel_score": 30.76,
+      "mat_score": 19.43,
+      "students_bel": 37,
+      "students_math": 39
+    },
+    "ДОЛНА МИТРОПОЛИЯ": {
+      "bel_score": 32.98,
+      "mat_score": 25.08,
+      "students_bel": 107,
+      "students_math": 105
+    },
+    "ДОЛНИ ДЪБНИК": {
+      "bel_score": 35.52,
+      "mat_score": 30.62,
+      "students_bel": 57,
+      "students_math": 54
+    },
+    "ДОЛНИ ЧИФЛИК": {
+      "bel_score": 26.03,
+      "mat_score": 21.26,
+      "students_bel": 196,
+      "students_math": 194
+    },
+    "ДОСПАТ": {
+      "bel_score": 53.37,
+      "mat_score": 43.18,
+      "students_bel": 50,
+      "students_math": 50
+    },
+    "ДРАГОМАН": {
+      "bel_score": 50.89,
+      "mat_score": 26.2,
+      "students_bel": 22,
+      "students_math": 22
+    },
+    "ДРЯНОВО": {
+      "bel_score": 45.61,
+      "mat_score": 29.5,
+      "students_bel": 51,
+      "students_math": 51
+    },
+    "ДУЛОВО": {
+      "bel_score": 32.95,
+      "mat_score": 26.46,
+      "students_bel": 218,
+      "students_math": 219
+    },
+    "ДУПНИЦА": {
+      "bel_score": 45.32,
+      "mat_score": 26.45,
+      "students_bel": 354,
+      "students_math": 355
+    },
+    "ДЪЛГОПОЛ": {
+      "bel_score": 26.38,
+      "mat_score": 20.1,
+      "students_bel": 105,
+      "students_math": 102
+    },
+    "ЕЛЕНА": {
+      "bel_score": 32.84,
+      "mat_score": 29.91,
+      "students_bel": 71,
+      "students_math": 72
+    },
+    "ЕЛИН ПЕЛИН": {
+      "bel_score": 43.48,
+      "mat_score": 24.97,
+      "students_bel": 160,
+      "students_math": 161
+    },
+    "ЕЛХОВО": {
+      "bel_score": 37.0,
+      "mat_score": 31.48,
+      "students_bel": 115,
+      "students_math": 115
+    },
+    "ЕТРОПОЛЕ": {
+      "bel_score": 25.68,
+      "mat_score": 29.21,
+      "students_bel": 123,
+      "students_math": 124
+    },
+    "ЗАВЕТ": {
+      "bel_score": 38.75,
+      "mat_score": 33.03,
+      "students_bel": 58,
+      "students_math": 58
+    },
+    "ЗЕМЕН": {
+      "bel_score": 35.81,
+      "mat_score": 17.69,
+      "students_bel": 8,
+      "students_math": 8
+    },
+    "ЗЛАТАРИЦА": {
+      "bel_score": 26.84,
+      "mat_score": 16.12,
+      "students_bel": 29,
+      "students_math": 27
+    },
+    "ЗЛАТИЦА": {
+      "bel_score": 51.67,
+      "mat_score": 31.42,
+      "students_bel": 46,
+      "students_math": 46
+    },
+    "ЗЛАТОГРАД": {
+      "bel_score": 59.64,
+      "mat_score": 43.45,
+      "students_bel": 68,
+      "students_math": 68
+    },
+    "ИВАЙЛОВГРАД": {
+      "bel_score": 38.91,
+      "mat_score": 34.01,
+      "students_bel": 54,
+      "students_math": 54
+    },
+    "ИВАНОВО": {
+      "bel_score": 42.24,
+      "mat_score": 18.21,
+      "students_bel": 17,
+      "students_math": 17
+    },
+    "ИСКЪР": {
+      "bel_score": 23.18,
+      "mat_score": 16.83,
+      "students_bel": 38,
+      "students_math": 39
+    },
+    "ИСПЕРИХ": {
+      "bel_score": 39.01,
+      "mat_score": 38.52,
+      "students_bel": 168,
+      "students_math": 169
+    },
+    "ИХТИМАН": {
+      "bel_score": 33.16,
+      "mat_score": 23.65,
+      "students_bel": 166,
+      "students_math": 167
+    },
+    "КАВАРНА": {
+      "bel_score": 39.34,
+      "mat_score": 28.31,
+      "students_bel": 86,
+      "students_math": 86
+    },
+    "КАЗАНЛЪК": {
+      "bel_score": 35.21,
+      "mat_score": 24.79,
+      "students_bel": 680,
+      "students_math": 673
+    },
+    "КАЙНАРДЖА": {
+      "bel_score": 20.14,
+      "mat_score": 16.85,
+      "students_bel": 68,
+      "students_math": 68
+    },
+    "КАЛОЯНОВО": {
+      "bel_score": 33.98,
+      "mat_score": 22.84,
+      "students_bel": 55,
+      "students_math": 56
+    },
+    "КАМЕНО": {
+      "bel_score": 32.04,
+      "mat_score": 17.81,
+      "students_bel": 63,
+      "students_math": 64
+    },
+    "КАОЛИНОВО": {
+      "bel_score": 24.57,
+      "mat_score": 20.85,
+      "students_bel": 94,
+      "students_math": 93
+    },
+    "КАРЛОВО": {
+      "bel_score": 33.92,
+      "mat_score": 22.31,
+      "students_bel": 422,
+      "students_math": 419
+    },
+    "КАРНОБАТ": {
+      "bel_score": 33.82,
+      "mat_score": 22.9,
+      "students_bel": 224,
+      "students_math": 220
+    },
+    "КАСПИЧАН": {
+      "bel_score": 24.82,
+      "mat_score": 22.5,
+      "students_bel": 60,
+      "students_math": 61
+    },
+    "КИРКОВО": {
+      "bel_score": 39.69,
+      "mat_score": 42.3,
+      "students_bel": 132,
+      "students_math": 132
+    },
+    "КНЕЖА": {
+      "bel_score": 23.56,
+      "mat_score": 22.38,
+      "students_bel": 115,
+      "students_math": 114
+    },
+    "КОВАЧЕВЦИ": {
+      "bel_score": 7.5,
+      "mat_score": 17.38,
+      "students_bel": 4,
+      "students_math": 4
+    },
+    "КОЗЛОДУЙ": {
+      "bel_score": 32.26,
+      "mat_score": 19.94,
+      "students_bel": 198,
+      "students_math": 196
+    },
+    "КОПРИВЩИЦА": {
+      "bel_score": 42.98,
+      "mat_score": 41.97,
+      "students_bel": 28,
+      "students_math": 27
+    },
+    "КОСТЕНЕЦ": {
+      "bel_score": 51.56,
+      "mat_score": 36.61,
+      "students_bel": 103,
+      "students_math": 103
+    },
+    "КОСТИНБРОД": {
+      "bel_score": 47.55,
+      "mat_score": 27.89,
+      "students_bel": 115,
+      "students_math": 114
+    },
+    "КОТЕЛ": {
+      "bel_score": 30.24,
+      "mat_score": 23.52,
+      "students_bel": 149,
+      "students_math": 153
+    },
+    "КОЧЕРИНОВО": {
+      "bel_score": 39.34,
+      "mat_score": 20.11,
+      "students_bel": 16,
+      "students_math": 16
+    },
+    "КРЕСНА": {
+      "bel_score": 55.58,
+      "mat_score": 40.06,
+      "students_bel": 36,
+      "students_math": 36
+    },
+    "КРИВОДОЛ": {
+      "bel_score": 24.14,
+      "mat_score": 14.22,
+      "students_bel": 58,
+      "students_math": 59
+    },
+    "КРИЧИМ": {
+      "bel_score": 30.03,
+      "mat_score": 18.94,
+      "students_bel": 62,
+      "students_math": 59
+    },
+    "КРУМОВГРАД": {
+      "bel_score": 37.7,
+      "mat_score": 25.91,
+      "students_bel": 154,
+      "students_math": 154
+    },
+    "КРУШАРИ": {
+      "bel_score": 19.0,
+      "mat_score": 13.23,
+      "students_bel": 35,
+      "students_math": 33
+    },
+    "КУБРАТ": {
+      "bel_score": 28.89,
+      "mat_score": 22.04,
+      "students_bel": 106,
+      "students_math": 106
+    },
+    "КУКЛЕН": {
+      "bel_score": 47.74,
+      "mat_score": 30.05,
+      "students_bel": 54,
+      "students_math": 54
+    },
+    "КУЛА": {
+      "bel_score": 48.16,
+      "mat_score": 26.21,
+      "students_bel": 16,
+      "students_math": 17
+    },
+    "КЪРДЖАЛИ": {
+      "bel_score": 29.66,
+      "mat_score": 27.79,
+      "students_bel": 585,
+      "students_math": 587
+    },
+    "КЮСТЕНДИЛ": {
+      "bel_score": 44.57,
+      "mat_score": 28.8,
+      "students_bel": 402,
+      "students_math": 391
+    },
+    "ЛЕВСКИ": {
+      "bel_score": 36.51,
+      "mat_score": 25.23,
+      "students_bel": 125,
+      "students_math": 126
+    },
+    "ЛЕСИЧОВО": {
+      "bel_score": 31.42,
+      "mat_score": 26.6,
+      "students_bel": 28,
+      "students_math": 28
+    },
+    "ЛЕТНИЦА": {
+      "bel_score": 21.84,
+      "mat_score": 15.95,
+      "students_bel": 29,
+      "students_math": 29
+    },
+    "ЛОВЕЧ": {
+      "bel_score": 42.07,
+      "mat_score": 31.87,
+      "students_bel": 328,
+      "students_math": 324
+    },
+    "ЛОЗНИЦА": {
+      "bel_score": 33.0,
+      "mat_score": 21.37,
+      "students_bel": 57,
+      "students_math": 57
+    },
+    "ЛОМ": {
+      "bel_score": 34.16,
+      "mat_score": 29.91,
+      "students_bel": 192,
+      "students_math": 192
+    },
+    "ЛУКОВИТ": {
+      "bel_score": 30.95,
+      "mat_score": 25.49,
+      "students_bel": 177,
+      "students_math": 174
+    },
+    "ЛЪКИ": {
+      "bel_score": 57.75,
+      "mat_score": 41.48,
+      "students_bel": 10,
+      "students_math": 10
+    },
+    "ЛЮБИМЕЦ": {
+      "bel_score": 33.22,
+      "mat_score": 32.39,
+      "students_bel": 78,
+      "students_math": 79
+    },
+    "ЛЯСКОВЕЦ": {
+      "bel_score": 31.02,
+      "mat_score": 20.12,
+      "students_bel": 75,
+      "students_math": 73
+    },
+    "МАДАН": {
+      "bel_score": 46.11,
+      "mat_score": 27.15,
+      "students_bel": 89,
+      "students_math": 89
+    },
+    "МАДЖАРОВО": {
+      "bel_score": 29.92,
+      "mat_score": 19.6,
+      "students_bel": 13,
+      "students_math": 15
+    },
+    "МАКРЕШ": {
+      "bel_score": 23.0,
+      "mat_score": 35.0,
+      "students_bel": 2,
+      "students_math": 3
+    },
+    "МАЛКО ТЪРНОВО": {
+      "bel_score": 33.5,
+      "mat_score": 29.47,
+      "students_bel": 19,
+      "students_math": 19
+    },
+    "МАРИЦА": {
+      "bel_score": 35.7,
+      "mat_score": 25.02,
+      "students_bel": 197,
+      "students_math": 191
+    },
+    "МЕДКОВЕЦ": {
+      "bel_score": 30.85,
+      "mat_score": 25.26,
+      "students_bel": 26,
+      "students_math": 23
+    },
+    "МЕЗДРА": {
+      "bel_score": 43.76,
+      "mat_score": 26.39,
+      "students_bel": 123,
+      "students_math": 122
+    },
+    "МИЗИЯ": {
+      "bel_score": 42.05,
+      "mat_score": 27.04,
+      "students_bel": 48,
+      "students_math": 46
+    },
+    "МИНЕРАЛНИ БАНИ": {
+      "bel_score": 38.2,
+      "mat_score": 20.19,
+      "students_bel": 33,
+      "students_math": 33
+    },
+    "МИРКОВО": {
+      "bel_score": 43.67,
+      "mat_score": 29.13,
+      "students_bel": 6,
+      "students_math": 6
+    },
+    "МОМЧИЛГРАД": {
+      "bel_score": 29.62,
+      "mat_score": 19.9,
+      "students_bel": 114,
+      "students_math": 114
+    },
+    "МОНТАНА": {
+      "bel_score": 42.37,
+      "mat_score": 29.22,
+      "students_bel": 402,
+      "students_math": 398
+    },
+    "МЪГЛИЖ": {
+      "bel_score": 16.92,
+      "mat_score": 14.37,
+      "students_bel": 88,
+      "students_math": 93
+    },
+    "НЕВЕСТИНО": {
+      "bel_score": 14.18,
+      "mat_score": 13.74,
+      "students_bel": 22,
+      "students_math": 19
+    },
+    "НЕДЕЛИНО": {
+      "bel_score": 62.8,
+      "mat_score": 46.3,
+      "students_bel": 37,
+      "students_math": 36
+    },
+    "НЕСЕБЪР": {
+      "bel_score": 39.88,
+      "mat_score": 27.61,
+      "students_bel": 212,
+      "students_math": 212
+    },
+    "НИКОЛА КОЗЛЕВО": {
+      "bel_score": 17.27,
+      "mat_score": 24.09,
+      "students_bel": 63,
+      "students_math": 62
+    },
+    "НИКОЛАЕВО": {
+      "bel_score": 11.76,
+      "mat_score": 12.63,
+      "students_bel": 68,
+      "students_math": 70
+    },
+    "НИКОПОЛ": {
+      "bel_score": 21.71,
+      "mat_score": 17.29,
+      "students_bel": 41,
+      "students_math": 41
+    },
+    "НОВА ЗАГОРА": {
+      "bel_score": 19.79,
+      "mat_score": 21.33,
+      "students_bel": 235,
+      "students_math": 235
+    },
+    "НОВИ ПАЗАР": {
+      "bel_score": 27.63,
+      "mat_score": 19.73,
+      "students_bel": 129,
+      "students_math": 135
+    },
+    "НОВО СЕЛО": {
+      "bel_score": 19.68,
+      "mat_score": 21.59,
+      "students_bel": 11,
+      "students_math": 14
+    },
+    "ОМУРТАГ": {
+      "bel_score": 37.88,
+      "mat_score": 35.04,
+      "students_bel": 139,
+      "students_math": 140
+    },
+    "ОПАКА": {
+      "bel_score": 38.5,
+      "mat_score": 25.41,
+      "students_bel": 33,
+      "students_math": 33
+    },
+    "ОПАН": {
+      "bel_score": 14.82,
+      "mat_score": 13.49,
+      "students_bel": 17,
+      "students_math": 18
+    },
+    "ОРЯХОВО": {
+      "bel_score": 37.57,
+      "mat_score": 24.5,
+      "students_bel": 61,
+      "students_math": 58
+    },
+    "ПАВЕЛ БАНЯ": {
+      "bel_score": 19.93,
+      "mat_score": 16.4,
+      "students_bel": 105,
+      "students_math": 104
+    },
+    "ПАВЛИКЕНИ": {
+      "bel_score": 24.97,
+      "mat_score": 19.57,
+      "students_bel": 137,
+      "students_math": 139
+    },
+    "ПАЗАРДЖИК": {
+      "bel_score": 32.67,
+      "mat_score": 26.11,
+      "students_bel": 864,
+      "students_math": 858
+    },
+    "ПАНАГЮРИЩЕ": {
+      "bel_score": 34.9,
+      "mat_score": 21.24,
+      "students_bel": 192,
+      "students_math": 189
+    },
+    "ПЕРНИК": {
+      "bel_score": 48.22,
+      "mat_score": 27.42,
+      "students_bel": 693,
+      "students_math": 690
+    },
+    "ПЕРУЩИЦА": {
+      "bel_score": 35.22,
+      "mat_score": 24.42,
+      "students_bel": 39,
+      "students_math": 39
+    },
+    "ПЕТРИЧ": {
+      "bel_score": 45.25,
+      "mat_score": 27.64,
+      "students_bel": 448,
+      "students_math": 444
+    },
+    "ПЕЩЕРА": {
+      "bel_score": 43.09,
+      "mat_score": 29.01,
+      "students_bel": 139,
+      "students_math": 146
+    },
+    "ПИРДОП": {
+      "bel_score": 52.96,
+      "mat_score": 30.73,
+      "students_bel": 55,
+      "students_math": 56
+    },
+    "ПЛЕВЕН": {
+      "bel_score": 38.71,
+      "mat_score": 26.52,
+      "students_bel": 1109,
+      "students_math": 1101
+    },
+    "ПЛОВДИВ": {
+      "bel_score": 54.39,
+      "mat_score": 39.54,
+      "students_bel": 3032,
+      "students_math": 3024
+    },
+    "ПОЛСКИ ТРЪМБЕШ": {
+      "bel_score": 26.34,
+      "mat_score": 19.43,
+      "students_bel": 89,
+      "students_math": 90
+    },
+    "ПОМОРИЕ": {
+      "bel_score": 43.49,
+      "mat_score": 32.28,
+      "students_bel": 239,
+      "students_math": 242
+    },
+    "ПОПОВО": {
+      "bel_score": 42.47,
+      "mat_score": 27.12,
+      "students_bel": 185,
+      "students_math": 185
+    },
+    "ПОРДИМ": {
+      "bel_score": 25.0,
+      "mat_score": 21.3,
+      "students_bel": 39,
+      "students_math": 40
+    },
+    "ПРАВЕЦ": {
+      "bel_score": 32.13,
+      "mat_score": 35.07,
+      "students_bel": 84,
+      "students_math": 85
+    },
+    "ПРИМОРСКО": {
+      "bel_score": 29.41,
+      "mat_score": 20.16,
+      "students_bel": 43,
+      "students_math": 43
+    },
+    "ПРОВАДИЯ": {
+      "bel_score": 32.85,
+      "mat_score": 27.98,
+      "students_bel": 157,
+      "students_math": 157
+    },
+    "ПЪРВОМАЙ": {
+      "bel_score": 33.71,
+      "mat_score": 22.81,
+      "students_bel": 158,
+      "students_math": 161
+    },
+    "РАДНЕВО": {
+      "bel_score": 29.73,
+      "mat_score": 18.42,
+      "students_bel": 149,
+      "students_math": 151
+    },
+    "РАДОМИР": {
+      "bel_score": 33.03,
+      "mat_score": 19.39,
+      "students_bel": 126,
+      "students_math": 127
+    },
+    "РАЗГРАД": {
+      "bel_score": 37.65,
+      "mat_score": 30.63,
+      "students_bel": 444,
+      "students_math": 449
+    },
+    "РАЗЛОГ": {
+      "bel_score": 48.74,
+      "mat_score": 30.49,
+      "students_bel": 186,
+      "students_math": 184
+    },
+    "РАКИТОВО": {
+      "bel_score": 35.88,
+      "mat_score": 28.72,
+      "students_bel": 152,
+      "students_math": 149
+    },
+    "РАКОВСКИ": {
+      "bel_score": 40.04,
+      "mat_score": 24.86,
+      "students_bel": 197,
+      "students_math": 196
+    },
+    "РИЛА": {
+      "bel_score": 51.22,
+      "mat_score": 33.92,
+      "students_bel": 9,
+      "students_math": 9
+    },
+    "РОДОПИ": {
+      "bel_score": 51.09,
+      "mat_score": 33.92,
+      "students_bel": 157,
+      "students_math": 155
+    },
+    "РОМАН": {
+      "bel_score": 30.68,
+      "mat_score": 23.88,
+      "students_bel": 32,
+      "students_math": 32
+    },
+    "РУДОЗЕМ": {
+      "bel_score": 55.55,
+      "mat_score": 36.64,
+      "students_bel": 75,
+      "students_math": 74
+    },
+    "РУЕН": {
+      "bel_score": 34.13,
+      "mat_score": 30.68,
+      "students_bel": 286,
+      "students_math": 285
+    },
+    "РУЖИНЦИ": {
+      "bel_score": 23.52,
+      "mat_score": 19.01,
+      "students_bel": 40,
+      "students_math": 39
+    },
+    "РУСЕ": {
+      "bel_score": 47.86,
+      "mat_score": 32.35,
+      "students_bel": 1231,
+      "students_math": 1232
+    },
+    "САДОВО": {
+      "bel_score": 27.94,
+      "mat_score": 20.51,
+      "students_bel": 127,
+      "students_math": 126
+    },
+    "САМОКОВ": {
+      "bel_score": 40.19,
+      "mat_score": 27.84,
+      "students_bel": 313,
+      "students_math": 306
+    },
+    "САМУИЛ": {
+      "bel_score": 25.51,
+      "mat_score": 26.86,
+      "students_bel": 39,
+      "students_math": 39
+    },
+    "САНДАНСКИ": {
+      "bel_score": 42.79,
+      "mat_score": 27.59,
+      "students_bel": 330,
+      "students_math": 331
+    },
+    "САПАРЕВА БАНЯ": {
+      "bel_score": 48.59,
+      "mat_score": 30.45,
+      "students_bel": 47,
+      "students_math": 47
+    },
+    "САТОВЧА": {
+      "bel_score": 48.46,
+      "mat_score": 30.58,
+      "students_bel": 130,
+      "students_math": 130
+    },
+    "СВИЛЕНГРАД": {
+      "bel_score": 39.96,
+      "mat_score": 29.33,
+      "students_bel": 199,
+      "students_math": 199
+    },
+    "СВИЩОВ": {
+      "bel_score": 41.62,
+      "mat_score": 25.75,
+      "students_bel": 238,
+      "students_math": 239
+    },
+    "СВОГЕ": {
+      "bel_score": 50.66,
+      "mat_score": 35.68,
+      "students_bel": 116,
+      "students_math": 116
+    },
+    "СЕВЛИЕВО": {
+      "bel_score": 31.32,
+      "mat_score": 20.18,
+      "students_bel": 279,
+      "students_math": 283
+    },
+    "СЕПТЕМВРИ": {
+      "bel_score": 31.72,
+      "mat_score": 20.19,
+      "students_bel": 139,
+      "students_math": 141
+    },
+    "СИЛИСТРА": {
+      "bel_score": 45.97,
+      "mat_score": 28.38,
+      "students_bel": 292,
+      "students_math": 290
+    },
+    "СИМЕОНОВГРАД": {
+      "bel_score": 24.79,
+      "mat_score": 16.88,
+      "students_bel": 62,
+      "students_math": 63
+    },
+    "СИМИТЛИ": {
+      "bel_score": 43.26,
+      "mat_score": 22.06,
+      "students_bel": 116,
+      "students_math": 114
+    },
+    "СИТОВО": {
+      "bel_score": 34.84,
+      "mat_score": 20.2,
+      "students_bel": 23,
+      "students_math": 23
+    },
+    "СЛИВЕН": {
+      "bel_score": 35.39,
+      "mat_score": 26.6,
+      "students_bel": 1101,
+      "students_math": 1113
+    },
+    "СЛИВНИЦА": {
+      "bel_score": 40.25,
+      "mat_score": 26.28,
+      "students_bel": 62,
+      "students_math": 61
+    },
+    "СЛИВО ПОЛЕ": {
+      "bel_score": 36.99,
+      "mat_score": 22.73,
+      "students_bel": 40,
+      "students_math": 41
+    },
+    "СМОЛЯН": {
+      "bel_score": 58.95,
+      "mat_score": 38.1,
+      "students_bel": 333,
+      "students_math": 334
+    },
+    "СМЯДОВО": {
+      "bel_score": 24.68,
+      "mat_score": 22.3,
+      "students_bel": 28,
+      "students_math": 28
+    },
+    "СОЗОПОЛ": {
+      "bel_score": 38.64,
+      "mat_score": 22.28,
+      "students_bel": 99,
+      "students_math": 95
+    },
+    "СОПОТ": {
+      "bel_score": 42.62,
+      "mat_score": 24.98,
+      "students_bel": 47,
+      "students_math": 47
+    },
+    "СРЕДЕЦ": {
+      "bel_score": 24.4,
+      "mat_score": 20.31,
+      "students_bel": 123,
+      "students_math": 126
+    },
+    "СТАМБОЛИЙСКИ": {
+      "bel_score": 28.87,
+      "mat_score": 22.81,
+      "students_bel": 167,
+      "students_math": 168
+    },
+    "СТАМБОЛОВО": {
+      "bel_score": 28.97,
+      "mat_score": 22.54,
+      "students_bel": 50,
+      "students_math": 51
+    },
+    "СТАРА ЗАГОРА": {
+      "bel_score": 39.38,
+      "mat_score": 28.27,
+      "students_bel": 1284,
+      "students_math": 1299
+    },
+    "СТОЛИЧНА": {
+      "bel_score": 58.21,
+      "mat_score": 41.79,
+      "students_bel": 10650,
+      "students_math": 10624
+    },
+    "СТРАЖИЦА": {
+      "bel_score": 22.13,
+      "mat_score": 15.11,
+      "students_bel": 81,
+      "students_math": 82
+    },
+    "СТРАЛДЖА": {
+      "bel_score": 32.44,
+      "mat_score": 32.1,
+      "students_bel": 88,
+      "students_math": 87
+    },
+    "СТРЕЛЧА": {
+      "bel_score": 44.09,
+      "mat_score": 36.06,
+      "students_bel": 32,
+      "students_math": 31
+    },
+    "СТРУМЯНИ": {
+      "bel_score": 19.26,
+      "mat_score": 16.55,
+      "students_bel": 25,
+      "students_math": 25
+    },
+    "СУВОРОВО": {
+      "bel_score": 31.77,
+      "mat_score": 23.46,
+      "students_bel": 61,
+      "students_math": 61
+    },
+    "СУНГУРЛАРЕ": {
+      "bel_score": 31.13,
+      "mat_score": 31.84,
+      "students_bel": 88,
+      "students_math": 88
+    },
+    "СУХИНДОЛ": {
+      "bel_score": 25.77,
+      "mat_score": 16.58,
+      "students_bel": 15,
+      "students_math": 15
+    },
+    "СЪЕДИНЕНИЕ": {
+      "bel_score": 32.05,
+      "mat_score": 20.47,
+      "students_bel": 33,
+      "students_math": 31
+    },
+    "СЪРНИЦА": {
+      "bel_score": 32.47,
+      "mat_score": 30.77,
+      "students_bel": 33,
+      "students_math": 32
+    },
+    "ТВЪРДИЦА": {
+      "bel_score": 31.66,
+      "mat_score": 23.85,
+      "students_bel": 98,
+      "students_math": 101
+    },
+    "ТЕРВЕЛ": {
+      "bel_score": 26.05,
+      "mat_score": 22.49,
+      "students_bel": 108,
+      "students_math": 109
+    },
+    "ТЕТЕВЕН": {
+      "bel_score": 37.54,
+      "mat_score": 23.66,
+      "students_bel": 169,
+      "students_math": 169
+    },
+    "ТОПОЛОВГРАД": {
+      "bel_score": 39.71,
+      "mat_score": 36.88,
+      "students_bel": 73,
+      "students_math": 72
+    },
+    "ТРЕКЛЯНО": {
+      "bel_score": 21.4,
+      "mat_score": 24.75,
+      "students_bel": 5,
+      "students_math": 2
+    },
+    "ТРОЯН": {
+      "bel_score": 48.52,
+      "mat_score": 24.88,
+      "students_bel": 215,
+      "students_math": 215
+    },
+    "ТРЪН": {
+      "bel_score": 20.88,
+      "mat_score": 13.5,
+      "students_bel": 21,
+      "students_math": 20
+    },
+    "ТРЯВНА": {
+      "bel_score": 51.75,
+      "mat_score": 26.59,
+      "students_bel": 62,
+      "students_math": 62
+    },
+    "ТУНДЖА": {
+      "bel_score": 24.84,
+      "mat_score": 21.06,
+      "students_bel": 91,
+      "students_math": 94
+    },
+    "ТУТРАКАН": {
+      "bel_score": 33.44,
+      "mat_score": 22.01,
+      "students_bel": 102,
+      "students_math": 102
+    },
+    "ТЪРГОВИЩЕ": {
+      "bel_score": 30.82,
+      "mat_score": 30.41,
+      "students_bel": 438,
+      "students_math": 435
+    },
+    "УГЪРЧИН": {
+      "bel_score": 30.38,
+      "mat_score": 25.66,
+      "students_bel": 40,
+      "students_math": 43
+    },
+    "ХАДЖИДИМОВО": {
+      "bel_score": 49.88,
+      "mat_score": 35.94,
+      "students_bel": 86,
+      "students_math": 86
+    },
+    "ХАЙРЕДИН": {
+      "bel_score": 30.3,
+      "mat_score": 17.0,
+      "students_bel": 15,
+      "students_math": 14
+    },
+    "ХАРМАНЛИ": {
+      "bel_score": 34.43,
+      "mat_score": 34.52,
+      "students_bel": 187,
+      "students_math": 177
+    },
+    "ХАСКОВО": {
+      "bel_score": 41.22,
+      "mat_score": 30.13,
+      "students_bel": 781,
+      "students_math": 783
+    },
+    "ХИСАРЯ": {
+      "bel_score": 37.95,
+      "mat_score": 20.71,
+      "students_bel": 69,
+      "students_math": 67
+    },
+    "ХИТРИНО": {
+      "bel_score": 32.56,
+      "mat_score": 27.33,
+      "students_bel": 27,
+      "students_math": 27
+    },
+    "ЦАР КАЛОЯН": {
+      "bel_score": 38.13,
+      "mat_score": 23.68,
+      "students_bel": 35,
+      "students_math": 35
+    },
+    "ЦАРЕВО": {
+      "bel_score": 37.86,
+      "mat_score": 23.57,
+      "students_bel": 58,
+      "students_math": 59
+    },
+    "ЦЕНОВО": {
+      "bel_score": 35.27,
+      "mat_score": 33.18,
+      "students_bel": 28,
+      "students_math": 30
+    },
+    "ЧАВДАР": {
+      "bel_score": 47.63,
+      "mat_score": 27.04,
+      "students_bel": 12,
+      "students_math": 12
+    },
+    "ЧЕЛОПЕЧ": {
+      "bel_score": 54.4,
+      "mat_score": 42.12,
+      "students_bel": 25,
+      "students_math": 25
+    },
+    "ЧЕПЕЛАРЕ": {
+      "bel_score": 49.73,
+      "mat_score": 30.32,
+      "students_bel": 48,
+      "students_math": 48
+    },
+    "ЧЕРВЕН БРЯГ": {
+      "bel_score": 31.39,
+      "mat_score": 19.48,
+      "students_bel": 194,
+      "students_math": 193
+    },
+    "ЧЕРНООЧЕНЕ": {
+      "bel_score": 42.47,
+      "mat_score": 41.4,
+      "students_bel": 60,
+      "students_math": 60
+    },
+    "ЧИПРОВЦИ": {
+      "bel_score": 63.71,
+      "mat_score": 48.46,
+      "students_bel": 7,
+      "students_math": 7
+    },
+    "ЧИРПАН": {
+      "bel_score": 24.94,
+      "mat_score": 23.3,
+      "students_bel": 184,
+      "students_math": 185
+    },
+    "ЧУПРЕНЕ": {
+      "bel_score": 23.55,
+      "mat_score": 16.25,
+      "students_bel": 11,
+      "students_math": 10
+    },
+    "ШАБЛА": {
+      "bel_score": 47.34,
+      "mat_score": 29.14,
+      "students_bel": 29,
+      "students_math": 28
+    },
+    "ШУМЕН": {
+      "bel_score": 43.02,
+      "mat_score": 31.97,
+      "students_bel": 764,
+      "students_math": 765
+    },
+    "ЯБЛАНИЦА": {
+      "bel_score": 28.36,
+      "mat_score": 35.13,
+      "students_bel": 66,
+      "students_math": 69
+    },
+    "ЯКИМОВО": {
+      "bel_score": 15.93,
+      "mat_score": 12.49,
+      "students_bel": 27,
+      "students_math": 27
+    },
+    "ЯКОРУДА": {
+      "bel_score": 49.53,
+      "mat_score": 34.01,
+      "students_bel": 71,
+      "students_math": 70
+    },
+    "ЯМБОЛ": {
+      "bel_score": 40.63,
+      "mat_score": 30.72,
+      "students_bel": 667,
+      "students_math": 671
+    },
+    "ДОБРИЧКА": {
+      "bel_score": 20.26,
+      "mat_score": 14.71,
+      "students_bel": 107,
+      "students_math": 109
+    },
+    "В ЧУЖБИНА": {
+      "bel_score": 42.27,
+      "mat_score": 24.12,
+      "students_bel": 19,
+      "students_math": 19
+    }
+  },
+  "2020-2021": {
+    "АВРЕН": {
+      "bel_score": 37.11,
+      "mat_score": 21.51,
+      "students_bel": 67,
+      "students_math": 66
+    },
+    "АЙТОС": {
+      "bel_score": 41.39,
+      "mat_score": 28.32,
+      "students_bel": 255,
+      "students_math": 255
+    },
+    "АКСАКОВО": {
+      "bel_score": 37.49,
+      "mat_score": 22.4,
+      "students_bel": 163,
+      "students_math": 161
+    },
+    "АЛФАТАР": {
+      "bel_score": 30.7,
+      "mat_score": 27.73,
+      "students_bel": 10,
+      "students_math": 10
+    },
+    "АНТОН": {
+      "bel_score": 52.13,
+      "mat_score": 44.94,
+      "students_bel": 12,
+      "students_math": 12
+    },
+    "АНТОНОВО": {
+      "bel_score": 38.32,
+      "mat_score": 33.21,
+      "students_bel": 23,
+      "students_math": 22
+    },
+    "АПРИЛЦИ": {
+      "bel_score": 55.41,
+      "mat_score": 24.44,
+      "students_bel": 17,
+      "students_math": 17
+    },
+    "АРДИНО": {
+      "bel_score": 47.23,
+      "mat_score": 31.38,
+      "students_bel": 48,
+      "students_math": 48
+    },
+    "АСЕНОВГРАД": {
+      "bel_score": 48.15,
+      "mat_score": 31.24,
+      "students_bel": 530,
+      "students_math": 530
+    },
+    "БАЛЧИК": {
+      "bel_score": 38.2,
+      "mat_score": 20.08,
+      "students_bel": 107,
+      "students_math": 106
+    },
+    "БАНИТЕ": {
+      "bel_score": 56.91,
+      "mat_score": 58.16,
+      "students_bel": 13,
+      "students_math": 13
+    },
+    "БАНСКО": {
+      "bel_score": 64.17,
+      "mat_score": 40.04,
+      "students_bel": 111,
+      "students_math": 111
+    },
+    "БАТАК": {
+      "bel_score": 50.16,
+      "mat_score": 42.78,
+      "students_bel": 32,
+      "students_math": 31
+    },
+    "БЕЛЕНЕ": {
+      "bel_score": 62.39,
+      "mat_score": 46.2,
+      "students_bel": 44,
+      "students_math": 44
+    },
+    "БЕЛИЦА": {
+      "bel_score": 46.34,
+      "mat_score": 44.1,
+      "students_bel": 118,
+      "students_math": 117
+    },
+    "БЕЛОВО": {
+      "bel_score": 45.89,
+      "mat_score": 27.9,
+      "students_bel": 65,
+      "students_math": 65
+    },
+    "БЕЛОГРАДЧИК": {
+      "bel_score": 27.08,
+      "mat_score": 15.43,
+      "students_bel": 39,
+      "students_math": 41
+    },
+    "БЕЛОСЛАВ": {
+      "bel_score": 52.48,
+      "mat_score": 26.94,
+      "students_bel": 92,
+      "students_math": 93
+    },
+    "БЕРКОВИЦА": {
+      "bel_score": 42.79,
+      "mat_score": 26.35,
+      "students_bel": 90,
+      "students_math": 92
+    },
+    "БЛАГОЕВГРАД": {
+      "bel_score": 59.93,
+      "mat_score": 43.09,
+      "students_bel": 662,
+      "students_math": 657
+    },
+    "БОБОВ ДОЛ": {
+      "bel_score": 36.4,
+      "mat_score": 22.49,
+      "students_bel": 42,
+      "students_math": 41
+    },
+    "БОБОШЕВО": {
+      "bel_score": 54.2,
+      "mat_score": 36.53,
+      "students_bel": 10,
+      "students_math": 10
+    },
+    "БОЖУРИЩЕ": {
+      "bel_score": 37.38,
+      "mat_score": 24.07,
+      "students_bel": 66,
+      "students_math": 66
+    },
+    "БОЙНИЦА": {
+      "bel_score": 24.17,
+      "mat_score": 13.17,
+      "students_bel": 3,
+      "students_math": 3
+    },
+    "БОЙЧИНОВЦИ": {
+      "bel_score": 25.54,
+      "mat_score": 17.4,
+      "students_bel": 51,
+      "students_math": 51
+    },
+    "БОЛЯРОВО": {
+      "bel_score": 29.98,
+      "mat_score": 32.25,
+      "students_bel": 25,
+      "students_math": 25
+    },
+    "БОРИНО": {
+      "bel_score": 62.91,
+      "mat_score": 38.61,
+      "students_bel": 14,
+      "students_math": 14
+    },
+    "БОРОВАН": {
+      "bel_score": 29.7,
+      "mat_score": 16.68,
+      "students_bel": 44,
+      "students_math": 43
+    },
+    "БОРОВО": {
+      "bel_score": 31.99,
+      "mat_score": 28.12,
+      "students_bel": 22,
+      "students_math": 22
+    },
+    "БОТЕВГРАД": {
+      "bel_score": 44.57,
+      "mat_score": 30.73,
+      "students_bel": 289,
+      "students_math": 287
+    },
+    "БРАТЯ ДАСКАЛОВИ": {
+      "bel_score": 17.23,
+      "mat_score": 14.66,
+      "students_bel": 52,
+      "students_math": 51
+    },
+    "БРАЦИГОВО": {
+      "bel_score": 19.07,
+      "mat_score": 15.56,
+      "students_bel": 35,
+      "students_math": 36
+    },
+    "БРЕГОВО": {
+      "bel_score": 47.82,
+      "mat_score": 22.6,
+      "students_bel": 17,
+      "students_math": 17
+    },
+    "БРЕЗНИК": {
+      "bel_score": 42.55,
+      "mat_score": 25.38,
+      "students_bel": 40,
+      "students_math": 39
+    },
+    "БРЕЗОВО": {
+      "bel_score": 29.43,
+      "mat_score": 14.53,
+      "students_bel": 47,
+      "students_math": 46
+    },
+    "БРУСАРЦИ": {
+      "bel_score": 39.4,
+      "mat_score": 27.67,
+      "students_bel": 23,
+      "students_math": 23
+    },
+    "БУРГАС": {
+      "bel_score": 56.37,
+      "mat_score": 41.3,
+      "students_bel": 2181,
+      "students_math": 2173
+    },
+    "БЯЛА": {
+      "bel_score": 38.52,
+      "mat_score": 21.62,
+      "students_bel": 114,
+      "students_math": 113
+    },
+    "БЯЛА СЛАТИНА": {
+      "bel_score": 38.67,
+      "mat_score": 24.13,
+      "students_bel": 208,
+      "students_math": 207
+    },
+    "ВАРНА": {
+      "bel_score": 58.91,
+      "mat_score": 42.98,
+      "students_bel": 3068,
+      "students_math": 3065
+    },
+    "ВЕЛИКИ ПРЕСЛАВ": {
+      "bel_score": 44.95,
+      "mat_score": 25.18,
+      "students_bel": 69,
+      "students_math": 69
+    },
+    "ВЕЛИКО ТЪРНОВО": {
+      "bel_score": 52.46,
+      "mat_score": 31.32,
+      "students_bel": 638,
+      "students_math": 638
+    },
+    "ВЕЛИНГРАД": {
+      "bel_score": 47.0,
+      "mat_score": 35.63,
+      "students_bel": 316,
+      "students_math": 315
+    },
+    "ВЕНЕЦ": {
+      "bel_score": 28.95,
+      "mat_score": 31.99,
+      "students_bel": 37,
+      "students_math": 37
+    },
+    "ВЕТОВО": {
+      "bel_score": 38.11,
+      "mat_score": 28.21,
+      "students_bel": 94,
+      "students_math": 91
+    },
+    "ВЕТРИНО": {
+      "bel_score": 42.33,
+      "mat_score": 28.76,
+      "students_bel": 29,
+      "students_math": 29
+    },
+    "ВИДИН": {
+      "bel_score": 46.13,
+      "mat_score": 30.19,
+      "students_bel": 403,
+      "students_math": 397
+    },
+    "ВРАЦА": {
+      "bel_score": 45.92,
+      "mat_score": 28.42,
+      "students_bel": 589,
+      "students_math": 586
+    },
+    "ВЪЛЧЕДРЪМ": {
+      "bel_score": 25.0,
+      "mat_score": 20.67,
+      "students_bel": 66,
+      "students_math": 68
+    },
+    "ВЪЛЧИ ДОЛ": {
+      "bel_score": 22.98,
+      "mat_score": 19.52,
+      "students_bel": 63,
+      "students_math": 62
+    },
+    "ВЪРБИЦА": {
+      "bel_score": 28.2,
+      "mat_score": 20.08,
+      "students_bel": 75,
+      "students_math": 74
+    },
+    "ВЪРШЕЦ": {
+      "bel_score": 40.69,
+      "mat_score": 30.27,
+      "students_bel": 47,
+      "students_math": 45
+    },
+    "ГАБРОВО": {
+      "bel_score": 60.02,
+      "mat_score": 39.73,
+      "students_bel": 426,
+      "students_math": 426
+    },
+    "ГЕНЕРАЛ ТОШЕВО": {
+      "bel_score": 31.45,
+      "mat_score": 20.09,
+      "students_bel": 87,
+      "students_math": 85
+    },
+    "ГЕОРГИ ДАМЯНОВО": {
+      "bel_score": 32.63,
+      "mat_score": 26.25,
+      "students_bel": 4,
+      "students_math": 4
+    },
+    "ГЛАВИНИЦА": {
+      "bel_score": 37.13,
+      "mat_score": 22.5,
+      "students_bel": 69,
+      "students_math": 68
+    },
+    "ГОДЕЧ": {
+      "bel_score": 46.85,
+      "mat_score": 25.42,
+      "students_bel": 34,
+      "students_math": 33
+    },
+    "ГОРНА МАЛИНА": {
+      "bel_score": 36.63,
+      "mat_score": 23.13,
+      "students_bel": 42,
+      "students_math": 42
+    },
+    "ГОРНА ОРЯХОВИЦА": {
+      "bel_score": 44.7,
+      "mat_score": 26.03,
+      "students_bel": 335,
+      "students_math": 335
+    },
+    "ГОЦЕ ДЕЛЧЕВ": {
+      "bel_score": 55.25,
+      "mat_score": 36.21,
+      "students_bel": 319,
+      "students_math": 319
+    },
+    "ГРАМАДА": {
+      "bel_score": 21.9,
+      "mat_score": 12.8,
+      "students_bel": 5,
+      "students_math": 5
+    },
+    "ГУЛЯНЦИ": {
+      "bel_score": 43.21,
+      "mat_score": 29.36,
+      "students_bel": 61,
+      "students_math": 61
+    },
+    "ГУРКОВО": {
+      "bel_score": 16.66,
+      "mat_score": 13.57,
+      "students_bel": 58,
+      "students_math": 56
+    },
+    "ГЪЛЪБОВО": {
+      "bel_score": 35.74,
+      "mat_score": 24.67,
+      "students_bel": 100,
+      "students_math": 99
+    },
+    "ГЪРМЕН": {
+      "bel_score": 42.75,
+      "mat_score": 35.46,
+      "students_bel": 186,
+      "students_math": 185
+    },
+    "ДВЕ МОГИЛИ": {
+      "bel_score": 34.42,
+      "mat_score": 34.33,
+      "students_bel": 50,
+      "students_math": 50
+    },
+    "ДЕВИН": {
+      "bel_score": 60.26,
+      "mat_score": 36.79,
+      "students_bel": 70,
+      "students_math": 70
+    },
+    "ДЕВНЯ": {
+      "bel_score": 36.87,
+      "mat_score": 18.95,
+      "students_bel": 65,
+      "students_math": 65
+    },
+    "ДЖЕБЕЛ": {
+      "bel_score": 42.18,
+      "mat_score": 30.17,
+      "students_bel": 63,
+      "students_math": 63
+    },
+    "ДИМИТРОВГРАД": {
+      "bel_score": 39.4,
+      "mat_score": 25.81,
+      "students_bel": 360,
+      "students_math": 361
+    },
+    "ДИМОВО": {
+      "bel_score": 28.26,
+      "mat_score": 16.22,
+      "students_bel": 54,
+      "students_math": 50
+    },
+    "ДОБРИЧ": {
+      "bel_score": 50.31,
+      "mat_score": 33.52,
+      "students_bel": 764,
+      "students_math": 763
+    },
+    "ДОЛНА БАНЯ": {
+      "bel_score": 26.63,
+      "mat_score": 17.57,
+      "students_bel": 35,
+      "students_math": 34
+    },
+    "ДОЛНА МИТРОПОЛИЯ": {
+      "bel_score": 34.32,
+      "mat_score": 20.8,
+      "students_bel": 108,
+      "students_math": 109
+    },
+    "ДОЛНИ ДЪБНИК": {
+      "bel_score": 30.58,
+      "mat_score": 30.74,
+      "students_bel": 61,
+      "students_math": 61
+    },
+    "ДОЛНИ ЧИФЛИК": {
+      "bel_score": 36.64,
+      "mat_score": 26.62,
+      "students_bel": 182,
+      "students_math": 181
+    },
+    "ДОСПАТ": {
+      "bel_score": 57.01,
+      "mat_score": 42.69,
+      "students_bel": 60,
+      "students_math": 60
+    },
+    "ДРАГОМАН": {
+      "bel_score": 54.3,
+      "mat_score": 22.22,
+      "students_bel": 27,
+      "students_math": 27
+    },
+    "ДРЯНОВО": {
+      "bel_score": 47.53,
+      "mat_score": 25.49,
+      "students_bel": 44,
+      "students_math": 44
+    },
+    "ДУЛОВО": {
+      "bel_score": 33.13,
+      "mat_score": 25.86,
+      "students_bel": 220,
+      "students_math": 221
+    },
+    "ДУПНИЦА": {
+      "bel_score": 48.73,
+      "mat_score": 29.48,
+      "students_bel": 344,
+      "students_math": 341
+    },
+    "ДЪЛГОПОЛ": {
+      "bel_score": 34.28,
+      "mat_score": 19.73,
+      "students_bel": 106,
+      "students_math": 105
+    },
+    "ЕЛЕНА": {
+      "bel_score": 28.73,
+      "mat_score": 18.53,
+      "students_bel": 61,
+      "students_math": 61
+    },
+    "ЕЛИН ПЕЛИН": {
+      "bel_score": 46.14,
+      "mat_score": 26.46,
+      "students_bel": 187,
+      "students_math": 187
+    },
+    "ЕЛХОВО": {
+      "bel_score": 42.17,
+      "mat_score": 43.03,
+      "students_bel": 105,
+      "students_math": 104
+    },
+    "ЕТРОПОЛЕ": {
+      "bel_score": 31.38,
+      "mat_score": 29.19,
+      "students_bel": 111,
+      "students_math": 110
+    },
+    "ЗАВЕТ": {
+      "bel_score": 42.45,
+      "mat_score": 44.54,
+      "students_bel": 50,
+      "students_math": 50
+    },
+    "ЗЕМЕН": {
+      "bel_score": 47.17,
+      "mat_score": 24.92,
+      "students_bel": 9,
+      "students_math": 9
+    },
+    "ЗЛАТАРИЦА": {
+      "bel_score": 26.89,
+      "mat_score": 11.96,
+      "students_bel": 29,
+      "students_math": 31
+    },
+    "ЗЛАТИЦА": {
+      "bel_score": 67.44,
+      "mat_score": 40.78,
+      "students_bel": 48,
+      "students_math": 48
+    },
+    "ЗЛАТОГРАД": {
+      "bel_score": 63.46,
+      "mat_score": 46.79,
+      "students_bel": 67,
+      "students_math": 67
+    },
+    "ИВАЙЛОВГРАД": {
+      "bel_score": 40.14,
+      "mat_score": 24.11,
+      "students_bel": 44,
+      "students_math": 43
+    },
+    "ИВАНОВО": {
+      "bel_score": 39.49,
+      "mat_score": 23.3,
+      "students_bel": 18,
+      "students_math": 17
+    },
+    "ИСКЪР": {
+      "bel_score": 31.09,
+      "mat_score": 15.24,
+      "students_bel": 25,
+      "students_math": 25
+    },
+    "ИСПЕРИХ": {
+      "bel_score": 38.65,
+      "mat_score": 35.26,
+      "students_bel": 165,
+      "students_math": 163
+    },
+    "ИХТИМАН": {
+      "bel_score": 32.52,
+      "mat_score": 25.88,
+      "students_bel": 185,
+      "students_math": 182
+    },
+    "КАВАРНА": {
+      "bel_score": 44.23,
+      "mat_score": 27.65,
+      "students_bel": 84,
+      "students_math": 84
+    },
+    "КАЗАНЛЪК": {
+      "bel_score": 39.87,
+      "mat_score": 26.25,
+      "students_bel": 636,
+      "students_math": 635
+    },
+    "КАЙНАРДЖА": {
+      "bel_score": 20.61,
+      "mat_score": 14.51,
+      "students_bel": 52,
+      "students_math": 52
+    },
+    "КАЛОЯНОВО": {
+      "bel_score": 38.51,
+      "mat_score": 29.87,
+      "students_bel": 55,
+      "students_math": 55
+    },
+    "КАМЕНО": {
+      "bel_score": 34.9,
+      "mat_score": 18.65,
+      "students_bel": 68,
+      "students_math": 67
+    },
+    "КАОЛИНОВО": {
+      "bel_score": 29.91,
+      "mat_score": 24.98,
+      "students_bel": 88,
+      "students_math": 86
+    },
+    "КАРЛОВО": {
+      "bel_score": 34.37,
+      "mat_score": 20.48,
+      "students_bel": 485,
+      "students_math": 481
+    },
+    "КАРНОБАТ": {
+      "bel_score": 36.69,
+      "mat_score": 27.98,
+      "students_bel": 203,
+      "students_math": 203
+    },
+    "КАСПИЧАН": {
+      "bel_score": 24.73,
+      "mat_score": 19.28,
+      "students_bel": 63,
+      "students_math": 62
+    },
+    "КИРКОВО": {
+      "bel_score": 48.72,
+      "mat_score": 38.83,
+      "students_bel": 121,
+      "students_math": 121
+    },
+    "КНЕЖА": {
+      "bel_score": 35.57,
+      "mat_score": 26.2,
+      "students_bel": 107,
+      "students_math": 108
+    },
+    "КОВАЧЕВЦИ": {
+      "bel_score": 9.0,
+      "mat_score": 9.25,
+      "students_bel": 1,
+      "students_math": 1
+    },
+    "КОЗЛОДУЙ": {
+      "bel_score": 37.49,
+      "mat_score": 23.46,
+      "students_bel": 177,
+      "students_math": 177
+    },
+    "КОПРИВЩИЦА": {
+      "bel_score": 53.05,
+      "mat_score": 49.66,
+      "students_bel": 11,
+      "students_math": 11
+    },
+    "КОСТЕНЕЦ": {
+      "bel_score": 52.31,
+      "mat_score": 32.02,
+      "students_bel": 107,
+      "students_math": 107
+    },
+    "КОСТИНБРОД": {
+      "bel_score": 56.75,
+      "mat_score": 35.08,
+      "students_bel": 120,
+      "students_math": 119
+    },
+    "КОТЕЛ": {
+      "bel_score": 35.14,
+      "mat_score": 25.71,
+      "students_bel": 158,
+      "students_math": 158
+    },
+    "КОЧЕРИНОВО": {
+      "bel_score": 46.15,
+      "mat_score": 24.08,
+      "students_bel": 20,
+      "students_math": 18
+    },
+    "КРЕСНА": {
+      "bel_score": 56.84,
+      "mat_score": 31.38,
+      "students_bel": 28,
+      "students_math": 28
+    },
+    "КРИВОДОЛ": {
+      "bel_score": 24.16,
+      "mat_score": 16.03,
+      "students_bel": 48,
+      "students_math": 48
+    },
+    "КРИЧИМ": {
+      "bel_score": 27.19,
+      "mat_score": 19.38,
+      "students_bel": 32,
+      "students_math": 30
+    },
+    "КРУМОВГРАД": {
+      "bel_score": 32.73,
+      "mat_score": 24.99,
+      "students_bel": 142,
+      "students_math": 140
+    },
+    "КРУШАРИ": {
+      "bel_score": 23.72,
+      "mat_score": 14.99,
+      "students_bel": 27,
+      "students_math": 27
+    },
+    "КУБРАТ": {
+      "bel_score": 37.31,
+      "mat_score": 20.93,
+      "students_bel": 126,
+      "students_math": 126
+    },
+    "КУКЛЕН": {
+      "bel_score": 52.81,
+      "mat_score": 35.44,
+      "students_bel": 55,
+      "students_math": 54
+    },
+    "КУЛА": {
+      "bel_score": 46.36,
+      "mat_score": 23.13,
+      "students_bel": 22,
+      "students_math": 22
+    },
+    "КЪРДЖАЛИ": {
+      "bel_score": 32.62,
+      "mat_score": 29.62,
+      "students_bel": 650,
+      "students_math": 653
+    },
+    "КЮСТЕНДИЛ": {
+      "bel_score": 51.0,
+      "mat_score": 32.22,
+      "students_bel": 388,
+      "students_math": 379
+    },
+    "ЛЕВСКИ": {
+      "bel_score": 34.31,
+      "mat_score": 18.48,
+      "students_bel": 99,
+      "students_math": 100
+    },
+    "ЛЕСИЧОВО": {
+      "bel_score": 18.51,
+      "mat_score": 19.11,
+      "students_bel": 27,
+      "students_math": 26
+    },
+    "ЛЕТНИЦА": {
+      "bel_score": 28.08,
+      "mat_score": 18.64,
+      "students_bel": 18,
+      "students_math": 18
+    },
+    "ЛОВЕЧ": {
+      "bel_score": 43.88,
+      "mat_score": 32.37,
+      "students_bel": 292,
+      "students_math": 291
+    },
+    "ЛОЗНИЦА": {
+      "bel_score": 30.15,
+      "mat_score": 23.27,
+      "students_bel": 54,
+      "students_math": 53
+    },
+    "ЛОМ": {
+      "bel_score": 41.77,
+      "mat_score": 34.36,
+      "students_bel": 201,
+      "students_math": 202
+    },
+    "ЛУКОВИТ": {
+      "bel_score": 31.17,
+      "mat_score": 21.56,
+      "students_bel": 194,
+      "students_math": 194
+    },
+    "ЛЪКИ": {
+      "bel_score": 56.13,
+      "mat_score": 30.23,
+      "students_bel": 12,
+      "students_math": 12
+    },
+    "ЛЮБИМЕЦ": {
+      "bel_score": 38.33,
+      "mat_score": 36.64,
+      "students_bel": 79,
+      "students_math": 78
+    },
+    "ЛЯСКОВЕЦ": {
+      "bel_score": 48.15,
+      "mat_score": 28.85,
+      "students_bel": 62,
+      "students_math": 62
+    },
+    "МАДАН": {
+      "bel_score": 59.77,
+      "mat_score": 29.76,
+      "students_bel": 90,
+      "students_math": 90
+    },
+    "МАДЖАРОВО": {
+      "bel_score": 44.37,
+      "mat_score": 27.48,
+      "students_bel": 15,
+      "students_math": 15
+    },
+    "МАКРЕШ": {
+      "bel_score": 11.0,
+      "mat_score": 17.0,
+      "students_bel": 2,
+      "students_math": 2
+    },
+    "МАЛКО ТЪРНОВО": {
+      "bel_score": 23.78,
+      "mat_score": 20.16,
+      "students_bel": 20,
+      "students_math": 20
+    },
+    "МАРИЦА": {
+      "bel_score": 40.38,
+      "mat_score": 25.3,
+      "students_bel": 193,
+      "students_math": 185
+    },
+    "МЕДКОВЕЦ": {
+      "bel_score": 35.02,
+      "mat_score": 19.84,
+      "students_bel": 22,
+      "students_math": 24
+    },
+    "МЕЗДРА": {
+      "bel_score": 49.08,
+      "mat_score": 28.66,
+      "students_bel": 129,
+      "students_math": 130
+    },
+    "МИЗИЯ": {
+      "bel_score": 47.01,
+      "mat_score": 23.81,
+      "students_bel": 40,
+      "students_math": 40
+    },
+    "МИНЕРАЛНИ БАНИ": {
+      "bel_score": 47.02,
+      "mat_score": 31.81,
+      "students_bel": 40,
+      "students_math": 40
+    },
+    "МИРКОВО": {
+      "bel_score": 53.0,
+      "mat_score": 34.77,
+      "students_bel": 11,
+      "students_math": 11
+    },
+    "МОМЧИЛГРАД": {
+      "bel_score": 27.85,
+      "mat_score": 24.87,
+      "students_bel": 112,
+      "students_math": 111
+    },
+    "МОНТАНА": {
+      "bel_score": 51.43,
+      "mat_score": 29.96,
+      "students_bel": 408,
+      "students_math": 411
+    },
+    "МЪГЛИЖ": {
+      "bel_score": 20.25,
+      "mat_score": 17.51,
+      "students_bel": 96,
+      "students_math": 95
+    },
+    "НЕВЕСТИНО": {
+      "bel_score": 26.3,
+      "mat_score": 12.4,
+      "students_bel": 15,
+      "students_math": 15
+    },
+    "НЕДЕЛИНО": {
+      "bel_score": 71.59,
+      "mat_score": 51.44,
+      "students_bel": 33,
+      "students_math": 33
+    },
+    "НЕСЕБЪР": {
+      "bel_score": 43.26,
+      "mat_score": 27.02,
+      "students_bel": 209,
+      "students_math": 209
+    },
+    "НИКОЛА КОЗЛЕВО": {
+      "bel_score": 25.64,
+      "mat_score": 19.08,
+      "students_bel": 55,
+      "students_math": 55
+    },
+    "НИКОЛАЕВО": {
+      "bel_score": 17.99,
+      "mat_score": 22.95,
+      "students_bel": 45,
+      "students_math": 42
+    },
+    "НИКОПОЛ": {
+      "bel_score": 35.89,
+      "mat_score": 23.68,
+      "students_bel": 30,
+      "students_math": 30
+    },
+    "НОВА ЗАГОРА": {
+      "bel_score": 21.57,
+      "mat_score": 17.24,
+      "students_bel": 256,
+      "students_math": 254
+    },
+    "НОВИ ПАЗАР": {
+      "bel_score": 30.65,
+      "mat_score": 22.85,
+      "students_bel": 155,
+      "students_math": 156
+    },
+    "НОВО СЕЛО": {
+      "bel_score": 10.86,
+      "mat_score": 7.94,
+      "students_bel": 14,
+      "students_math": 12
+    },
+    "ОМУРТАГ": {
+      "bel_score": 38.82,
+      "mat_score": 30.75,
+      "students_bel": 145,
+      "students_math": 145
+    },
+    "ОПАКА": {
+      "bel_score": 40.88,
+      "mat_score": 26.36,
+      "students_bel": 35,
+      "students_math": 35
+    },
+    "ОПАН": {
+      "bel_score": 20.64,
+      "mat_score": 14.29,
+      "students_bel": 14,
+      "students_math": 14
+    },
+    "ОРЯХОВО": {
+      "bel_score": 47.17,
+      "mat_score": 27.19,
+      "students_bel": 65,
+      "students_math": 65
+    },
+    "ПАВЕЛ БАНЯ": {
+      "bel_score": 17.02,
+      "mat_score": 16.62,
+      "students_bel": 114,
+      "students_math": 115
+    },
+    "ПАВЛИКЕНИ": {
+      "bel_score": 36.92,
+      "mat_score": 19.66,
+      "students_bel": 123,
+      "students_math": 122
+    },
+    "ПАЗАРДЖИК": {
+      "bel_score": 35.15,
+      "mat_score": 24.82,
+      "students_bel": 841,
+      "students_math": 840
+    },
+    "ПАНАГЮРИЩЕ": {
+      "bel_score": 39.29,
+      "mat_score": 21.39,
+      "students_bel": 191,
+      "students_math": 187
+    },
+    "ПЕРНИК": {
+      "bel_score": 53.68,
+      "mat_score": 30.55,
+      "students_bel": 734,
+      "students_math": 733
+    },
+    "ПЕРУЩИЦА": {
+      "bel_score": 46.42,
+      "mat_score": 38.99,
+      "students_bel": 32,
+      "students_math": 32
+    },
+    "ПЕТРИЧ": {
+      "bel_score": 48.42,
+      "mat_score": 30.75,
+      "students_bel": 433,
+      "students_math": 426
+    },
+    "ПЕЩЕРА": {
+      "bel_score": 41.92,
+      "mat_score": 27.26,
+      "students_bel": 124,
+      "students_math": 124
+    },
+    "ПИРДОП": {
+      "bel_score": 57.13,
+      "mat_score": 36.18,
+      "students_bel": 44,
+      "students_math": 44
+    },
+    "ПЛЕВЕН": {
+      "bel_score": 41.79,
+      "mat_score": 27.86,
+      "students_bel": 1079,
+      "students_math": 1078
+    },
+    "ПЛОВДИВ": {
+      "bel_score": 56.67,
+      "mat_score": 40.83,
+      "students_bel": 3102,
+      "students_math": 3090
+    },
+    "ПОЛСКИ ТРЪМБЕШ": {
+      "bel_score": 27.38,
+      "mat_score": 17.8,
+      "students_bel": 89,
+      "students_math": 89
+    },
+    "ПОМОРИЕ": {
+      "bel_score": 42.91,
+      "mat_score": 30.83,
+      "students_bel": 207,
+      "students_math": 208
+    },
+    "ПОПОВО": {
+      "bel_score": 42.25,
+      "mat_score": 27.32,
+      "students_bel": 160,
+      "students_math": 160
+    },
+    "ПОРДИМ": {
+      "bel_score": 29.84,
+      "mat_score": 20.7,
+      "students_bel": 40,
+      "students_math": 40
+    },
+    "ПРАВЕЦ": {
+      "bel_score": 37.41,
+      "mat_score": 32.82,
+      "students_bel": 77,
+      "students_math": 77
+    },
+    "ПРИМОРСКО": {
+      "bel_score": 37.3,
+      "mat_score": 20.95,
+      "students_bel": 49,
+      "students_math": 49
+    },
+    "ПРОВАДИЯ": {
+      "bel_score": 35.11,
+      "mat_score": 26.6,
+      "students_bel": 167,
+      "students_math": 165
+    },
+    "ПЪРВОМАЙ": {
+      "bel_score": 31.96,
+      "mat_score": 20.16,
+      "students_bel": 189,
+      "students_math": 187
+    },
+    "РАДНЕВО": {
+      "bel_score": 28.89,
+      "mat_score": 20.57,
+      "students_bel": 127,
+      "students_math": 127
+    },
+    "РАДОМИР": {
+      "bel_score": 37.3,
+      "mat_score": 19.49,
+      "students_bel": 126,
+      "students_math": 125
+    },
+    "РАЗГРАД": {
+      "bel_score": 37.62,
+      "mat_score": 26.32,
+      "students_bel": 435,
+      "students_math": 435
+    },
+    "РАЗЛОГ": {
+      "bel_score": 43.59,
+      "mat_score": 31.28,
+      "students_bel": 189,
+      "students_math": 186
+    },
+    "РАКИТОВО": {
+      "bel_score": 36.42,
+      "mat_score": 22.09,
+      "students_bel": 171,
+      "students_math": 171
+    },
+    "РАКОВСКИ": {
+      "bel_score": 38.85,
+      "mat_score": 27.17,
+      "students_bel": 259,
+      "students_math": 251
+    },
+    "РИЛА": {
+      "bel_score": 48.85,
+      "mat_score": 21.48,
+      "students_bel": 13,
+      "students_math": 13
+    },
+    "РОДОПИ": {
+      "bel_score": 54.06,
+      "mat_score": 39.38,
+      "students_bel": 193,
+      "students_math": 189
+    },
+    "РОМАН": {
+      "bel_score": 41.63,
+      "mat_score": 30.65,
+      "students_bel": 26,
+      "students_math": 25
+    },
+    "РУДОЗЕМ": {
+      "bel_score": 62.2,
+      "mat_score": 52.2,
+      "students_bel": 91,
+      "students_math": 91
+    },
+    "РУЕН": {
+      "bel_score": 34.08,
+      "mat_score": 27.55,
+      "students_bel": 293,
+      "students_math": 294
+    },
+    "РУЖИНЦИ": {
+      "bel_score": 28.01,
+      "mat_score": 22.09,
+      "students_bel": 35,
+      "students_math": 32
+    },
+    "РУСЕ": {
+      "bel_score": 54.92,
+      "mat_score": 37.28,
+      "students_bel": 1238,
+      "students_math": 1236
+    },
+    "САДОВО": {
+      "bel_score": 32.74,
+      "mat_score": 24.09,
+      "students_bel": 119,
+      "students_math": 120
+    },
+    "САМОКОВ": {
+      "bel_score": 46.07,
+      "mat_score": 26.91,
+      "students_bel": 318,
+      "students_math": 314
+    },
+    "САМУИЛ": {
+      "bel_score": 40.27,
+      "mat_score": 25.0,
+      "students_bel": 37,
+      "students_math": 38
+    },
+    "САНДАНСКИ": {
+      "bel_score": 43.62,
+      "mat_score": 29.08,
+      "students_bel": 333,
+      "students_math": 333
+    },
+    "САПАРЕВА БАНЯ": {
+      "bel_score": 47.76,
+      "mat_score": 33.05,
+      "students_bel": 44,
+      "students_math": 44
+    },
+    "САТОВЧА": {
+      "bel_score": 54.03,
+      "mat_score": 37.21,
+      "students_bel": 137,
+      "students_math": 137
+    },
+    "СВИЛЕНГРАД": {
+      "bel_score": 39.09,
+      "mat_score": 29.86,
+      "students_bel": 203,
+      "students_math": 202
+    },
+    "СВИЩОВ": {
+      "bel_score": 41.72,
+      "mat_score": 25.09,
+      "students_bel": 229,
+      "students_math": 229
+    },
+    "СВОГЕ": {
+      "bel_score": 54.56,
+      "mat_score": 41.8,
+      "students_bel": 104,
+      "students_math": 104
+    },
+    "СЕВЛИЕВО": {
+      "bel_score": 34.43,
+      "mat_score": 18.03,
+      "students_bel": 295,
+      "students_math": 295
+    },
+    "СЕПТЕМВРИ": {
+      "bel_score": 34.19,
+      "mat_score": 22.05,
+      "students_bel": 142,
+      "students_math": 141
+    },
+    "СИЛИСТРА": {
+      "bel_score": 48.08,
+      "mat_score": 30.11,
+      "students_bel": 294,
+      "students_math": 294
+    },
+    "СИМЕОНОВГРАД": {
+      "bel_score": 21.62,
+      "mat_score": 16.56,
+      "students_bel": 77,
+      "students_math": 76
+    },
+    "СИМИТЛИ": {
+      "bel_score": 45.11,
+      "mat_score": 26.11,
+      "students_bel": 108,
+      "students_math": 107
+    },
+    "СИТОВО": {
+      "bel_score": 35.14,
+      "mat_score": 40.74,
+      "students_bel": 28,
+      "students_math": 28
+    },
+    "СЛИВЕН": {
+      "bel_score": 36.64,
+      "mat_score": 26.06,
+      "students_bel": 1172,
+      "students_math": 1171
+    },
+    "СЛИВНИЦА": {
+      "bel_score": 41.67,
+      "mat_score": 26.84,
+      "students_bel": 57,
+      "students_math": 60
+    },
+    "СЛИВО ПОЛЕ": {
+      "bel_score": 37.45,
+      "mat_score": 18.71,
+      "students_bel": 54,
+      "students_math": 55
+    },
+    "СМОЛЯН": {
+      "bel_score": 61.4,
+      "mat_score": 40.0,
+      "students_bel": 303,
+      "students_math": 302
+    },
+    "СМЯДОВО": {
+      "bel_score": 38.76,
+      "mat_score": 27.92,
+      "students_bel": 48,
+      "students_math": 48
+    },
+    "СОЗОПОЛ": {
+      "bel_score": 41.44,
+      "mat_score": 25.09,
+      "students_bel": 78,
+      "students_math": 78
+    },
+    "СОПОТ": {
+      "bel_score": 49.24,
+      "mat_score": 22.62,
+      "students_bel": 51,
+      "students_math": 51
+    },
+    "СРЕДЕЦ": {
+      "bel_score": 31.82,
+      "mat_score": 23.25,
+      "students_bel": 120,
+      "students_math": 119
+    },
+    "СТАМБОЛИЙСКИ": {
+      "bel_score": 28.0,
+      "mat_score": 23.23,
+      "students_bel": 159,
+      "students_math": 158
+    },
+    "СТАМБОЛОВО": {
+      "bel_score": 33.54,
+      "mat_score": 27.37,
+      "students_bel": 39,
+      "students_math": 38
+    },
+    "СТАРА ЗАГОРА": {
+      "bel_score": 43.73,
+      "mat_score": 30.45,
+      "students_bel": 1319,
+      "students_math": 1319
+    },
+    "СТОЛИЧНА": {
+      "bel_score": 59.66,
+      "mat_score": 44.03,
+      "students_bel": 11041,
+      "students_math": 10996
+    },
+    "СТРАЖИЦА": {
+      "bel_score": 25.73,
+      "mat_score": 16.06,
+      "students_bel": 108,
+      "students_math": 104
+    },
+    "СТРАЛДЖА": {
+      "bel_score": 32.8,
+      "mat_score": 38.84,
+      "students_bel": 100,
+      "students_math": 103
+    },
+    "СТРЕЛЧА": {
+      "bel_score": 43.41,
+      "mat_score": 25.61,
+      "students_bel": 22,
+      "students_math": 23
+    },
+    "СТРУМЯНИ": {
+      "bel_score": 20.1,
+      "mat_score": 17.39,
+      "students_bel": 34,
+      "students_math": 34
+    },
+    "СУВОРОВО": {
+      "bel_score": 23.7,
+      "mat_score": 20.5,
+      "students_bel": 68,
+      "students_math": 65
+    },
+    "СУНГУРЛАРЕ": {
+      "bel_score": 32.05,
+      "mat_score": 32.58,
+      "students_bel": 99,
+      "students_math": 98
+    },
+    "СУХИНДОЛ": {
+      "bel_score": 25.08,
+      "mat_score": 14.15,
+      "students_bel": 13,
+      "students_math": 13
+    },
+    "СЪЕДИНЕНИЕ": {
+      "bel_score": 35.84,
+      "mat_score": 20.54,
+      "students_bel": 34,
+      "students_math": 34
+    },
+    "СЪРНИЦА": {
+      "bel_score": 45.16,
+      "mat_score": 37.8,
+      "students_bel": 51,
+      "students_math": 51
+    },
+    "ТВЪРДИЦА": {
+      "bel_score": 30.8,
+      "mat_score": 18.75,
+      "students_bel": 127,
+      "students_math": 129
+    },
+    "ТЕРВЕЛ": {
+      "bel_score": 27.38,
+      "mat_score": 25.04,
+      "students_bel": 94,
+      "students_math": 94
+    },
+    "ТЕТЕВЕН": {
+      "bel_score": 38.92,
+      "mat_score": 21.37,
+      "students_bel": 148,
+      "students_math": 148
+    },
+    "ТОПОЛОВГРАД": {
+      "bel_score": 41.26,
+      "mat_score": 37.24,
+      "students_bel": 66,
+      "students_math": 63
+    },
+    "ТРЕКЛЯНО": {
+      "bel_score": 5.67,
+      "mat_score": 9.33,
+      "students_bel": 3,
+      "students_math": 3
+    },
+    "ТРОЯН": {
+      "bel_score": 49.35,
+      "mat_score": 26.01,
+      "students_bel": 225,
+      "students_math": 226
+    },
+    "ТРЪН": {
+      "bel_score": 28.93,
+      "mat_score": 17.01,
+      "students_bel": 21,
+      "students_math": 20
+    },
+    "ТРЯВНА": {
+      "bel_score": 54.52,
+      "mat_score": 27.58,
+      "students_bel": 71,
+      "students_math": 71
+    },
+    "ТУНДЖА": {
+      "bel_score": 29.11,
+      "mat_score": 24.42,
+      "students_bel": 104,
+      "students_math": 103
+    },
+    "ТУТРАКАН": {
+      "bel_score": 37.55,
+      "mat_score": 29.61,
+      "students_bel": 103,
+      "students_math": 103
+    },
+    "ТЪРГОВИЩЕ": {
+      "bel_score": 35.65,
+      "mat_score": 29.5,
+      "students_bel": 450,
+      "students_math": 450
+    },
+    "УГЪРЧИН": {
+      "bel_score": 35.72,
+      "mat_score": 21.14,
+      "students_bel": 38,
+      "students_math": 39
+    },
+    "ХАДЖИДИМОВО": {
+      "bel_score": 54.66,
+      "mat_score": 36.18,
+      "students_bel": 83,
+      "students_math": 83
+    },
+    "ХАЙРЕДИН": {
+      "bel_score": 42.38,
+      "mat_score": 21.1,
+      "students_bel": 23,
+      "students_math": 23
+    },
+    "ХАРМАНЛИ": {
+      "bel_score": 38.75,
+      "mat_score": 30.06,
+      "students_bel": 199,
+      "students_math": 197
+    },
+    "ХАСКОВО": {
+      "bel_score": 42.98,
+      "mat_score": 30.46,
+      "students_bel": 750,
+      "students_math": 753
+    },
+    "ХИСАРЯ": {
+      "bel_score": 38.18,
+      "mat_score": 24.06,
+      "students_bel": 67,
+      "students_math": 68
+    },
+    "ХИТРИНО": {
+      "bel_score": 34.03,
+      "mat_score": 32.94,
+      "students_bel": 29,
+      "students_math": 29
+    },
+    "ЦАР КАЛОЯН": {
+      "bel_score": 45.17,
+      "mat_score": 30.02,
+      "students_bel": 26,
+      "students_math": 26
+    },
+    "ЦАРЕВО": {
+      "bel_score": 50.4,
+      "mat_score": 30.29,
+      "students_bel": 81,
+      "students_math": 81
+    },
+    "ЦЕНОВО": {
+      "bel_score": 49.86,
+      "mat_score": 40.96,
+      "students_bel": 23,
+      "students_math": 23
+    },
+    "ЧАВДАР": {
+      "bel_score": 61.75,
+      "mat_score": 36.69,
+      "students_bel": 8,
+      "students_math": 8
+    },
+    "ЧЕЛОПЕЧ": {
+      "bel_score": 54.48,
+      "mat_score": 32.16,
+      "students_bel": 26,
+      "students_math": 26
+    },
+    "ЧЕПЕЛАРЕ": {
+      "bel_score": 41.46,
+      "mat_score": 22.15,
+      "students_bel": 39,
+      "students_math": 39
+    },
+    "ЧЕРВЕН БРЯГ": {
+      "bel_score": 32.27,
+      "mat_score": 23.8,
+      "students_bel": 189,
+      "students_math": 189
+    },
+    "ЧЕРНООЧЕНЕ": {
+      "bel_score": 41.91,
+      "mat_score": 35.65,
+      "students_bel": 67,
+      "students_math": 67
+    },
+    "ЧИПРОВЦИ": {
+      "bel_score": 59.44,
+      "mat_score": 31.33,
+      "students_bel": 9,
+      "students_math": 9
+    },
+    "ЧИРПАН": {
+      "bel_score": 31.39,
+      "mat_score": 27.58,
+      "students_bel": 196,
+      "students_math": 198
+    },
+    "ЧУПРЕНЕ": {
+      "bel_score": 13.97,
+      "mat_score": 15.75,
+      "students_bel": 13,
+      "students_math": 12
+    },
+    "ШАБЛА": {
+      "bel_score": 51.23,
+      "mat_score": 26.68,
+      "students_bel": 27,
+      "students_math": 27
+    },
+    "ШУМЕН": {
+      "bel_score": 43.17,
+      "mat_score": 29.08,
+      "students_bel": 758,
+      "students_math": 756
+    },
+    "ЯБЛАНИЦА": {
+      "bel_score": 24.13,
+      "mat_score": 28.68,
+      "students_bel": 66,
+      "students_math": 64
+    },
+    "ЯКИМОВО": {
+      "bel_score": 15.11,
+      "mat_score": 12.41,
+      "students_bel": 22,
+      "students_math": 22
+    },
+    "ЯКОРУДА": {
+      "bel_score": 52.66,
+      "mat_score": 36.61,
+      "students_bel": 85,
+      "students_math": 85
+    },
+    "ЯМБОЛ": {
+      "bel_score": 46.54,
+      "mat_score": 32.77,
+      "students_bel": 683,
+      "students_math": 680
+    },
+    "ДОБРИЧКА": {
+      "bel_score": 25.07,
+      "mat_score": 16.42,
+      "students_bel": 100,
+      "students_math": 99
+    },
+    "В ЧУЖБИНА": {
+      "bel_score": 46.81,
+      "mat_score": 27.57,
+      "students_bel": 11,
+      "students_math": 11
+    }
+  },
+  "2021-2022": {
+    "АВРЕН": {
+      "bel_score": 35.35,
+      "mat_score": 20.29,
+      "students_bel": 77,
+      "students_math": 76
+    },
+    "АЙТОС": {
+      "bel_score": 40.98,
+      "mat_score": 29.12,
+      "students_bel": 286,
+      "students_math": 284
+    },
+    "АКСАКОВО": {
+      "bel_score": 36.93,
+      "mat_score": 16.45,
+      "students_bel": 148,
+      "students_math": 146
+    },
+    "АЛФАТАР": {
+      "bel_score": 17.5,
+      "mat_score": 12.0,
+      "students_bel": 8,
+      "students_math": 7
+    },
+    "АНТОН": {
+      "bel_score": 37.64,
+      "mat_score": 45.21,
+      "students_bel": 7,
+      "students_math": 6
+    },
+    "АНТОНОВО": {
+      "bel_score": 35.4,
+      "mat_score": 35.44,
+      "students_bel": 28,
+      "students_math": 28
+    },
+    "АПРИЛЦИ": {
+      "bel_score": 58.68,
+      "mat_score": 40.66,
+      "students_bel": 11,
+      "students_math": 11
+    },
+    "АРДИНО": {
+      "bel_score": 47.11,
+      "mat_score": 28.58,
+      "students_bel": 52,
+      "students_math": 52
+    },
+    "АСЕНОВГРАД": {
+      "bel_score": 48.03,
+      "mat_score": 31.87,
+      "students_bel": 515,
+      "students_math": 516
+    },
+    "БАЛЧИК": {
+      "bel_score": 36.34,
+      "mat_score": 19.9,
+      "students_bel": 131,
+      "students_math": 127
+    },
+    "БАНИТЕ": {
+      "bel_score": 57.71,
+      "mat_score": 58.36,
+      "students_bel": 22,
+      "students_math": 22
+    },
+    "БАНСКО": {
+      "bel_score": 55.99,
+      "mat_score": 27.99,
+      "students_bel": 111,
+      "students_math": 111
+    },
+    "БАТАК": {
+      "bel_score": 50.38,
+      "mat_score": 30.15,
+      "students_bel": 33,
+      "students_math": 33
+    },
+    "БЕЛЕНЕ": {
+      "bel_score": 50.12,
+      "mat_score": 26.93,
+      "students_bel": 50,
+      "students_math": 50
+    },
+    "БЕЛИЦА": {
+      "bel_score": 47.87,
+      "mat_score": 46.28,
+      "students_bel": 115,
+      "students_math": 115
+    },
+    "БЕЛОВО": {
+      "bel_score": 47.55,
+      "mat_score": 22.26,
+      "students_bel": 50,
+      "students_math": 50
+    },
+    "БЕЛОГРАДЧИК": {
+      "bel_score": 23.2,
+      "mat_score": 16.16,
+      "students_bel": 42,
+      "students_math": 41
+    },
+    "БЕЛОСЛАВ": {
+      "bel_score": 53.52,
+      "mat_score": 31.15,
+      "students_bel": 91,
+      "students_math": 92
+    },
+    "БЕРКОВИЦА": {
+      "bel_score": 41.07,
+      "mat_score": 21.48,
+      "students_bel": 91,
+      "students_math": 90
+    },
+    "БЛАГОЕВГРАД": {
+      "bel_score": 59.56,
+      "mat_score": 39.2,
+      "students_bel": 687,
+      "students_math": 688
+    },
+    "БОБОВ ДОЛ": {
+      "bel_score": 33.88,
+      "mat_score": 21.08,
+      "students_bel": 40,
+      "students_math": 40
+    },
+    "БОБОШЕВО": {
+      "bel_score": 60.25,
+      "mat_score": 46.38,
+      "students_bel": 2,
+      "students_math": 2
+    },
+    "БОЖУРИЩЕ": {
+      "bel_score": 42.16,
+      "mat_score": 28.5,
+      "students_bel": 76,
+      "students_math": 76
+    },
+    "БОЙНИЦА": {
+      "bel_score": 25.88,
+      "mat_score": 14.86,
+      "students_bel": 8,
+      "students_math": 7
+    },
+    "БОЙЧИНОВЦИ": {
+      "bel_score": 29.95,
+      "mat_score": 27.51,
+      "students_bel": 59,
+      "students_math": 57
+    },
+    "БОЛЯРОВО": {
+      "bel_score": 35.45,
+      "mat_score": 36.52,
+      "students_bel": 23,
+      "students_math": 23
+    },
+    "БОРИНО": {
+      "bel_score": 69.19,
+      "mat_score": 61.76,
+      "students_bel": 14,
+      "students_math": 14
+    },
+    "БОРОВАН": {
+      "bel_score": 26.69,
+      "mat_score": 12.03,
+      "students_bel": 42,
+      "students_math": 42
+    },
+    "БОРОВО": {
+      "bel_score": 22.91,
+      "mat_score": 9.12,
+      "students_bel": 19,
+      "students_math": 18
+    },
+    "БОТЕВГРАД": {
+      "bel_score": 43.1,
+      "mat_score": 26.19,
+      "students_bel": 295,
+      "students_math": 293
+    },
+    "БРАТЯ ДАСКАЛОВИ": {
+      "bel_score": 21.69,
+      "mat_score": 18.49,
+      "students_bel": 40,
+      "students_math": 41
+    },
+    "БРАЦИГОВО": {
+      "bel_score": 20.49,
+      "mat_score": 18.64,
+      "students_bel": 27,
+      "students_math": 27
+    },
+    "БРЕГОВО": {
+      "bel_score": 18.61,
+      "mat_score": 12.5,
+      "students_bel": 9,
+      "students_math": 8
+    },
+    "БРЕЗНИК": {
+      "bel_score": 41.59,
+      "mat_score": 25.27,
+      "students_bel": 40,
+      "students_math": 39
+    },
+    "БРЕЗОВО": {
+      "bel_score": 24.05,
+      "mat_score": 10.68,
+      "students_bel": 52,
+      "students_math": 51
+    },
+    "БРУСАРЦИ": {
+      "bel_score": 25.91,
+      "mat_score": 28.89,
+      "students_bel": 29,
+      "students_math": 29
+    },
+    "БУРГАС": {
+      "bel_score": 56.58,
+      "mat_score": 38.01,
+      "students_bel": 2198,
+      "students_math": 2191
+    },
+    "БЯЛА": {
+      "bel_score": 36.61,
+      "mat_score": 15.28,
+      "students_bel": 109,
+      "students_math": 109
+    },
+    "БЯЛА СЛАТИНА": {
+      "bel_score": 36.34,
+      "mat_score": 16.49,
+      "students_bel": 207,
+      "students_math": 208
+    },
+    "ВАРНА": {
+      "bel_score": 60.11,
+      "mat_score": 43.44,
+      "students_bel": 3230,
+      "students_math": 3228
+    },
+    "ВЕЛИКИ ПРЕСЛАВ": {
+      "bel_score": 32.17,
+      "mat_score": 16.7,
+      "students_bel": 65,
+      "students_math": 64
+    },
+    "ВЕЛИКО ТЪРНОВО": {
+      "bel_score": 48.24,
+      "mat_score": 26.62,
+      "students_bel": 741,
+      "students_math": 741
+    },
+    "ВЕЛИНГРАД": {
+      "bel_score": 45.13,
+      "mat_score": 33.6,
+      "students_bel": 350,
+      "students_math": 348
+    },
+    "ВЕНЕЦ": {
+      "bel_score": 32.34,
+      "mat_score": 28.83,
+      "students_bel": 33,
+      "students_math": 33
+    },
+    "ВЕТОВО": {
+      "bel_score": 30.41,
+      "mat_score": 17.82,
+      "students_bel": 74,
+      "students_math": 73
+    },
+    "ВЕТРИНО": {
+      "bel_score": 45.83,
+      "mat_score": 20.01,
+      "students_bel": 29,
+      "students_math": 29
+    },
+    "ВИДИН": {
+      "bel_score": 44.53,
+      "mat_score": 21.79,
+      "students_bel": 385,
+      "students_math": 383
+    },
+    "ВРАЦА": {
+      "bel_score": 46.72,
+      "mat_score": 25.27,
+      "students_bel": 598,
+      "students_math": 598
+    },
+    "ВЪЛЧЕДРЪМ": {
+      "bel_score": 31.58,
+      "mat_score": 22.08,
+      "students_bel": 65,
+      "students_math": 64
+    },
+    "ВЪЛЧИ ДОЛ": {
+      "bel_score": 25.16,
+      "mat_score": 19.54,
+      "students_bel": 56,
+      "students_math": 56
+    },
+    "ВЪРБИЦА": {
+      "bel_score": 27.19,
+      "mat_score": 16.47,
+      "students_bel": 71,
+      "students_math": 71
+    },
+    "ВЪРШЕЦ": {
+      "bel_score": 37.64,
+      "mat_score": 22.83,
+      "students_bel": 60,
+      "students_math": 61
+    },
+    "ГАБРОВО": {
+      "bel_score": 55.63,
+      "mat_score": 32.56,
+      "students_bel": 421,
+      "students_math": 422
+    },
+    "ГЕНЕРАЛ ТОШЕВО": {
+      "bel_score": 31.0,
+      "mat_score": 16.79,
+      "students_bel": 82,
+      "students_math": 80
+    },
+    "ГЕОРГИ ДАМЯНОВО": {
+      "bel_score": 27.75,
+      "mat_score": 9.0,
+      "students_bel": 2,
+      "students_math": 2
+    },
+    "ГЛАВИНИЦА": {
+      "bel_score": 27.15,
+      "mat_score": 17.72,
+      "students_bel": 55,
+      "students_math": 56
+    },
+    "ГОДЕЧ": {
+      "bel_score": 56.14,
+      "mat_score": 28.33,
+      "students_bel": 28,
+      "students_math": 28
+    },
+    "ГОРНА МАЛИНА": {
+      "bel_score": 37.42,
+      "mat_score": 15.63,
+      "students_bel": 56,
+      "students_math": 55
+    },
+    "ГОРНА ОРЯХОВИЦА": {
+      "bel_score": 43.36,
+      "mat_score": 24.11,
+      "students_bel": 318,
+      "students_math": 318
+    },
+    "ГОЦЕ ДЕЛЧЕВ": {
+      "bel_score": 51.55,
+      "mat_score": 31.4,
+      "students_bel": 351,
+      "students_math": 351
+    },
+    "ГР.ДОБРИЧ": {
+      "bel_score": 45.68,
+      "mat_score": 29.05,
+      "students_bel": 709,
+      "students_math": 706
+    },
+    "ГРАМАДА": {
+      "bel_score": 18.0,
+      "mat_score": 14.36,
+      "students_bel": 7,
+      "students_math": 7
+    },
+    "ГУЛЯНЦИ": {
+      "bel_score": 42.75,
+      "mat_score": 27.12,
+      "students_bel": 65,
+      "students_math": 64
+    },
+    "ГУРКОВО": {
+      "bel_score": 26.66,
+      "mat_score": 19.75,
+      "students_bel": 40,
+      "students_math": 40
+    },
+    "ГЪЛЪБОВО": {
+      "bel_score": 35.13,
+      "mat_score": 25.9,
+      "students_bel": 111,
+      "students_math": 108
+    },
+    "ГЪРМЕН": {
+      "bel_score": 45.98,
+      "mat_score": 36.5,
+      "students_bel": 193,
+      "students_math": 193
+    },
+    "ДВЕ МОГИЛИ": {
+      "bel_score": 33.56,
+      "mat_score": 23.09,
+      "students_bel": 49,
+      "students_math": 49
+    },
+    "ДЕВИН": {
+      "bel_score": 56.8,
+      "mat_score": 28.68,
+      "students_bel": 63,
+      "students_math": 63
+    },
+    "ДЕВНЯ": {
+      "bel_score": 32.57,
+      "mat_score": 19.83,
+      "students_bel": 58,
+      "students_math": 57
+    },
+    "ДЖЕБЕЛ": {
+      "bel_score": 42.02,
+      "mat_score": 23.53,
+      "students_bel": 61,
+      "students_math": 61
+    },
+    "ДИМИТРОВГРАД": {
+      "bel_score": 36.32,
+      "mat_score": 21.51,
+      "students_bel": 327,
+      "students_math": 328
+    },
+    "ДИМОВО": {
+      "bel_score": 21.03,
+      "mat_score": 13.23,
+      "students_bel": 47,
+      "students_math": 46
+    },
+    "ДОБРИЧ": {
+      "bel_score": 25.42,
+      "mat_score": 15.69,
+      "students_bel": 105,
+      "students_math": 106
+    },
+    "ДОЛНА БАНЯ": {
+      "bel_score": 42.17,
+      "mat_score": 20.01,
+      "students_bel": 38,
+      "students_math": 36
+    },
+    "ДОЛНА МИТРОПОЛИЯ": {
+      "bel_score": 26.81,
+      "mat_score": 19.02,
+      "students_bel": 101,
+      "students_math": 101
+    },
+    "ДОЛНИ ДЪБНИК": {
+      "bel_score": 32.95,
+      "mat_score": 32.73,
+      "students_bel": 65,
+      "students_math": 65
+    },
+    "ДОЛНИ ЧИФЛИК": {
+      "bel_score": 30.68,
+      "mat_score": 19.91,
+      "students_bel": 164,
+      "students_math": 164
+    },
+    "ДОСПАТ": {
+      "bel_score": 51.76,
+      "mat_score": 30.93,
+      "students_bel": 62,
+      "students_math": 62
+    },
+    "ДРАГОМАН": {
+      "bel_score": 61.29,
+      "mat_score": 24.0,
+      "students_bel": 26,
+      "students_math": 27
+    },
+    "ДРЯНОВО": {
+      "bel_score": 43.24,
+      "mat_score": 19.84,
+      "students_bel": 56,
+      "students_math": 56
+    },
+    "ДУЛОВО": {
+      "bel_score": 35.3,
+      "mat_score": 30.82,
+      "students_bel": 252,
+      "students_math": 245
+    },
+    "ДУПНИЦА": {
+      "bel_score": 50.81,
+      "mat_score": 24.98,
+      "students_bel": 389,
+      "students_math": 387
+    },
+    "ДЪЛГОПОЛ": {
+      "bel_score": 31.75,
+      "mat_score": 18.2,
+      "students_bel": 114,
+      "students_math": 114
+    },
+    "ЕЛЕНА": {
+      "bel_score": 28.74,
+      "mat_score": 18.09,
+      "students_bel": 61,
+      "students_math": 61
+    },
+    "ЕЛИН ПЕЛИН": {
+      "bel_score": 46.84,
+      "mat_score": 24.64,
+      "students_bel": 154,
+      "students_math": 154
+    },
+    "ЕЛХОВО": {
+      "bel_score": 38.45,
+      "mat_score": 35.89,
+      "students_bel": 114,
+      "students_math": 112
+    },
+    "ЕТРОПОЛЕ": {
+      "bel_score": 31.81,
+      "mat_score": 23.29,
+      "students_bel": 78,
+      "students_math": 77
+    },
+    "ЗАВЕТ": {
+      "bel_score": 42.46,
+      "mat_score": 36.42,
+      "students_bel": 53,
+      "students_math": 53
+    },
+    "ЗЕМЕН": {
+      "bel_score": 36.56,
+      "mat_score": 32.39,
+      "students_bel": 8,
+      "students_math": 7
+    },
+    "ЗЛАТАРИЦА": {
+      "bel_score": 24.81,
+      "mat_score": 9.9,
+      "students_bel": 16,
+      "students_math": 16
+    },
+    "ЗЛАТИЦА": {
+      "bel_score": 56.25,
+      "mat_score": 36.11,
+      "students_bel": 46,
+      "students_math": 46
+    },
+    "ЗЛАТОГРАД": {
+      "bel_score": 62.08,
+      "mat_score": 48.44,
+      "students_bel": 67,
+      "students_math": 67
+    },
+    "ИВАЙЛОВГРАД": {
+      "bel_score": 45.31,
+      "mat_score": 32.37,
+      "students_bel": 31,
+      "students_math": 31
+    },
+    "ИВАНОВО": {
+      "bel_score": 40.17,
+      "mat_score": 23.29,
+      "students_bel": 27,
+      "students_math": 26
+    },
+    "ИСКЪР": {
+      "bel_score": 37.16,
+      "mat_score": 13.55,
+      "students_bel": 42,
+      "students_math": 41
+    },
+    "ИСПЕРИХ": {
+      "bel_score": 37.05,
+      "mat_score": 34.46,
+      "students_bel": 179,
+      "students_math": 177
+    },
+    "ИХТИМАН": {
+      "bel_score": 34.41,
+      "mat_score": 26.89,
+      "students_bel": 201,
+      "students_math": 201
+    },
+    "КАВАРНА": {
+      "bel_score": 42.49,
+      "mat_score": 30.83,
+      "students_bel": 80,
+      "students_math": 80
+    },
+    "КАЗАНЛЪК": {
+      "bel_score": 36.25,
+      "mat_score": 22.14,
+      "students_bel": 613,
+      "students_math": 607
+    },
+    "КАЙНАРДЖА": {
+      "bel_score": 23.77,
+      "mat_score": 12.69,
+      "students_bel": 62,
+      "students_math": 62
+    },
+    "КАЛОЯНОВО": {
+      "bel_score": 38.11,
+      "mat_score": 26.19,
+      "students_bel": 58,
+      "students_math": 56
+    },
+    "КАМЕНО": {
+      "bel_score": 39.09,
+      "mat_score": 15.87,
+      "students_bel": 59,
+      "students_math": 57
+    },
+    "КАОЛИНОВО": {
+      "bel_score": 27.15,
+      "mat_score": 21.26,
+      "students_bel": 72,
+      "students_math": 72
+    },
+    "КАРЛОВО": {
+      "bel_score": 34.49,
+      "mat_score": 16.65,
+      "students_bel": 449,
+      "students_math": 447
+    },
+    "КАРНОБАТ": {
+      "bel_score": 35.33,
+      "mat_score": 28.36,
+      "students_bel": 198,
+      "students_math": 198
+    },
+    "КАСПИЧАН": {
+      "bel_score": 24.42,
+      "mat_score": 14.3,
+      "students_bel": 54,
+      "students_math": 54
+    },
+    "КИРКОВО": {
+      "bel_score": 48.52,
+      "mat_score": 39.13,
+      "students_bel": 139,
+      "students_math": 139
+    },
+    "КНЕЖА": {
+      "bel_score": 35.49,
+      "mat_score": 23.62,
+      "students_bel": 88,
+      "students_math": 91
+    },
+    "КОВАЧЕВЦИ": {
+      "bel_score": 20.13,
+      "mat_score": 10.0,
+      "students_bel": 4,
+      "students_math": 4
+    },
+    "КОЗЛОДУЙ": {
+      "bel_score": 34.68,
+      "mat_score": 18.4,
+      "students_bel": 178,
+      "students_math": 176
+    },
+    "КОПРИВЩИЦА": {
+      "bel_score": 52.55,
+      "mat_score": 48.89,
+      "students_bel": 11,
+      "students_math": 11
+    },
+    "КОСТЕНЕЦ": {
+      "bel_score": 51.73,
+      "mat_score": 35.35,
+      "students_bel": 104,
+      "students_math": 104
+    },
+    "КОСТИНБРОД": {
+      "bel_score": 52.77,
+      "mat_score": 31.32,
+      "students_bel": 105,
+      "students_math": 105
+    },
+    "КОТЕЛ": {
+      "bel_score": 32.55,
+      "mat_score": 20.9,
+      "students_bel": 155,
+      "students_math": 152
+    },
+    "КОЧЕРИНОВО": {
+      "bel_score": 45.17,
+      "mat_score": 16.47,
+      "students_bel": 9,
+      "students_math": 8
+    },
+    "КРЕСНА": {
+      "bel_score": 50.9,
+      "mat_score": 19.42,
+      "students_bel": 34,
+      "students_math": 34
+    },
+    "КРИВОДОЛ": {
+      "bel_score": 31.07,
+      "mat_score": 19.55,
+      "students_bel": 52,
+      "students_math": 53
+    },
+    "КРИЧИМ": {
+      "bel_score": 38.28,
+      "mat_score": 22.24,
+      "students_bel": 50,
+      "students_math": 51
+    },
+    "КРУМОВГРАД": {
+      "bel_score": 34.19,
+      "mat_score": 26.35,
+      "students_bel": 155,
+      "students_math": 155
+    },
+    "КРУШАРИ": {
+      "bel_score": 21.2,
+      "mat_score": 15.63,
+      "students_bel": 16,
+      "students_math": 17
+    },
+    "КУБРАТ": {
+      "bel_score": 31.81,
+      "mat_score": 14.97,
+      "students_bel": 110,
+      "students_math": 109
+    },
+    "КУКЛЕН": {
+      "bel_score": 50.14,
+      "mat_score": 32.78,
+      "students_bel": 40,
+      "students_math": 40
+    },
+    "КУЛА": {
+      "bel_score": 37.87,
+      "mat_score": 18.38,
+      "students_bel": 15,
+      "students_math": 15
+    },
+    "КЪРДЖАЛИ": {
+      "bel_score": 38.39,
+      "mat_score": 31.78,
+      "students_bel": 601,
+      "students_math": 597
+    },
+    "КЮСТЕНДИЛ": {
+      "bel_score": 48.22,
+      "mat_score": 30.02,
+      "students_bel": 365,
+      "students_math": 358
+    },
+    "ЛЕВСКИ": {
+      "bel_score": 36.08,
+      "mat_score": 17.91,
+      "students_bel": 124,
+      "students_math": 124
+    },
+    "ЛЕСИЧОВО": {
+      "bel_score": 33.25,
+      "mat_score": 25.7,
+      "students_bel": 33,
+      "students_math": 34
+    },
+    "ЛЕТНИЦА": {
+      "bel_score": 29.02,
+      "mat_score": 11.44,
+      "students_bel": 27,
+      "students_math": 27
+    },
+    "ЛОВЕЧ": {
+      "bel_score": 45.8,
+      "mat_score": 28.75,
+      "students_bel": 340,
+      "students_math": 338
+    },
+    "ЛОЗНИЦА": {
+      "bel_score": 30.35,
+      "mat_score": 15.46,
+      "students_bel": 66,
+      "students_math": 66
+    },
+    "ЛОМ": {
+      "bel_score": 39.78,
+      "mat_score": 38.27,
+      "students_bel": 176,
+      "students_math": 176
+    },
+    "ЛУКОВИТ": {
+      "bel_score": 29.93,
+      "mat_score": 21.89,
+      "students_bel": 169,
+      "students_math": 175
+    },
+    "ЛЪКИ": {
+      "bel_score": 63.3,
+      "mat_score": 44.0,
+      "students_bel": 5,
+      "students_math": 5
+    },
+    "ЛЮБИМЕЦ": {
+      "bel_score": 43.62,
+      "mat_score": 38.79,
+      "students_bel": 77,
+      "students_math": 77
+    },
+    "ЛЯСКОВЕЦ": {
+      "bel_score": 52.08,
+      "mat_score": 27.33,
+      "students_bel": 67,
+      "students_math": 67
+    },
+    "МАДАН": {
+      "bel_score": 61.75,
+      "mat_score": 31.8,
+      "students_bel": 97,
+      "students_math": 96
+    },
+    "МАДЖАРОВО": {
+      "bel_score": 12.8,
+      "mat_score": 11.2,
+      "students_bel": 5,
+      "students_math": 5
+    },
+    "МАКРЕШ": {
+      "bel_score": 10.0,
+      "mat_score": 14.2,
+      "students_bel": 5,
+      "students_math": 5
+    },
+    "МАЛКО ТЪРНОВО": {
+      "bel_score": 28.24,
+      "mat_score": 17.21,
+      "students_bel": 19,
+      "students_math": 19
+    },
+    "МАРИЦА": {
+      "bel_score": 40.06,
+      "mat_score": 22.9,
+      "students_bel": 180,
+      "students_math": 173
+    },
+    "МЕДКОВЕЦ": {
+      "bel_score": 38.42,
+      "mat_score": 17.19,
+      "students_bel": 22,
+      "students_math": 21
+    },
+    "МЕЗДРА": {
+      "bel_score": 40.96,
+      "mat_score": 25.09,
+      "students_bel": 119,
+      "students_math": 119
+    },
+    "МИЗИЯ": {
+      "bel_score": 51.68,
+      "mat_score": 21.98,
+      "students_bel": 33,
+      "students_math": 33
+    },
+    "МИНЕРАЛНИ БАНИ": {
+      "bel_score": 38.59,
+      "mat_score": 21.14,
+      "students_bel": 39,
+      "students_math": 39
+    },
+    "МИРКОВО": {
+      "bel_score": 44.59,
+      "mat_score": 28.22,
+      "students_bel": 16,
+      "students_math": 16
+    },
+    "МОМЧИЛГРАД": {
+      "bel_score": 33.63,
+      "mat_score": 27.43,
+      "students_bel": 106,
+      "students_math": 105
+    },
+    "МОНТАНА": {
+      "bel_score": 41.88,
+      "mat_score": 26.65,
+      "students_bel": 432,
+      "students_math": 431
+    },
+    "МЪГЛИЖ": {
+      "bel_score": 28.2,
+      "mat_score": 17.56,
+      "students_bel": 80,
+      "students_math": 81
+    },
+    "НЕВЕСТИНО": {
+      "bel_score": 16.23,
+      "mat_score": 16.31,
+      "students_bel": 13,
+      "students_math": 13
+    },
+    "НЕДЕЛИНО": {
+      "bel_score": 66.47,
+      "mat_score": 45.79,
+      "students_bel": 38,
+      "students_math": 38
+    },
+    "НЕСЕБЪР": {
+      "bel_score": 49.03,
+      "mat_score": 27.44,
+      "students_bel": 234,
+      "students_math": 233
+    },
+    "НИКОЛА КОЗЛЕВО": {
+      "bel_score": 23.26,
+      "mat_score": 15.97,
+      "students_bel": 42,
+      "students_math": 42
+    },
+    "НИКОЛАЕВО": {
+      "bel_score": 24.19,
+      "mat_score": 20.58,
+      "students_bel": 45,
+      "students_math": 43
+    },
+    "НИКОПОЛ": {
+      "bel_score": 40.64,
+      "mat_score": 21.18,
+      "students_bel": 37,
+      "students_math": 37
+    },
+    "НОВА ЗАГОРА": {
+      "bel_score": 21.35,
+      "mat_score": 23.23,
+      "students_bel": 215,
+      "students_math": 211
+    },
+    "НОВИ ПАЗАР": {
+      "bel_score": 30.25,
+      "mat_score": 22.44,
+      "students_bel": 139,
+      "students_math": 138
+    },
+    "НОВО СЕЛО": {
+      "bel_score": 9.19,
+      "mat_score": 22.08,
+      "students_bel": 13,
+      "students_math": 13
+    },
+    "ОМУРТАГ": {
+      "bel_score": 34.46,
+      "mat_score": 30.86,
+      "students_bel": 136,
+      "students_math": 137
+    },
+    "ОПАКА": {
+      "bel_score": 41.1,
+      "mat_score": 28.43,
+      "students_bel": 35,
+      "students_math": 35
+    },
+    "ОПАН": {
+      "bel_score": 17.79,
+      "mat_score": 13.25,
+      "students_bel": 7,
+      "students_math": 8
+    },
+    "ОРЯХОВО": {
+      "bel_score": 44.55,
+      "mat_score": 21.57,
+      "students_bel": 61,
+      "students_math": 60
+    },
+    "ПАВЕЛ БАНЯ": {
+      "bel_score": 22.07,
+      "mat_score": 16.95,
+      "students_bel": 115,
+      "students_math": 115
+    },
+    "ПАВЛИКЕНИ": {
+      "bel_score": 37.25,
+      "mat_score": 17.99,
+      "students_bel": 120,
+      "students_math": 120
+    },
+    "ПАЗАРДЖИК": {
+      "bel_score": 32.7,
+      "mat_score": 22.59,
+      "students_bel": 886,
+      "students_math": 882
+    },
+    "ПАНАГЮРИЩЕ": {
+      "bel_score": 38.19,
+      "mat_score": 21.08,
+      "students_bel": 155,
+      "students_math": 155
+    },
+    "ПЕРНИК": {
+      "bel_score": 51.32,
+      "mat_score": 27.87,
+      "students_bel": 761,
+      "students_math": 755
+    },
+    "ПЕРУЩИЦА": {
+      "bel_score": 40.14,
+      "mat_score": 21.28,
+      "students_bel": 32,
+      "students_math": 33
+    },
+    "ПЕТРИЧ": {
+      "bel_score": 49.24,
+      "mat_score": 27.36,
+      "students_bel": 403,
+      "students_math": 403
+    },
+    "ПЕЩЕРА": {
+      "bel_score": 43.54,
+      "mat_score": 30.39,
+      "students_bel": 137,
+      "students_math": 135
+    },
+    "ПИРДОП": {
+      "bel_score": 52.78,
+      "mat_score": 27.48,
+      "students_bel": 58,
+      "students_math": 58
+    },
+    "ПЛЕВЕН": {
+      "bel_score": 42.14,
+      "mat_score": 26.73,
+      "students_bel": 1160,
+      "students_math": 1158
+    },
+    "ПЛОВДИВ": {
+      "bel_score": 57.21,
+      "mat_score": 38.64,
+      "students_bel": 3236,
+      "students_math": 3218
+    },
+    "ПОЛСКИ ТРЪМБЕШ": {
+      "bel_score": 33.8,
+      "mat_score": 15.99,
+      "students_bel": 88,
+      "students_math": 88
+    },
+    "ПОМОРИЕ": {
+      "bel_score": 41.46,
+      "mat_score": 23.11,
+      "students_bel": 228,
+      "students_math": 226
+    },
+    "ПОПОВО": {
+      "bel_score": 42.2,
+      "mat_score": 24.92,
+      "students_bel": 201,
+      "students_math": 200
+    },
+    "ПОРДИМ": {
+      "bel_score": 24.82,
+      "mat_score": 12.18,
+      "students_bel": 41,
+      "students_math": 39
+    },
+    "ПРАВЕЦ": {
+      "bel_score": 33.23,
+      "mat_score": 33.15,
+      "students_bel": 76,
+      "students_math": 76
+    },
+    "ПРИМОРСКО": {
+      "bel_score": 34.78,
+      "mat_score": 23.83,
+      "students_bel": 39,
+      "students_math": 39
+    },
+    "ПРОВАДИЯ": {
+      "bel_score": 32.62,
+      "mat_score": 26.36,
+      "students_bel": 166,
+      "students_math": 168
+    },
+    "ПЪРВОМАЙ": {
+      "bel_score": 34.31,
+      "mat_score": 22.76,
+      "students_bel": 196,
+      "students_math": 195
+    },
+    "РАДНЕВО": {
+      "bel_score": 36.45,
+      "mat_score": 20.28,
+      "students_bel": 154,
+      "students_math": 155
+    },
+    "РАДОМИР": {
+      "bel_score": 35.83,
+      "mat_score": 15.35,
+      "students_bel": 145,
+      "students_math": 145
+    },
+    "РАЗГРАД": {
+      "bel_score": 38.32,
+      "mat_score": 27.26,
+      "students_bel": 416,
+      "students_math": 414
+    },
+    "РАЗЛОГ": {
+      "bel_score": 43.16,
+      "mat_score": 27.4,
+      "students_bel": 201,
+      "students_math": 199
+    },
+    "РАКИТОВО": {
+      "bel_score": 35.17,
+      "mat_score": 21.89,
+      "students_bel": 134,
+      "students_math": 133
+    },
+    "РАКОВСКИ": {
+      "bel_score": 37.58,
+      "mat_score": 23.49,
+      "students_bel": 228,
+      "students_math": 229
+    },
+    "РИЛА": {
+      "bel_score": 53.45,
+      "mat_score": 27.75,
+      "students_bel": 11,
+      "students_math": 11
+    },
+    "РОДОПИ": {
+      "bel_score": 52.65,
+      "mat_score": 35.51,
+      "students_bel": 192,
+      "students_math": 193
+    },
+    "РОМАН": {
+      "bel_score": 25.7,
+      "mat_score": 17.95,
+      "students_bel": 32,
+      "students_math": 32
+    },
+    "РУДОЗЕМ": {
+      "bel_score": 55.99,
+      "mat_score": 41.73,
+      "students_bel": 85,
+      "students_math": 85
+    },
+    "РУЕН": {
+      "bel_score": 38.49,
+      "mat_score": 31.37,
+      "students_bel": 258,
+      "students_math": 257
+    },
+    "РУЖИНЦИ": {
+      "bel_score": 27.02,
+      "mat_score": 15.59,
+      "students_bel": 23,
+      "students_math": 22
+    },
+    "РУСЕ": {
+      "bel_score": 51.14,
+      "mat_score": 33.14,
+      "students_bel": 1303,
+      "students_math": 1301
+    },
+    "САДОВО": {
+      "bel_score": 28.37,
+      "mat_score": 16.95,
+      "students_bel": 113,
+      "students_math": 114
+    },
+    "САМОКОВ": {
+      "bel_score": 46.36,
+      "mat_score": 26.41,
+      "students_bel": 305,
+      "students_math": 301
+    },
+    "САМУИЛ": {
+      "bel_score": 31.49,
+      "mat_score": 28.38,
+      "students_bel": 42,
+      "students_math": 40
+    },
+    "САНДАНСКИ": {
+      "bel_score": 47.73,
+      "mat_score": 27.19,
+      "students_bel": 351,
+      "students_math": 351
+    },
+    "САПАРЕВА БАНЯ": {
+      "bel_score": 46.23,
+      "mat_score": 25.03,
+      "students_bel": 42,
+      "students_math": 42
+    },
+    "САТОВЧА": {
+      "bel_score": 48.96,
+      "mat_score": 29.15,
+      "students_bel": 138,
+      "students_math": 139
+    },
+    "СВИЛЕНГРАД": {
+      "bel_score": 40.36,
+      "mat_score": 38.69,
+      "students_bel": 173,
+      "students_math": 175
+    },
+    "СВИЩОВ": {
+      "bel_score": 40.93,
+      "mat_score": 22.53,
+      "students_bel": 230,
+      "students_math": 229
+    },
+    "СВОГЕ": {
+      "bel_score": 53.55,
+      "mat_score": 23.47,
+      "students_bel": 131,
+      "students_math": 131
+    },
+    "СЕВЛИЕВО": {
+      "bel_score": 32.83,
+      "mat_score": 16.36,
+      "students_bel": 262,
+      "students_math": 262
+    },
+    "СЕПТЕМВРИ": {
+      "bel_score": 33.26,
+      "mat_score": 16.84,
+      "students_bel": 164,
+      "students_math": 164
+    },
+    "СИЛИСТРА": {
+      "bel_score": 47.75,
+      "mat_score": 26.93,
+      "students_bel": 296,
+      "students_math": 296
+    },
+    "СИМЕОНОВГРАД": {
+      "bel_score": 23.9,
+      "mat_score": 16.48,
+      "students_bel": 65,
+      "students_math": 62
+    },
+    "СИМИТЛИ": {
+      "bel_score": 44.84,
+      "mat_score": 19.9,
+      "students_bel": 115,
+      "students_math": 114
+    },
+    "СИТОВО": {
+      "bel_score": 29.38,
+      "mat_score": 24.3,
+      "students_bel": 32,
+      "students_math": 32
+    },
+    "СЛИВЕН": {
+      "bel_score": 36.38,
+      "mat_score": 23.26,
+      "students_bel": 1188,
+      "students_math": 1186
+    },
+    "СЛИВНИЦА": {
+      "bel_score": 50.48,
+      "mat_score": 22.36,
+      "students_bel": 78,
+      "students_math": 78
+    },
+    "СЛИВО ПОЛЕ": {
+      "bel_score": 40.55,
+      "mat_score": 25.97,
+      "students_bel": 65,
+      "students_math": 65
+    },
+    "СМОЛЯН": {
+      "bel_score": 59.66,
+      "mat_score": 36.04,
+      "students_bel": 304,
+      "students_math": 302
+    },
+    "СМЯДОВО": {
+      "bel_score": 38.86,
+      "mat_score": 16.65,
+      "students_bel": 49,
+      "students_math": 49
+    },
+    "СОЗОПОЛ": {
+      "bel_score": 40.57,
+      "mat_score": 17.42,
+      "students_bel": 69,
+      "students_math": 69
+    },
+    "СОПОТ": {
+      "bel_score": 43.31,
+      "mat_score": 15.76,
+      "students_bel": 52,
+      "students_math": 53
+    },
+    "СРЕДЕЦ": {
+      "bel_score": 29.48,
+      "mat_score": 20.4,
+      "students_bel": 127,
+      "students_math": 127
+    },
+    "СТАМБОЛИЙСКИ": {
+      "bel_score": 27.73,
+      "mat_score": 17.49,
+      "students_bel": 164,
+      "students_math": 160
+    },
+    "СТАМБОЛОВО": {
+      "bel_score": 28.03,
+      "mat_score": 17.8,
+      "students_bel": 44,
+      "students_math": 44
+    },
+    "СТАРА ЗАГОРА": {
+      "bel_score": 43.07,
+      "mat_score": 28.41,
+      "students_bel": 1363,
+      "students_math": 1359
+    },
+    "СТОЛИЧНА": {
+      "bel_score": 59.57,
+      "mat_score": 41.42,
+      "students_bel": 11573,
+      "students_math": 11541
+    },
+    "СТРАЖИЦА": {
+      "bel_score": 22.57,
+      "mat_score": 15.12,
+      "students_bel": 71,
+      "students_math": 70
+    },
+    "СТРАЛДЖА": {
+      "bel_score": 38.59,
+      "mat_score": 35.85,
+      "students_bel": 91,
+      "students_math": 95
+    },
+    "СТРЕЛЧА": {
+      "bel_score": 50.4,
+      "mat_score": 37.03,
+      "students_bel": 39,
+      "students_math": 37
+    },
+    "СТРУМЯНИ": {
+      "bel_score": 20.26,
+      "mat_score": 11.27,
+      "students_bel": 25,
+      "students_math": 26
+    },
+    "СУВОРОВО": {
+      "bel_score": 29.28,
+      "mat_score": 17.16,
+      "students_bel": 74,
+      "students_math": 74
+    },
+    "СУНГУРЛАРЕ": {
+      "bel_score": 30.21,
+      "mat_score": 21.29,
+      "students_bel": 85,
+      "students_math": 85
+    },
+    "СУХИНДОЛ": {
+      "bel_score": 30.95,
+      "mat_score": 16.5,
+      "students_bel": 11,
+      "students_math": 11
+    },
+    "СЪЕДИНЕНИЕ": {
+      "bel_score": 45.77,
+      "mat_score": 22.53,
+      "students_bel": 41,
+      "students_math": 42
+    },
+    "СЪРНИЦА": {
+      "bel_score": 47.84,
+      "mat_score": 37.95,
+      "students_bel": 45,
+      "students_math": 45
+    },
+    "ТВЪРДИЦА": {
+      "bel_score": 30.06,
+      "mat_score": 19.84,
+      "students_bel": 109,
+      "students_math": 106
+    },
+    "ТЕРВЕЛ": {
+      "bel_score": 22.18,
+      "mat_score": 13.81,
+      "students_bel": 102,
+      "students_math": 102
+    },
+    "ТЕТЕВЕН": {
+      "bel_score": 41.09,
+      "mat_score": 24.84,
+      "students_bel": 164,
+      "students_math": 163
+    },
+    "ТОПОЛОВГРАД": {
+      "bel_score": 30.59,
+      "mat_score": 40.49,
+      "students_bel": 66,
+      "students_math": 66
+    },
+    "ТРЕКЛЯНО": {
+      "bel_score": 20.17,
+      "mat_score": 13.67,
+      "students_bel": 6,
+      "students_math": 6
+    },
+    "ТРОЯН": {
+      "bel_score": 45.91,
+      "mat_score": 22.12,
+      "students_bel": 215,
+      "students_math": 215
+    },
+    "ТРЪН": {
+      "bel_score": 22.59,
+      "mat_score": 10.97,
+      "students_bel": 28,
+      "students_math": 26
+    },
+    "ТРЯВНА": {
+      "bel_score": 60.23,
+      "mat_score": 33.77,
+      "students_bel": 61,
+      "students_math": 61
+    },
+    "ТУНДЖА": {
+      "bel_score": 27.95,
+      "mat_score": 25.93,
+      "students_bel": 120,
+      "students_math": 115
+    },
+    "ТУТРАКАН": {
+      "bel_score": 41.38,
+      "mat_score": 32.03,
+      "students_bel": 95,
+      "students_math": 96
+    },
+    "ТЪРГОВИЩЕ": {
+      "bel_score": 34.8,
+      "mat_score": 25.26,
+      "students_bel": 460,
+      "students_math": 462
+    },
+    "УГЪРЧИН": {
+      "bel_score": 35.55,
+      "mat_score": 23.19,
+      "students_bel": 38,
+      "students_math": 35
+    },
+    "ХАДЖИДИМОВО": {
+      "bel_score": 46.69,
+      "mat_score": 27.16,
+      "students_bel": 85,
+      "students_math": 85
+    },
+    "ХАЙРЕДИН": {
+      "bel_score": 38.87,
+      "mat_score": 18.34,
+      "students_bel": 27,
+      "students_math": 27
+    },
+    "ХАРМАНЛИ": {
+      "bel_score": 29.75,
+      "mat_score": 27.14,
+      "students_bel": 203,
+      "students_math": 198
+    },
+    "ХАСКОВО": {
+      "bel_score": 40.92,
+      "mat_score": 26.65,
+      "students_bel": 799,
+      "students_math": 796
+    },
+    "ХИСАРЯ": {
+      "bel_score": 33.01,
+      "mat_score": 16.94,
+      "students_bel": 78,
+      "students_math": 76
+    },
+    "ХИТРИНО": {
+      "bel_score": 27.24,
+      "mat_score": 25.76,
+      "students_bel": 19,
+      "students_math": 19
+    },
+    "ЦАР КАЛОЯН": {
+      "bel_score": 48.33,
+      "mat_score": 27.86,
+      "students_bel": 25,
+      "students_math": 25
+    },
+    "ЦАРЕВО": {
+      "bel_score": 47.05,
+      "mat_score": 21.05,
+      "students_bel": 65,
+      "students_math": 65
+    },
+    "ЦЕНОВО": {
+      "bel_score": 56.34,
+      "mat_score": 42.7,
+      "students_bel": 18,
+      "students_math": 18
+    },
+    "ЧАВДАР": {
+      "bel_score": 59.25,
+      "mat_score": 45.69,
+      "students_bel": 8,
+      "students_math": 8
+    },
+    "ЧЕЛОПЕЧ": {
+      "bel_score": 50.5,
+      "mat_score": 24.51,
+      "students_bel": 20,
+      "students_math": 20
+    },
+    "ЧЕПЕЛАРЕ": {
+      "bel_score": 40.78,
+      "mat_score": 21.51,
+      "students_bel": 36,
+      "students_math": 36
+    },
+    "ЧЕРВЕН БРЯГ": {
+      "bel_score": 32.01,
+      "mat_score": 20.22,
+      "students_bel": 207,
+      "students_math": 208
+    },
+    "ЧЕРНООЧЕНЕ": {
+      "bel_score": 37.03,
+      "mat_score": 42.6,
+      "students_bel": 57,
+      "students_math": 57
+    },
+    "ЧИПРОВЦИ": {
+      "bel_score": 34.58,
+      "mat_score": 25.08,
+      "students_bel": 6,
+      "students_math": 6
+    },
+    "ЧИРПАН": {
+      "bel_score": 31.32,
+      "mat_score": 23.29,
+      "students_bel": 181,
+      "students_math": 179
+    },
+    "ЧУЖБИНА": {
+      "bel_score": 44.09,
+      "mat_score": 24.39,
+      "students_bel": 21,
+      "students_math": 21
+    },
+    "ЧУПРЕНЕ": {
+      "bel_score": 13.04,
+      "mat_score": 19.36,
+      "students_bel": 10,
+      "students_math": 8
+    },
+    "ШАБЛА": {
+      "bel_score": 40.48,
+      "mat_score": 23.32,
+      "students_bel": 21,
+      "students_math": 21
+    },
+    "ШУМЕН": {
+      "bel_score": 41.56,
+      "mat_score": 24.4,
+      "students_bel": 786,
+      "students_math": 784
+    },
+    "ЯБЛАНИЦА": {
+      "bel_score": 19.39,
+      "mat_score": 17.05,
+      "students_bel": 82,
+      "students_math": 78
+    },
+    "ЯКИМОВО": {
+      "bel_score": 17.25,
+      "mat_score": 9.96,
+      "students_bel": 20,
+      "students_math": 20
+    },
+    "ЯКОРУДА": {
+      "bel_score": 48.75,
+      "mat_score": 32.65,
+      "students_bel": 114,
+      "students_math": 114
+    },
+    "ЯМБОЛ": {
+      "bel_score": 43.33,
+      "mat_score": 30.95,
+      "students_bel": 697,
+      "students_math": 691
+    }
+  },
+  "2022-2023": {
+    "АВРЕН": {
+      "bel_score": 38.08,
+      "mat_score": 23.97,
+      "students_bel": 80,
+      "students_math": 80
+    },
+    "АЙТОС": {
+      "bel_score": 34.22,
+      "mat_score": 26.46,
+      "students_bel": 277,
+      "students_math": 272
+    },
+    "АКСАКОВО": {
+      "bel_score": 36.35,
+      "mat_score": 19.25,
+      "students_bel": 158,
+      "students_math": 159
+    },
+    "АЛФАТАР": {
+      "bel_score": 41.59,
+      "mat_score": 16.18,
+      "students_bel": 11,
+      "students_math": 11
+    },
+    "АНТОН": {
+      "bel_score": 55.35,
+      "mat_score": 27.6,
+      "students_bel": 10,
+      "students_math": 10
+    },
+    "АНТОНОВО": {
+      "bel_score": 43.5,
+      "mat_score": 37.76,
+      "students_bel": 31,
+      "students_math": 31
+    },
+    "АПРИЛЦИ": {
+      "bel_score": 46.53,
+      "mat_score": 31.25,
+      "students_bel": 20,
+      "students_math": 20
+    },
+    "АРДИНО": {
+      "bel_score": 45.62,
+      "mat_score": 28.61,
+      "students_bel": 62,
+      "students_math": 62
+    },
+    "АСЕНОВГРАД": {
+      "bel_score": 44.4,
+      "mat_score": 26.41,
+      "students_bel": 465,
+      "students_math": 463
+    },
+    "БАЛЧИК": {
+      "bel_score": 43.15,
+      "mat_score": 22.44,
+      "students_bel": 115,
+      "students_math": 116
+    },
+    "БАНИТЕ": {
+      "bel_score": 67.5,
+      "mat_score": 40.5,
+      "students_bel": 3,
+      "students_math": 3
+    },
+    "БАНСКО": {
+      "bel_score": 54.91,
+      "mat_score": 29.1,
+      "students_bel": 107,
+      "students_math": 107
+    },
+    "БАТАК": {
+      "bel_score": 53.51,
+      "mat_score": 29.94,
+      "students_bel": 36,
+      "students_math": 36
+    },
+    "БЕЛЕНЕ": {
+      "bel_score": 52.3,
+      "mat_score": 26.87,
+      "students_bel": 49,
+      "students_math": 48
+    },
+    "БЕЛИЦА": {
+      "bel_score": 47.05,
+      "mat_score": 42.2,
+      "students_bel": 137,
+      "students_math": 137
+    },
+    "БЕЛОВО": {
+      "bel_score": 52.41,
+      "mat_score": 23.89,
+      "students_bel": 57,
+      "students_math": 58
+    },
+    "БЕЛОГРАДЧИК": {
+      "bel_score": 25.48,
+      "mat_score": 21.74,
+      "students_bel": 49,
+      "students_math": 48
+    },
+    "БЕЛОСЛАВ": {
+      "bel_score": 54.19,
+      "mat_score": 29.59,
+      "students_bel": 102,
+      "students_math": 99
+    },
+    "БЕРКОВИЦА": {
+      "bel_score": 36.99,
+      "mat_score": 21.61,
+      "students_bel": 115,
+      "students_math": 111
+    },
+    "БЛАГОЕВГРАД": {
+      "bel_score": 61.33,
+      "mat_score": 39.78,
+      "students_bel": 673,
+      "students_math": 671
+    },
+    "БОБОВ ДОЛ": {
+      "bel_score": 42.95,
+      "mat_score": 18.84,
+      "students_bel": 37,
+      "students_math": 37
+    },
+    "БОБОШЕВО": {
+      "bel_score": 74.22,
+      "mat_score": 37.94,
+      "students_bel": 9,
+      "students_math": 9
+    },
+    "БОЖУРИЩЕ": {
+      "bel_score": 47.83,
+      "mat_score": 30.82,
+      "students_bel": 68,
+      "students_math": 68
+    },
+    "БОЙНИЦА": {
+      "bel_score": 14.29,
+      "mat_score": 9.71,
+      "students_bel": 7,
+      "students_math": 7
+    },
+    "БОЙЧИНОВЦИ": {
+      "bel_score": 33.33,
+      "mat_score": 17.56,
+      "students_bel": 46,
+      "students_math": 47
+    },
+    "БОЛЯРОВО": {
+      "bel_score": 38.56,
+      "mat_score": 39.54,
+      "students_bel": 22,
+      "students_math": 22
+    },
+    "БОРИНО": {
+      "bel_score": 58.61,
+      "mat_score": 40.15,
+      "students_bel": 14,
+      "students_math": 14
+    },
+    "БОРОВАН": {
+      "bel_score": 38.9,
+      "mat_score": 15.65,
+      "students_bel": 41,
+      "students_math": 41
+    },
+    "БОРОВО": {
+      "bel_score": 30.41,
+      "mat_score": 17.05,
+      "students_bel": 17,
+      "students_math": 17
+    },
+    "БОТЕВГРАД": {
+      "bel_score": 45.53,
+      "mat_score": 29.05,
+      "students_bel": 305,
+      "students_math": 305
+    },
+    "БРАТЯ ДАСКАЛОВИ": {
+      "bel_score": 16.62,
+      "mat_score": 14.65,
+      "students_bel": 39,
+      "students_math": 41
+    },
+    "БРАЦИГОВО": {
+      "bel_score": 26.3,
+      "mat_score": 18.6,
+      "students_bel": 49,
+      "students_math": 51
+    },
+    "БРЕГОВО": {
+      "bel_score": 39.25,
+      "mat_score": 17.85,
+      "students_bel": 12,
+      "students_math": 12
+    },
+    "БРЕЗНИК": {
+      "bel_score": 46.17,
+      "mat_score": 23.0,
+      "students_bel": 30,
+      "students_math": 29
+    },
+    "БРЕЗОВО": {
+      "bel_score": 36.52,
+      "mat_score": 23.29,
+      "students_bel": 43,
+      "students_math": 43
+    },
+    "БРУСАРЦИ": {
+      "bel_score": 50.67,
+      "mat_score": 23.91,
+      "students_bel": 26,
+      "students_math": 27
+    },
+    "БУРГАС": {
+      "bel_score": 59.2,
+      "mat_score": 40.47,
+      "students_bel": 2313,
+      "students_math": 2313
+    },
+    "БЯЛА": {
+      "bel_score": 43.61,
+      "mat_score": 20.75,
+      "students_bel": 100,
+      "students_math": 100
+    },
+    "БЯЛА СЛАТИНА": {
+      "bel_score": 35.46,
+      "mat_score": 21.18,
+      "students_bel": 199,
+      "students_math": 196
+    },
+    "ВАРНА": {
+      "bel_score": 61.19,
+      "mat_score": 43.08,
+      "students_bel": 3374,
+      "students_math": 3375
+    },
+    "ВЕЛИКИ ПРЕСЛАВ": {
+      "bel_score": 30.77,
+      "mat_score": 17.62,
+      "students_bel": 92,
+      "students_math": 93
+    },
+    "ВЕЛИКО ТЪРНОВО": {
+      "bel_score": 51.53,
+      "mat_score": 28.97,
+      "students_bel": 712,
+      "students_math": 714
+    },
+    "ВЕЛИНГРАД": {
+      "bel_score": 46.85,
+      "mat_score": 33.46,
+      "students_bel": 349,
+      "students_math": 346
+    },
+    "ВЕНЕЦ": {
+      "bel_score": 28.19,
+      "mat_score": 24.27,
+      "students_bel": 36,
+      "students_math": 36
+    },
+    "ВЕТОВО": {
+      "bel_score": 32.46,
+      "mat_score": 20.53,
+      "students_bel": 82,
+      "students_math": 82
+    },
+    "ВЕТРИНО": {
+      "bel_score": 47.29,
+      "mat_score": 24.03,
+      "students_bel": 31,
+      "students_math": 31
+    },
+    "ВИДИН": {
+      "bel_score": 46.98,
+      "mat_score": 26.11,
+      "students_bel": 419,
+      "students_math": 415
+    },
+    "ВРАЦА": {
+      "bel_score": 45.4,
+      "mat_score": 26.05,
+      "students_bel": 596,
+      "students_math": 596
+    },
+    "ВЪЛЧЕДРЪМ": {
+      "bel_score": 37.87,
+      "mat_score": 17.62,
+      "students_bel": 64,
+      "students_math": 66
+    },
+    "ВЪЛЧИ ДОЛ": {
+      "bel_score": 24.27,
+      "mat_score": 17.42,
+      "students_bel": 54,
+      "students_math": 54
+    },
+    "ВЪРБИЦА": {
+      "bel_score": 35.14,
+      "mat_score": 19.4,
+      "students_bel": 71,
+      "students_math": 72
+    },
+    "ВЪРШЕЦ": {
+      "bel_score": 39.36,
+      "mat_score": 22.74,
+      "students_bel": 56,
+      "students_math": 55
+    },
+    "ГАБРОВО": {
+      "bel_score": 58.55,
+      "mat_score": 35.69,
+      "students_bel": 439,
+      "students_math": 437
+    },
+    "ГЕНЕРАЛ ТОШЕВО": {
+      "bel_score": 25.4,
+      "mat_score": 17.37,
+      "students_bel": 90,
+      "students_math": 88
+    },
+    "ГЕОРГИ ДАМЯНОВО": {
+      "bel_score": 40.4,
+      "mat_score": 15.45,
+      "students_bel": 5,
+      "students_math": 5
+    },
+    "ГЛАВИНИЦА": {
+      "bel_score": 29.85,
+      "mat_score": 17.58,
+      "students_bel": 51,
+      "students_math": 51
+    },
+    "ГОДЕЧ": {
+      "bel_score": 50.23,
+      "mat_score": 27.99,
+      "students_bel": 40,
+      "students_math": 40
+    },
+    "ГОРНА МАЛИНА": {
+      "bel_score": 43.23,
+      "mat_score": 31.45,
+      "students_bel": 57,
+      "students_math": 57
+    },
+    "ГОРНА ОРЯХОВИЦА": {
+      "bel_score": 47.26,
+      "mat_score": 22.68,
+      "students_bel": 347,
+      "students_math": 346
+    },
+    "ГОЦЕ ДЕЛЧЕВ": {
+      "bel_score": 52.44,
+      "mat_score": 30.18,
+      "students_bel": 353,
+      "students_math": 352
+    },
+    "ГР.ДОБРИЧ": {
+      "bel_score": 49.42,
+      "mat_score": 29.37,
+      "students_bel": 706,
+      "students_math": 705
+    },
+    "ГРАМАДА": {
+      "bel_score": 9.9,
+      "mat_score": 15.0,
+      "students_bel": 5,
+      "students_math": 4
+    },
+    "ГУЛЯНЦИ": {
+      "bel_score": 43.5,
+      "mat_score": 28.04,
+      "students_bel": 57,
+      "students_math": 62
+    },
+    "ГУРКОВО": {
+      "bel_score": 28.79,
+      "mat_score": 20.24,
+      "students_bel": 31,
+      "students_math": 31
+    },
+    "ГЪЛЪБОВО": {
+      "bel_score": 37.49,
+      "mat_score": 28.2,
+      "students_bel": 91,
+      "students_math": 91
+    },
+    "ГЪРМЕН": {
+      "bel_score": 44.9,
+      "mat_score": 32.97,
+      "students_bel": 182,
+      "students_math": 179
+    },
+    "ДВЕ МОГИЛИ": {
+      "bel_score": 33.03,
+      "mat_score": 26.88,
+      "students_bel": 47,
+      "students_math": 46
+    },
+    "ДЕВИН": {
+      "bel_score": 64.59,
+      "mat_score": 36.36,
+      "students_bel": 81,
+      "students_math": 81
+    },
+    "ДЕВНЯ": {
+      "bel_score": 38.2,
+      "mat_score": 15.99,
+      "students_bel": 61,
+      "students_math": 61
+    },
+    "ДЖЕБЕЛ": {
+      "bel_score": 50.86,
+      "mat_score": 39.61,
+      "students_bel": 58,
+      "students_math": 58
+    },
+    "ДИМИТРОВГРАД": {
+      "bel_score": 34.15,
+      "mat_score": 22.83,
+      "students_bel": 369,
+      "students_math": 369
+    },
+    "ДИМОВО": {
+      "bel_score": 24.25,
+      "mat_score": 14.57,
+      "students_bel": 41,
+      "students_math": 43
+    },
+    "ДОБРИЧ": {
+      "bel_score": 29.56,
+      "mat_score": 20.68,
+      "students_bel": 100,
+      "students_math": 100
+    },
+    "ДОЛНА БАНЯ": {
+      "bel_score": 26.86,
+      "mat_score": 26.27,
+      "students_bel": 33,
+      "students_math": 31
+    },
+    "ДОЛНА МИТРОПОЛИЯ": {
+      "bel_score": 28.22,
+      "mat_score": 17.31,
+      "students_bel": 99,
+      "students_math": 100
+    },
+    "ДОЛНИ ДЪБНИК": {
+      "bel_score": 46.75,
+      "mat_score": 36.17,
+      "students_bel": 76,
+      "students_math": 75
+    },
+    "ДОЛНИ ЧИФЛИК": {
+      "bel_score": 31.32,
+      "mat_score": 22.65,
+      "students_bel": 170,
+      "students_math": 170
+    },
+    "ДОСПАТ": {
+      "bel_score": 56.73,
+      "mat_score": 36.2,
+      "students_bel": 69,
+      "students_math": 69
+    },
+    "ДРАГОМАН": {
+      "bel_score": 49.87,
+      "mat_score": 25.6,
+      "students_bel": 30,
+      "students_math": 30
+    },
+    "ДРЯНОВО": {
+      "bel_score": 36.49,
+      "mat_score": 23.06,
+      "students_bel": 45,
+      "students_math": 44
+    },
+    "ДУЛОВО": {
+      "bel_score": 36.5,
+      "mat_score": 28.6,
+      "students_bel": 244,
+      "students_math": 243
+    },
+    "ДУПНИЦА": {
+      "bel_score": 49.24,
+      "mat_score": 25.62,
+      "students_bel": 380,
+      "students_math": 377
+    },
+    "ДЪЛГОПОЛ": {
+      "bel_score": 26.09,
+      "mat_score": 16.43,
+      "students_bel": 106,
+      "students_math": 105
+    },
+    "ЕЛЕНА": {
+      "bel_score": 36.16,
+      "mat_score": 18.39,
+      "students_bel": 65,
+      "students_math": 65
+    },
+    "ЕЛИН ПЕЛИН": {
+      "bel_score": 50.67,
+      "mat_score": 26.79,
+      "students_bel": 202,
+      "students_math": 202
+    },
+    "ЕЛХОВО": {
+      "bel_score": 41.41,
+      "mat_score": 34.06,
+      "students_bel": 116,
+      "students_math": 117
+    },
+    "ЕТРОПОЛЕ": {
+      "bel_score": 31.47,
+      "mat_score": 24.17,
+      "students_bel": 108,
+      "students_math": 109
+    },
+    "ЗАВЕТ": {
+      "bel_score": 44.38,
+      "mat_score": 31.89,
+      "students_bel": 54,
+      "students_math": 54
+    },
+    "ЗЕМЕН": {
+      "bel_score": 40.83,
+      "mat_score": 29.58,
+      "students_bel": 3,
+      "students_math": 3
+    },
+    "ЗЛАТАРИЦА": {
+      "bel_score": 32.59,
+      "mat_score": 18.43,
+      "students_bel": 20,
+      "students_math": 21
+    },
+    "ЗЛАТИЦА": {
+      "bel_score": 54.24,
+      "mat_score": 26.73,
+      "students_bel": 46,
+      "students_math": 46
+    },
+    "ЗЛАТОГРАД": {
+      "bel_score": 63.87,
+      "mat_score": 48.65,
+      "students_bel": 78,
+      "students_math": 78
+    },
+    "ИВАЙЛОВГРАД": {
+      "bel_score": 39.23,
+      "mat_score": 36.03,
+      "students_bel": 36,
+      "students_math": 36
+    },
+    "ИВАНОВО": {
+      "bel_score": 38.87,
+      "mat_score": 22.86,
+      "students_bel": 17,
+      "students_math": 15
+    },
+    "ИСКЪР": {
+      "bel_score": 26.57,
+      "mat_score": 14.41,
+      "students_bel": 46,
+      "students_math": 45
+    },
+    "ИСПЕРИХ": {
+      "bel_score": 34.12,
+      "mat_score": 27.61,
+      "students_bel": 171,
+      "students_math": 169
+    },
+    "ИХТИМАН": {
+      "bel_score": 29.55,
+      "mat_score": 23.66,
+      "students_bel": 196,
+      "students_math": 193
+    },
+    "КАВАРНА": {
+      "bel_score": 39.39,
+      "mat_score": 28.26,
+      "students_bel": 88,
+      "students_math": 89
+    },
+    "КАЗАНЛЪК": {
+      "bel_score": 37.37,
+      "mat_score": 24.73,
+      "students_bel": 650,
+      "students_math": 654
+    },
+    "КАЙНАРДЖА": {
+      "bel_score": 23.39,
+      "mat_score": 15.09,
+      "students_bel": 51,
+      "students_math": 52
+    },
+    "КАЛОЯНОВО": {
+      "bel_score": 40.5,
+      "mat_score": 25.1,
+      "students_bel": 64,
+      "students_math": 64
+    },
+    "КАМЕНО": {
+      "bel_score": 30.25,
+      "mat_score": 20.1,
+      "students_bel": 58,
+      "students_math": 59
+    },
+    "КАОЛИНОВО": {
+      "bel_score": 29.85,
+      "mat_score": 20.19,
+      "students_bel": 97,
+      "students_math": 97
+    },
+    "КАРЛОВО": {
+      "bel_score": 35.82,
+      "mat_score": 20.05,
+      "students_bel": 462,
+      "students_math": 457
+    },
+    "КАРНОБАТ": {
+      "bel_score": 40.52,
+      "mat_score": 31.75,
+      "students_bel": 209,
+      "students_math": 210
+    },
+    "КАСПИЧАН": {
+      "bel_score": 21.64,
+      "mat_score": 15.57,
+      "students_bel": 46,
+      "students_math": 45
+    },
+    "КИРКОВО": {
+      "bel_score": 45.62,
+      "mat_score": 34.86,
+      "students_bel": 133,
+      "students_math": 134
+    },
+    "КНЕЖА": {
+      "bel_score": 43.02,
+      "mat_score": 27.5,
+      "students_bel": 86,
+      "students_math": 89
+    },
+    "КОВАЧЕВЦИ": {
+      "bel_score": 61.0,
+      "mat_score": 25.0,
+      "students_bel": 1,
+      "students_math": 1
+    },
+    "КОЗЛОДУЙ": {
+      "bel_score": 37.92,
+      "mat_score": 19.9,
+      "students_bel": 201,
+      "students_math": 200
+    },
+    "КОПРИВЩИЦА": {
+      "bel_score": 47.13,
+      "mat_score": 41.88,
+      "students_bel": 12,
+      "students_math": 12
+    },
+    "КОСТЕНЕЦ": {
+      "bel_score": 56.23,
+      "mat_score": 37.62,
+      "students_bel": 119,
+      "students_math": 120
+    },
+    "КОСТИНБРОД": {
+      "bel_score": 48.48,
+      "mat_score": 26.63,
+      "students_bel": 126,
+      "students_math": 125
+    },
+    "КОТЕЛ": {
+      "bel_score": 32.41,
+      "mat_score": 21.13,
+      "students_bel": 145,
+      "students_math": 143
+    },
+    "КОЧЕРИНОВО": {
+      "bel_score": 36.89,
+      "mat_score": 21.16,
+      "students_bel": 18,
+      "students_math": 19
+    },
+    "КРЕСНА": {
+      "bel_score": 57.5,
+      "mat_score": 29.13,
+      "students_bel": 28,
+      "students_math": 28
+    },
+    "КРИВОДОЛ": {
+      "bel_score": 36.19,
+      "mat_score": 24.96,
+      "students_bel": 61,
+      "students_math": 61
+    },
+    "КРИЧИМ": {
+      "bel_score": 40.4,
+      "mat_score": 24.79,
+      "students_bel": 40,
+      "students_math": 39
+    },
+    "КРУМОВГРАД": {
+      "bel_score": 37.59,
+      "mat_score": 24.33,
+      "students_bel": 160,
+      "students_math": 161
+    },
+    "КРУШАРИ": {
+      "bel_score": 21.47,
+      "mat_score": 14.04,
+      "students_bel": 29,
+      "students_math": 29
+    },
+    "КУБРАТ": {
+      "bel_score": 29.62,
+      "mat_score": 18.23,
+      "students_bel": 94,
+      "students_math": 94
+    },
+    "КУКЛЕН": {
+      "bel_score": 55.04,
+      "mat_score": 29.74,
+      "students_bel": 61,
+      "students_math": 60
+    },
+    "КУЛА": {
+      "bel_score": 47.5,
+      "mat_score": 16.88,
+      "students_bel": 12,
+      "students_math": 12
+    },
+    "КЪРДЖАЛИ": {
+      "bel_score": 33.63,
+      "mat_score": 28.1,
+      "students_bel": 647,
+      "students_math": 641
+    },
+    "КЮСТЕНДИЛ": {
+      "bel_score": 51.45,
+      "mat_score": 29.74,
+      "students_bel": 366,
+      "students_math": 368
+    },
+    "ЛЕВСКИ": {
+      "bel_score": 37.42,
+      "mat_score": 25.5,
+      "students_bel": 101,
+      "students_math": 98
+    },
+    "ЛЕСИЧОВО": {
+      "bel_score": 31.78,
+      "mat_score": 31.2,
+      "students_bel": 27,
+      "students_math": 28
+    },
+    "ЛЕТНИЦА": {
+      "bel_score": 24.9,
+      "mat_score": 18.6,
+      "students_bel": 20,
+      "students_math": 20
+    },
+    "ЛОВЕЧ": {
+      "bel_score": 42.67,
+      "mat_score": 26.84,
+      "students_bel": 295,
+      "students_math": 291
+    },
+    "ЛОЗНИЦА": {
+      "bel_score": 33.18,
+      "mat_score": 17.87,
+      "students_bel": 61,
+      "students_math": 61
+    },
+    "ЛОМ": {
+      "bel_score": 41.99,
+      "mat_score": 34.99,
+      "students_bel": 164,
+      "students_math": 163
+    },
+    "ЛУКОВИТ": {
+      "bel_score": 29.52,
+      "mat_score": 23.53,
+      "students_bel": 168,
+      "students_math": 160
+    },
+    "ЛЪКИ": {
+      "bel_score": 59.2,
+      "mat_score": 31.87,
+      "students_bel": 15,
+      "students_math": 15
+    },
+    "ЛЮБИМЕЦ": {
+      "bel_score": 31.21,
+      "mat_score": 32.43,
+      "students_bel": 76,
+      "students_math": 73
+    },
+    "ЛЯСКОВЕЦ": {
+      "bel_score": 48.92,
+      "mat_score": 24.6,
+      "students_bel": 65,
+      "students_math": 65
+    },
+    "МАДАН": {
+      "bel_score": 58.67,
+      "mat_score": 35.88,
+      "students_bel": 86,
+      "students_math": 84
+    },
+    "МАДЖАРОВО": {
+      "bel_score": 26.29,
+      "mat_score": 14.46,
+      "students_bel": 12,
+      "students_math": 12
+    },
+    "МАКРЕШ": {
+      "bel_score": 17.0,
+      "mat_score": 14.33,
+      "students_bel": 3,
+      "students_math": 3
+    },
+    "МАЛКО ТЪРНОВО": {
+      "bel_score": 30.0,
+      "mat_score": 13.43,
+      "students_bel": 17,
+      "students_math": 17
+    },
+    "МАРИЦА": {
+      "bel_score": 39.1,
+      "mat_score": 21.95,
+      "students_bel": 181,
+      "students_math": 177
+    },
+    "МЕДКОВЕЦ": {
+      "bel_score": 36.24,
+      "mat_score": 12.82,
+      "students_bel": 22,
+      "students_math": 21
+    },
+    "МЕЗДРА": {
+      "bel_score": 45.53,
+      "mat_score": 23.75,
+      "students_bel": 127,
+      "students_math": 127
+    },
+    "МИЗИЯ": {
+      "bel_score": 37.71,
+      "mat_score": 21.16,
+      "students_bel": 45,
+      "students_math": 45
+    },
+    "МИНЕРАЛНИ БАНИ": {
+      "bel_score": 45.45,
+      "mat_score": 24.61,
+      "students_bel": 38,
+      "students_math": 38
+    },
+    "МИРКОВО": {
+      "bel_score": 30.14,
+      "mat_score": 16.7,
+      "students_bel": 11,
+      "students_math": 11
+    },
+    "МОМЧИЛГРАД": {
+      "bel_score": 39.1,
+      "mat_score": 31.54,
+      "students_bel": 115,
+      "students_math": 116
+    },
+    "МОНТАНА": {
+      "bel_score": 50.87,
+      "mat_score": 25.58,
+      "students_bel": 442,
+      "students_math": 442
+    },
+    "МЪГЛИЖ": {
+      "bel_score": 25.72,
+      "mat_score": 16.53,
+      "students_bel": 76,
+      "students_math": 72
+    },
+    "НЕВЕСТИНО": {
+      "bel_score": 28.08,
+      "mat_score": 8.93,
+      "students_bel": 12,
+      "students_math": 14
+    },
+    "НЕДЕЛИНО": {
+      "bel_score": 74.89,
+      "mat_score": 46.69,
+      "students_bel": 40,
+      "students_math": 40
+    },
+    "НЕСЕБЪР": {
+      "bel_score": 44.73,
+      "mat_score": 24.69,
+      "students_bel": 285,
+      "students_math": 282
+    },
+    "НИКОЛА КОЗЛЕВО": {
+      "bel_score": 20.04,
+      "mat_score": 22.72,
+      "students_bel": 54,
+      "students_math": 55
+    },
+    "НИКОЛАЕВО": {
+      "bel_score": 26.89,
+      "mat_score": 19.17,
+      "students_bel": 49,
+      "students_math": 51
+    },
+    "НИКОПОЛ": {
+      "bel_score": 31.42,
+      "mat_score": 17.71,
+      "students_bel": 37,
+      "students_math": 37
+    },
+    "НОВА ЗАГОРА": {
+      "bel_score": 22.34,
+      "mat_score": 15.2,
+      "students_bel": 232,
+      "students_math": 229
+    },
+    "НОВИ ПАЗАР": {
+      "bel_score": 29.61,
+      "mat_score": 21.25,
+      "students_bel": 132,
+      "students_math": 131
+    },
+    "НОВО СЕЛО": {
+      "bel_score": 29.75,
+      "mat_score": 24.63,
+      "students_bel": 8,
+      "students_math": 8
+    },
+    "ОМУРТАГ": {
+      "bel_score": 39.57,
+      "mat_score": 26.29,
+      "students_bel": 127,
+      "students_math": 129
+    },
+    "ОПАКА": {
+      "bel_score": 41.64,
+      "mat_score": 22.85,
+      "students_bel": 43,
+      "students_math": 43
+    },
+    "ОПАН": {
+      "bel_score": 21.64,
+      "mat_score": 13.45,
+      "students_bel": 11,
+      "students_math": 11
+    },
+    "ОРЯХОВО": {
+      "bel_score": 41.86,
+      "mat_score": 18.52,
+      "students_bel": 65,
+      "students_math": 68
+    },
+    "ПАВЕЛ БАНЯ": {
+      "bel_score": 20.86,
+      "mat_score": 15.07,
+      "students_bel": 85,
+      "students_math": 86
+    },
+    "ПАВЛИКЕНИ": {
+      "bel_score": 33.26,
+      "mat_score": 17.23,
+      "students_bel": 127,
+      "students_math": 128
+    },
+    "ПАЗАРДЖИК": {
+      "bel_score": 35.75,
+      "mat_score": 21.84,
+      "students_bel": 913,
+      "students_math": 912
+    },
+    "ПАНАГЮРИЩЕ": {
+      "bel_score": 41.37,
+      "mat_score": 23.13,
+      "students_bel": 170,
+      "students_math": 169
+    },
+    "ПЕРНИК": {
+      "bel_score": 56.64,
+      "mat_score": 29.67,
+      "students_bel": 846,
+      "students_math": 847
+    },
+    "ПЕРУЩИЦА": {
+      "bel_score": 44.53,
+      "mat_score": 22.45,
+      "students_bel": 38,
+      "students_math": 38
+    },
+    "ПЕТРИЧ": {
+      "bel_score": 45.14,
+      "mat_score": 27.08,
+      "students_bel": 399,
+      "students_math": 396
+    },
+    "ПЕЩЕРА": {
+      "bel_score": 45.18,
+      "mat_score": 29.48,
+      "students_bel": 132,
+      "students_math": 133
+    },
+    "ПИРДОП": {
+      "bel_score": 55.42,
+      "mat_score": 31.37,
+      "students_bel": 50,
+      "students_math": 50
+    },
+    "ПЛЕВЕН": {
+      "bel_score": 42.43,
+      "mat_score": 26.47,
+      "students_bel": 1086,
+      "students_math": 1078
+    },
+    "ПЛОВДИВ": {
+      "bel_score": 58.78,
+      "mat_score": 38.15,
+      "students_bel": 3467,
+      "students_math": 3460
+    },
+    "ПОЛСКИ ТРЪМБЕШ": {
+      "bel_score": 27.48,
+      "mat_score": 15.48,
+      "students_bel": 79,
+      "students_math": 78
+    },
+    "ПОМОРИЕ": {
+      "bel_score": 37.56,
+      "mat_score": 23.81,
+      "students_bel": 232,
+      "students_math": 230
+    },
+    "ПОПОВО": {
+      "bel_score": 41.93,
+      "mat_score": 24.75,
+      "students_bel": 173,
+      "students_math": 173
+    },
+    "ПОРДИМ": {
+      "bel_score": 37.41,
+      "mat_score": 30.56,
+      "students_bel": 40,
+      "students_math": 40
+    },
+    "ПРАВЕЦ": {
+      "bel_score": 31.16,
+      "mat_score": 31.17,
+      "students_bel": 84,
+      "students_math": 83
+    },
+    "ПРИМОРСКО": {
+      "bel_score": 39.59,
+      "mat_score": 22.79,
+      "students_bel": 44,
+      "students_math": 45
+    },
+    "ПРОВАДИЯ": {
+      "bel_score": 33.7,
+      "mat_score": 28.72,
+      "students_bel": 185,
+      "students_math": 185
+    },
+    "ПЪРВОМАЙ": {
+      "bel_score": 28.09,
+      "mat_score": 15.13,
+      "students_bel": 180,
+      "students_math": 181
+    },
+    "РАДНЕВО": {
+      "bel_score": 41.46,
+      "mat_score": 26.24,
+      "students_bel": 150,
+      "students_math": 148
+    },
+    "РАДОМИР": {
+      "bel_score": 45.31,
+      "mat_score": 19.54,
+      "students_bel": 132,
+      "students_math": 130
+    },
+    "РАЗГРАД": {
+      "bel_score": 41.14,
+      "mat_score": 24.68,
+      "students_bel": 504,
+      "students_math": 511
+    },
+    "РАЗЛОГ": {
+      "bel_score": 52.39,
+      "mat_score": 30.2,
+      "students_bel": 204,
+      "students_math": 197
+    },
+    "РАКИТОВО": {
+      "bel_score": 38.79,
+      "mat_score": 24.81,
+      "students_bel": 144,
+      "students_math": 142
+    },
+    "РАКОВСКИ": {
+      "bel_score": 43.23,
+      "mat_score": 23.58,
+      "students_bel": 257,
+      "students_math": 254
+    },
+    "РИЛА": {
+      "bel_score": 57.0,
+      "mat_score": 22.0,
+      "students_bel": 4,
+      "students_math": 4
+    },
+    "РОДОПИ": {
+      "bel_score": 56.19,
+      "mat_score": 30.9,
+      "students_bel": 220,
+      "students_math": 220
+    },
+    "РОМАН": {
+      "bel_score": 43.33,
+      "mat_score": 24.63,
+      "students_bel": 36,
+      "students_math": 35
+    },
+    "РУДОЗЕМ": {
+      "bel_score": 52.49,
+      "mat_score": 33.69,
+      "students_bel": 84,
+      "students_math": 83
+    },
+    "РУЕН": {
+      "bel_score": 39.65,
+      "mat_score": 34.92,
+      "students_bel": 270,
+      "students_math": 271
+    },
+    "РУЖИНЦИ": {
+      "bel_score": 22.97,
+      "mat_score": 20.31,
+      "students_bel": 30,
+      "students_math": 29
+    },
+    "РУСЕ": {
+      "bel_score": 53.39,
+      "mat_score": 32.61,
+      "students_bel": 1333,
+      "students_math": 1328
+    },
+    "САДОВО": {
+      "bel_score": 33.3,
+      "mat_score": 21.03,
+      "students_bel": 131,
+      "students_math": 131
+    },
+    "САМОКОВ": {
+      "bel_score": 43.13,
+      "mat_score": 23.89,
+      "students_bel": 313,
+      "students_math": 302
+    },
+    "САМУИЛ": {
+      "bel_score": 34.07,
+      "mat_score": 24.82,
+      "students_bel": 46,
+      "students_math": 46
+    },
+    "САНДАНСКИ": {
+      "bel_score": 47.09,
+      "mat_score": 23.63,
+      "students_bel": 360,
+      "students_math": 358
+    },
+    "САПАРЕВА БАНЯ": {
+      "bel_score": 44.29,
+      "mat_score": 27.77,
+      "students_bel": 52,
+      "students_math": 52
+    },
+    "САТОВЧА": {
+      "bel_score": 50.72,
+      "mat_score": 30.49,
+      "students_bel": 153,
+      "students_math": 153
+    },
+    "СВИЛЕНГРАД": {
+      "bel_score": 43.0,
+      "mat_score": 29.27,
+      "students_bel": 190,
+      "students_math": 190
+    },
+    "СВИЩОВ": {
+      "bel_score": 43.98,
+      "mat_score": 23.96,
+      "students_bel": 210,
+      "students_math": 210
+    },
+    "СВОГЕ": {
+      "bel_score": 47.29,
+      "mat_score": 27.66,
+      "students_bel": 134,
+      "students_math": 131
+    },
+    "СЕВЛИЕВО": {
+      "bel_score": 31.98,
+      "mat_score": 18.26,
+      "students_bel": 246,
+      "students_math": 244
+    },
+    "СЕПТЕМВРИ": {
+      "bel_score": 34.31,
+      "mat_score": 20.86,
+      "students_bel": 149,
+      "students_math": 148
+    },
+    "СИЛИСТРА": {
+      "bel_score": 48.09,
+      "mat_score": 24.46,
+      "students_bel": 314,
+      "students_math": 313
+    },
+    "СИМЕОНОВГРАД": {
+      "bel_score": 28.52,
+      "mat_score": 17.15,
+      "students_bel": 59,
+      "students_math": 59
+    },
+    "СИМИТЛИ": {
+      "bel_score": 48.93,
+      "mat_score": 22.2,
+      "students_bel": 118,
+      "students_math": 117
+    },
+    "СИТОВО": {
+      "bel_score": 28.1,
+      "mat_score": 22.82,
+      "students_bel": 28,
+      "students_math": 28
+    },
+    "СЛИВЕН": {
+      "bel_score": 37.95,
+      "mat_score": 25.27,
+      "students_bel": 1169,
+      "students_math": 1183
+    },
+    "СЛИВНИЦА": {
+      "bel_score": 48.79,
+      "mat_score": 27.93,
+      "students_bel": 72,
+      "students_math": 71
+    },
+    "СЛИВО ПОЛЕ": {
+      "bel_score": 41.36,
+      "mat_score": 24.46,
+      "students_bel": 52,
+      "students_math": 51
+    },
+    "СМОЛЯН": {
+      "bel_score": 62.03,
+      "mat_score": 35.56,
+      "students_bel": 342,
+      "students_math": 339
+    },
+    "СМЯДОВО": {
+      "bel_score": 33.09,
+      "mat_score": 22.87,
+      "students_bel": 52,
+      "students_math": 55
+    },
+    "СОЗОПОЛ": {
+      "bel_score": 41.14,
+      "mat_score": 23.29,
+      "students_bel": 96,
+      "students_math": 96
+    },
+    "СОПОТ": {
+      "bel_score": 45.72,
+      "mat_score": 16.75,
+      "students_bel": 66,
+      "students_math": 66
+    },
+    "СРЕДЕЦ": {
+      "bel_score": 30.27,
+      "mat_score": 19.42,
+      "students_bel": 125,
+      "students_math": 129
+    },
+    "СТАМБОЛИЙСКИ": {
+      "bel_score": 32.15,
+      "mat_score": 20.85,
+      "students_bel": 142,
+      "students_math": 141
+    },
+    "СТАМБОЛОВО": {
+      "bel_score": 39.3,
+      "mat_score": 21.36,
+      "students_bel": 37,
+      "students_math": 37
+    },
+    "СТАРА ЗАГОРА": {
+      "bel_score": 44.0,
+      "mat_score": 29.08,
+      "students_bel": 1392,
+      "students_math": 1392
+    },
+    "СТОЛИЧНА": {
+      "bel_score": 61.79,
+      "mat_score": 41.5,
+      "students_bel": 12342,
+      "students_math": 12276
+    },
+    "СТРАЖИЦА": {
+      "bel_score": 24.21,
+      "mat_score": 12.87,
+      "students_bel": 87,
+      "students_math": 84
+    },
+    "СТРАЛДЖА": {
+      "bel_score": 29.54,
+      "mat_score": 35.08,
+      "students_bel": 111,
+      "students_math": 111
+    },
+    "СТРЕЛЧА": {
+      "bel_score": 45.73,
+      "mat_score": 25.65,
+      "students_bel": 26,
+      "students_math": 22
+    },
+    "СТРУМЯНИ": {
+      "bel_score": 15.47,
+      "mat_score": 13.87,
+      "students_bel": 29,
+      "students_math": 28
+    },
+    "СУВОРОВО": {
+      "bel_score": 39.9,
+      "mat_score": 18.33,
+      "students_bel": 40,
+      "students_math": 39
+    },
+    "СУНГУРЛАРЕ": {
+      "bel_score": 26.08,
+      "mat_score": 19.09,
+      "students_bel": 103,
+      "students_math": 99
+    },
+    "СУХИНДОЛ": {
+      "bel_score": 23.31,
+      "mat_score": 8.28,
+      "students_bel": 8,
+      "students_math": 8
+    },
+    "СЪЕДИНЕНИЕ": {
+      "bel_score": 39.39,
+      "mat_score": 24.02,
+      "students_bel": 37,
+      "students_math": 33
+    },
+    "СЪРНИЦА": {
+      "bel_score": 51.35,
+      "mat_score": 58.27,
+      "students_bel": 40,
+      "students_math": 40
+    },
+    "ТВЪРДИЦА": {
+      "bel_score": 29.84,
+      "mat_score": 19.95,
+      "students_bel": 117,
+      "students_math": 120
+    },
+    "ТЕРВЕЛ": {
+      "bel_score": 24.37,
+      "mat_score": 18.28,
+      "students_bel": 84,
+      "students_math": 83
+    },
+    "ТЕТЕВЕН": {
+      "bel_score": 47.2,
+      "mat_score": 24.82,
+      "students_bel": 190,
+      "students_math": 187
+    },
+    "ТОПОЛОВГРАД": {
+      "bel_score": 49.13,
+      "mat_score": 37.43,
+      "students_bel": 62,
+      "students_math": 62
+    },
+    "ТРЕКЛЯНО": {
+      "bel_score": 5.25,
+      "mat_score": 9.75,
+      "students_bel": 4,
+      "students_math": 4
+    },
+    "ТРОЯН": {
+      "bel_score": 41.25,
+      "mat_score": 23.11,
+      "students_bel": 231,
+      "students_math": 229
+    },
+    "ТРЪН": {
+      "bel_score": 47.68,
+      "mat_score": 19.94,
+      "students_bel": 17,
+      "students_math": 17
+    },
+    "ТРЯВНА": {
+      "bel_score": 56.66,
+      "mat_score": 27.59,
+      "students_bel": 61,
+      "students_math": 60
+    },
+    "ТУНДЖА": {
+      "bel_score": 29.13,
+      "mat_score": 27.75,
+      "students_bel": 92,
+      "students_math": 95
+    },
+    "ТУТРАКАН": {
+      "bel_score": 38.72,
+      "mat_score": 28.04,
+      "students_bel": 80,
+      "students_math": 79
+    },
+    "ТЪРГОВИЩЕ": {
+      "bel_score": 34.42,
+      "mat_score": 29.28,
+      "students_bel": 450,
+      "students_math": 449
+    },
+    "УГЪРЧИН": {
+      "bel_score": 38.1,
+      "mat_score": 29.19,
+      "students_bel": 32,
+      "students_math": 31
+    },
+    "ХАДЖИДИМОВО": {
+      "bel_score": 49.54,
+      "mat_score": 30.45,
+      "students_bel": 68,
+      "students_math": 68
+    },
+    "ХАЙРЕДИН": {
+      "bel_score": 43.77,
+      "mat_score": 21.14,
+      "students_bel": 29,
+      "students_math": 29
+    },
+    "ХАРМАНЛИ": {
+      "bel_score": 35.77,
+      "mat_score": 32.84,
+      "students_bel": 220,
+      "students_math": 220
+    },
+    "ХАСКОВО": {
+      "bel_score": 41.25,
+      "mat_score": 30.2,
+      "students_bel": 785,
+      "students_math": 779
+    },
+    "ХИСАРЯ": {
+      "bel_score": 41.42,
+      "mat_score": 21.63,
+      "students_bel": 79,
+      "students_math": 77
+    },
+    "ХИТРИНО": {
+      "bel_score": 35.98,
+      "mat_score": 31.8,
+      "students_bel": 24,
+      "students_math": 24
+    },
+    "ЦАР КАЛОЯН": {
+      "bel_score": 46.24,
+      "mat_score": 23.77,
+      "students_bel": 19,
+      "students_math": 19
+    },
+    "ЦАРЕВО": {
+      "bel_score": 45.2,
+      "mat_score": 22.19,
+      "students_bel": 72,
+      "students_math": 72
+    },
+    "ЦЕНОВО": {
+      "bel_score": 62.88,
+      "mat_score": 45.89,
+      "students_bel": 21,
+      "students_math": 21
+    },
+    "ЧАВДАР": {
+      "bel_score": 53.43,
+      "mat_score": 30.64,
+      "students_bel": 7,
+      "students_math": 7
+    },
+    "ЧЕЛОПЕЧ": {
+      "bel_score": 50.3,
+      "mat_score": 29.36,
+      "students_bel": 22,
+      "students_math": 22
+    },
+    "ЧЕПЕЛАРЕ": {
+      "bel_score": 46.42,
+      "mat_score": 20.86,
+      "students_bel": 46,
+      "students_math": 45
+    },
+    "ЧЕРВЕН БРЯГ": {
+      "bel_score": 36.07,
+      "mat_score": 25.6,
+      "students_bel": 222,
+      "students_math": 221
+    },
+    "ЧЕРНООЧЕНЕ": {
+      "bel_score": 41.87,
+      "mat_score": 42.73,
+      "students_bel": 60,
+      "students_math": 60
+    },
+    "ЧИПРОВЦИ": {
+      "bel_score": 49.39,
+      "mat_score": 23.03,
+      "students_bel": 9,
+      "students_math": 9
+    },
+    "ЧИРПАН": {
+      "bel_score": 33.48,
+      "mat_score": 30.89,
+      "students_bel": 177,
+      "students_math": 173
+    },
+    "ЧУЖБИНА": {
+      "bel_score": 49.42,
+      "mat_score": 35.63,
+      "students_bel": 23,
+      "students_math": 24
+    },
+    "ЧУПРЕНЕ": {
+      "bel_score": 15.21,
+      "mat_score": 8.5,
+      "students_bel": 8,
+      "students_math": 8
+    },
+    "ШАБЛА": {
+      "bel_score": 44.78,
+      "mat_score": 23.59,
+      "students_bel": 28,
+      "students_math": 28
+    },
+    "ШУМЕН": {
+      "bel_score": 41.38,
+      "mat_score": 24.9,
+      "students_bel": 787,
+      "students_math": 787
+    },
+    "ЯБЛАНИЦА": {
+      "bel_score": 28.63,
+      "mat_score": 29.35,
+      "students_bel": 79,
+      "students_math": 77
+    },
+    "ЯКИМОВО": {
+      "bel_score": 23.38,
+      "mat_score": 13.49,
+      "students_bel": 20,
+      "students_math": 20
+    },
+    "ЯКОРУДА": {
+      "bel_score": 51.97,
+      "mat_score": 31.97,
+      "students_bel": 106,
+      "students_math": 105
+    },
+    "ЯМБОЛ": {
+      "bel_score": 43.0,
+      "mat_score": 29.0,
+      "students_bel": 669,
+      "students_math": 658
+    }
+  },
   "2023-2024": {
     "АВРЕН": {
       "bel_score": 38.25,
