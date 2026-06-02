@@ -117,7 +117,7 @@ function onEachFeature(feature, layer) {
                 detailsHtml = `
                     <h3>общ. ${munNameGeo}</h3>
                     <p><b>Учебна година:</b> ${selectedYear}</p>
-                    <p style="color:#7f8c8d;">Няма налични данни за тази община в криптирания масив.</p>
+                    <p style="color:#7f8c8d;">Няма налични данни за тази община.</p>
                 `;
             }
             
@@ -225,7 +225,7 @@ function updateDashboard() {
                 detailsHtml = `
                     <h3>общ. ${munNameGeo}</h3>
                     <p><b>Учебна година:</b> ${selectedYear}</p>
-                    <p style="color:#7f8c8d;">Няма налични данни за тази община в криптирания масив.</p>
+                    <p style="color:#7f8c8d;">Няма налични данни за тази община.</p>
                 `;
             }
 
