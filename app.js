@@ -3,11 +3,13 @@ const map = L.map('map').setView([42.7339, 25.4858], 7.5);
 
 // Добавяне на базова карта (светъл и изчистен дизайн от CartoDB)
 L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors | Данни: <a href="https://data.egov.bg/organisation/dataset/b56288b6-25aa-4049-9aa6-de2cd4cdabf8" target="_blank">Портал за отворени данни</a>'
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors | Данни: <a href="https://data.egov.bg/organisation/dataset/b56288b6-25aa-4049-9aa6-de2cd4cdabf8" target="_blank">Портал за отворени данни (data.egov.bg)</a>, собствени изчисления'
 }).addTo(map);
 
 let geojsonLayer;
 let examData = {}; // Глобална променлива за заредените от матурите данни
+let currentlySelectedLayer = null; // Пази референция към текущо кликнатата община
+let detailsBoxHTML = document.getElementById('detailsBox').innerHTML; // Запазваме първоначалния HTML на кутията за детайли, за да можем да го възстановим при нужда
 
 // 2. Цветова скала спрямо средния брой точки (0 - 100 точки)
 function getColor(score) {
@@ -51,14 +53,26 @@ function styleFeature(feature) {
     };
 }
 
-// 4. Логика за интеракция (Посочване с мишката / Клик)
+// 4. Логика за интеракция (Клик)
 function onEachFeature(feature, layer) {
     layer.on({
-        mouseover: function(e) {
+        click: function(e) {
+            // Спираме разпространението на събитието, за да не се задейства кликването върху самата карта
+            L.DomEvent.stopPropagation(e);
+
+            // Ако има предишно кликната община, я връщаме в първоначалния ѝ вид
+            if (currentlySelectedLayer && currentlySelectedLayer !== e.target) {
+                geojsonLayer.resetStyle(currentlySelectedLayer);
+            }
+
             const currentLayer = e.target;
+
+            currentlySelectedLayer = currentLayer; // Запазваме текущата община като селектирана
+
+            // Стилизиране на селектираната община
             currentLayer.setStyle({
                 fillOpacity: 0.95,
-                weight: 2.5,
+                weight: 1.5,
                 color: '#2c3e50'
             });
             currentLayer.bringToFront();
@@ -108,12 +122,17 @@ function onEachFeature(feature, layer) {
             }
             
             document.getElementById('detailsBox').innerHTML = detailsHtml;
-        },
-        mouseout: function(e) {
-            geojsonLayer.resetStyle(e.target);
         }
     });
 }
+// Кликване върху празно място на картата нулира селекцията
+map.on('click', function() {
+    if (currentlySelectedLayer) {
+        geojsonLayer.resetStyle(currentlySelectedLayer);
+        currentlySelectedLayer = null;
+    }
+    document.getElementById('detailsBox').innerHTML = detailsBoxHTML; // Връщаме първоначалния HTML на кутията за детайли
+});
 
 // 5. Основна функция за зареждане на външните файлове
 async function initDashboard() {
@@ -158,10 +177,69 @@ async function initDashboard() {
     }
 }
 
+
 // 6. Функция за обновяване при промяна на филтрите (Година или Предмет)
 function updateDashboard() {
     if (geojsonLayer) {
+        // 1. Обновяваме цветовете на всички общини на картата спрямо новите филтри
         geojsonLayer.setStyle(styleFeature);
+        
+        // 2. Ако има текущо избрана община, обновяваме информацията за нея
+        if (currentlySelectedLayer) {
+            // Вземаме данните за геометрията/свойствата на текущия слой
+            const feature = currentlySelectedLayer.feature;
+            
+            // Повтаряме логиката за извличане на името
+            const munNameGeo = feature.properties.name; 
+            let munNameKey = munNameGeo.toUpperCase().trim();
+            if (munNameKey.startsWith("ОБЩИНА ")) {
+                munNameKey = munNameKey.replace("ОБЩИНА ", "").trim();
+            }
+
+            // Вземаме НОВИТЕ стойности от селекторите, които потребителят току-що е променил
+            const selectedYear = document.getElementById('yearSelect').value;
+            const currentSubject = document.getElementById('subjectSelect').value;
+
+            const yearData = examData[selectedYear];
+            const munData = yearData ? yearData[munNameKey] : null;
+
+            let detailsHtml = '';
+
+            if (munData) {
+                if (currentSubject === 'bel_score') {
+                    detailsHtml = `
+                        <h3>общ. ${munNameGeo}</h3>
+                        <p><b>Учебна година:</b> ${selectedYear}</p>
+                        <p><b>Средни точки БЕЛ:</b> <span style="color:#0652dd; font-weight:bold;">${munData.bel_score} т.</span></p>
+                        <p><b>Явили се ученици на БЕЛ:</b> ${munData.students_bel}</p>
+                    `;
+                } else if (currentSubject === 'mat_score') {
+                    detailsHtml = `
+                        <h3>общ. ${munNameGeo}</h3>
+                        <p><b>Учебна година:</b> ${selectedYear}</p>
+                        <p><b>Средни точки Математика:</b> <span style="color:#ea2027; font-weight:bold;">${munData.mat_score} т.</span></p>
+                        <p><b>Явили се ученици на Математика:</b> ${munData.students_math}</p>
+                    `;
+                }
+            } else {
+                detailsHtml = `
+                    <h3>общ. ${munNameGeo}</h3>
+                    <p><b>Учебна година:</b> ${selectedYear}</p>
+                    <p style="color:#7f8c8d;">Няма налични данни за тази община в криптирания масив.</p>
+                `;
+            }
+
+            // Вкарваме обновената информация в кутията
+            document.getElementById('detailsBox').innerHTML = detailsHtml;
+            
+            // Важно: Тъй като setStyle() нулира дебелината на границите, 
+            // възстановяваме акцента (тъмната граница) на избраната община
+            currentlySelectedLayer.setStyle({
+                fillOpacity: 0.95,
+                weight: 1.5,
+                color: '#2c3e50'
+            });
+        }
     }
 }
 
