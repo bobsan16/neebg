@@ -101,7 +101,7 @@ function onEachFeature(feature, layer) {
                     detailsHtml = `
                         <h3>общ. ${munNameGeo}</h3>
                         <p><b>Учебна година:</b> ${selectedYear}</p>
-                        <p><b>Средни точки БЕЛ:</b> <span style="color:#0652dd; font-weight:bold;">${munData.bel_score} т.</span></p>
+                        <p><b>Средно точки БЕЛ:</b> <span style="color:#0652dd; font-weight:bold;">${munData.bel_score} т.</span></p>
                         <p><b>Явили се ученици на БЕЛ:</b> ${munData.students_bel}</p>
                     `;
                 } else if (currentSubject === 'mat_score') {
@@ -109,7 +109,7 @@ function onEachFeature(feature, layer) {
                     detailsHtml = `
                         <h3>общ. ${munNameGeo}</h3>
                         <p><b>Учебна година:</b> ${selectedYear}</p>
-                        <p><b>Средни точки Математика:</b> <span style="color:#ea2027; font-weight:bold;">${munData.mat_score} т.</span></p>
+                        <p><b>Средно точки Математика:</b> <span style="color:#ea2027; font-weight:bold;">${munData.mat_score} т.</span></p>
                         <p><b>Явили се ученици на Математика:</b> ${munData.students_math}</p>
                     `;
                 }
@@ -210,14 +210,14 @@ function updateDashboard() {
                     detailsHtml = `
                         <h3>общ. ${munNameGeo}</h3>
                         <p><b>Учебна година:</b> ${selectedYear}</p>
-                        <p><b>Средни точки БЕЛ:</b> <span style="color:#0652dd; font-weight:bold;">${munData.bel_score} т.</span></p>
+                        <p><b>Средно точки БЕЛ:</b> <span style="color:#0652dd; font-weight:bold;">${munData.bel_score} т.</span></p>
                         <p><b>Явили се ученици на БЕЛ:</b> ${munData.students_bel}</p>
                     `;
                 } else if (currentSubject === 'mat_score') {
                     detailsHtml = `
                         <h3>общ. ${munNameGeo}</h3>
                         <p><b>Учебна година:</b> ${selectedYear}</p>
-                        <p><b>Средни точки Математика:</b> <span style="color:#ea2027; font-weight:bold;">${munData.mat_score} т.</span></p>
+                        <p><b>Средно точки Математика:</b> <span style="color:#ea2027; font-weight:bold;">${munData.mat_score} т.</span></p>
                         <p><b>Явили се ученици на Математика:</b> ${munData.students_math}</p>
                     `;
                 }
